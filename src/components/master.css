@@ -1,0 +1,11 @@
+*{
+  margin:0;
+}
+html,body{
+  height: 100%;
+  overflow-x: hidden;
+}
+
+.boxShadow{
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
