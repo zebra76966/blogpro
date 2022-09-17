@@ -15,7 +15,6 @@ const Download=()=>{
     .then(data => setAllFiles(data))
   },[])
 
-
     return(
       <>
       <div className="container mt-5">

@@ -22,6 +22,7 @@ const Files=(fileDat)=>{
           <span className="my-0 lead fs-6 fw-bold px-2">Download</span><a href={"http://zebra.42web.io/downloadApi.php?file="+fileDat.fname} className="btn bg-dark btn-lg text-light rounded-circle"><i className="fs-md-1 fs-3 fa-solid fa-file-pdf"></i></a>
         </div>
       </div>
+      
   );
 }
 
