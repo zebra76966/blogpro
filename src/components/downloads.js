@@ -10,12 +10,9 @@ const Download=()=>{
   const [allFiles, setAllFiles] = useState([])
   useEffect(()=>{
     console.log("useeffect ran")
-    // fetch("https://zebra.42web.io/api.php",{mode:cors})
-    // .then((response)=>response.json())
-    // .then(data => setAllFiles(data))
-    const response = fetch('https://zebra.42web.io/api.php', {mode:'cors'});
-    const data = response.json();
-    setAllFiles(data);
+    fetch("https://zebra.42web.io/api.php",{mode:'cors'})
+    .then((response)=>response.json())
+    .then(data => setAllFiles(data))
   },[])
 
     return(
