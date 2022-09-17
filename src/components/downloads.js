@@ -13,8 +13,8 @@ const Download=()=>{
     // fetch("https://zebra.42web.io/api.php",{mode:cors})
     // .then((response)=>response.json())
     // .then(data => setAllFiles(data))
-    const response = await fetch('https://zebra.42web.io/api.php', {mode:'cors'});
-    const data = await response.json();
+    const response = fetch('https://zebra.42web.io/api.php', {mode:'cors'});
+    const data = response.json();
     setAllFiles(data);
   },[])
 
