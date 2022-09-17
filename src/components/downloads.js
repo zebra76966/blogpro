@@ -13,16 +13,16 @@ const Download=()=>{
     // fetch("http://svsdcardgen.42web.io")
     // .then((response)=>response.json())
     // .then(data => setAllFiles(data))
-    // Axios.get('https://zebra.42web.io')
-    // .then(response=>response)
-    // .then(data=> setAllFiles(data.data));
-    var xmlhttp = new XMLHttpRequest();
-      xmlhttp.onload = function() {
-        let datarr=JSON.parse(xmlhttp.responseText);
-        setAllFiles(datarr);
-      }
-    xmlhttp.open('POST',`https://zebra.42web.io/api.php`);
-    xmlhttp.send();
+    Axios.post("https://zebra.42web.io/api.php")
+    .then(response=>response)
+    .then(data=> setAllFiles(data.data));
+    // var xmlhttp = new XMLHttpRequest();
+    //   xmlhttp.onload = function() {
+    //     let datarr=JSON.parse(xmlhttp.responseText);
+    //     setAllFiles(datarr);
+    //   }
+    // xmlhttp.open('POST',`https://zebra.42web.io/api.php`);
+    // xmlhttp.send();
   },[])
 
     return(
