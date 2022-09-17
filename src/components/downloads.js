@@ -10,7 +10,7 @@ const Download=()=>{
   const [allFiles, setAllFiles] = useState([])
   useEffect(()=>{
     console.log("useeffect ran")
-    fetch("http://localhost:8080/api/")
+    fetch("http://zebra.42web.io/api.php")
     .then((response)=>response.json())
     .then(data => setAllFiles(data))
   },[])
