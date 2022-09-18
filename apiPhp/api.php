@@ -1,6 +1,18 @@
 <?php
 header('Access-Control-Allow-Origin: *');
-// echo 'connected';
+if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
+    header('Access-Control-Allow-Origin: *');
+    header('Access-Control-Allow-Methods: POST, GET, DELETE, PUT, PATCH, OPTIONS');
+    header('Access-Control-Allow-Headers: token, Content-Type');
+    header('Access-Control-Max-Age: 1728000');
+    header('Content-Length: 0');
+    header('Content-Type: text/plain');
+    die();
+}
+
+header('Access-Control-Allow-Origin: *');
+header('Content-Type: application/json');
+echo 'connected';
 $localhost = 'sql102.epizy.com';
 $user = 'epiz_26606400';
 $pass = 'eDue62fM8p9Eg';
@@ -19,6 +31,7 @@ else{
     $fsql=mysqli_query($conn,$sql);
     $resdata=mysqli_fetch_all($fsql,MYSQLI_ASSOC);
     echo json_encode($resdata);
+    echo "lol";
     header("HTTP/1.1 200 OK");
   } else {
     echo "Error: " . $sql . "<br>" . mysqli_error($conn);

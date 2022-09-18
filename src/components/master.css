@@ -9,3 +9,9 @@ html,body{
 .boxShadow{
   box-shadow: 0 0 10px rgba(0,0,0,0.2);
 }
+
+.spinner{
+  aspect-ratio:1/1;
+  height:20%;
+  z-index: 99;
+}
