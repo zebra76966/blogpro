@@ -14,7 +14,7 @@ const Header=()=>{
         <div className="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
           <ul className="navbar-nav">
             <li className="nav-item">
-              <Link to="/" className="nav-link active" aria-current="page">Home</Link>
+              <Link to="/" className="nav-link" aria-current="page">Home</Link>
             </li>
             <li className="nav-item px-lg-5">
               <Link to="/downloads" className="nav-link">Downloads</Link>

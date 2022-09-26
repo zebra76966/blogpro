@@ -31,6 +31,8 @@ const Download=()=>{
           fname={ini.filename}
           batch={ini.batch}
           key={ini.id}
+          date={ini.Udate}
+          uname={ini.name}
           />
         )}
 
@@ -40,6 +42,8 @@ const Download=()=>{
           fname={ini.filename}
           batch={ini.batch}
           key={ini.id}
+          date={ini.Udate}
+          uname={ini.name}
           />
         )}
       </div>

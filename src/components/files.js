@@ -1,4 +1,5 @@
 import React from 'react';
+import "./master.css";
 const imgFit={
   height:"50px",
   width:"50px",
@@ -7,7 +8,15 @@ const imgFit={
 }
 const Files=(fileDat)=>{
   return(
-      <div className="boxShadow d-flex justify-content-between my-3 py-2 px-0 align-items-center align-middle rounded-pill row" key={fileDat.id}>
+    <div className="row my-4">
+      <div className="d-flex justify-content-between">
+        <p className="fw-light m-0"><span className="d-md-inline d-none">Uploaded </span> By: {fileDat.uname}
+        <i className="fa-solid fa-star anim px-2"></i></p>
+        <figcaption className="blockquote-footer m-0 text-end">
+          <cite title="Source Title">{fileDat.date}</cite>
+        </figcaption>
+      </div>
+      <div className="boxShadow d-flex justify-content-between py-2 px-0 align-items-center align-middle rounded-pill row" key={fileDat.id}>
         <div className="col-md-2 col-1 d-flex justify-content-between">
           <img src="logo192.png" className="" style={imgFit}/><div className="vr"></div>
         </div>
@@ -21,6 +30,7 @@ const Files=(fileDat)=>{
           <span className="my-0 lead fs-6 fw-bold px-2">Download</span><a href={"https://zebra.42web.io/downloadApi.php?file="+fileDat.fname} className="btn bg-dark btn-lg text-light rounded-circle"><i className="fa-solid fa-file-pdf"></i></a>
         </div>
       </div>
+    </div>
   );
 }
 
