@@ -23,10 +23,12 @@ const handlesubmit=(e)=>{
   let formData = new FormData();    //formdata object
   if(udata.course.length==""||udata.batch.length==""){
     setTresponse('Feilds are Unchanged');
+      setIsloading(False);
     return;
   }
   else if(e.target.FileUp.files[0].type!=="application/pdf"){
     setTresponse('Only PDF file format is supported');
+      setIsloading(false);
     return;
   }
   FD.append('batchName',udata.batch);
