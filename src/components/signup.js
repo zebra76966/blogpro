@@ -22,7 +22,7 @@ const handlesubmit=(e)=>{
   FD.append('uname',udata.uname);
   FD.append('uemail',udata.uemail);
   FD.append('upw',udata.pw);    //append the values with key, value pair
-  console.log([...FD.entries()]);
+  // console.log([...FD.entries()]);
   // FD.append('age', 20);
 
   const config = {
@@ -31,12 +31,10 @@ const handlesubmit=(e)=>{
 
   Axios.post("https://zebra.42web.io/apiSignup.php", FD, config)
       .then(response => {
-          console.log(response);
           setResponse(response.data);
           setUdata({uname:'',uemail:'',pw:''});
         })
       .catch(error => {
-          console.log(error);
           setResponse(error.message);
       });
 }

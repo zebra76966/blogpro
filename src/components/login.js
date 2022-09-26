@@ -20,7 +20,6 @@ const handlesubmit=(e)=>{
 
   FD.append('uemail',udata.uemail);
   FD.append('upw',udata.pw);    //append the values with key, value pair
-  console.log([...FD.entries()]);
   // FD.append('age', 20);
   const config = {
       headers: { 'content-type': 'multipart/form-data' }
@@ -28,14 +27,11 @@ const handlesubmit=(e)=>{
   setTresponse('');
   Axios.post("https://zebra.42web.io/apiPhp/myFiles/apiSignIn.php", FD, config)
       .then(response => {
-          console.log(response);
           typeof response.data=="string"?setTresponse(response.data):setResponse(response.data);
           response.length!==0&&setCookie('uToken', response.data.token, { path: '/' });
-          console.log(cookies.uToken);
           setUdata({uemail:'',pw:''});
         })
       .catch(error => {
-          console.log(error);
           setResponse(error.message);
       });
 }
