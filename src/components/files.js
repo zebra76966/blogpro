@@ -1,13 +1,26 @@
 import React from 'react';
 import "./master.css";
+import {motion} from "framer-motion";
+
 const imgFit={
   height:"50px",
   width:"50px",
   borderRadius:"100%",
   objectFit:"cover"
 }
+
 const Files=(fileDat)=>{
   return(
+    <motion.div
+    initial={{transform:"rotateX(90deg)"}}
+    animate={{transform:"rotateX(0deg)"}}
+    transition={{
+      type: "spring",
+      stiffness: 200,
+      delay: 0,
+      duration: 0.5,}
+   }
+    >
     <div className="row my-4">
       <div className="d-flex justify-content-between">
         <p className="fw-light m-0"><span className="d-md-inline d-none">Uploaded </span> By: {fileDat.uname}
@@ -31,6 +44,7 @@ const Files=(fileDat)=>{
         </div>
       </div>
     </div>
+    </motion.div>
   );
 }
 

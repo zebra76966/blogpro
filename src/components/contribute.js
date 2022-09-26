@@ -6,6 +6,7 @@ import Login from './login';
 import AddFiles from './addfile'
 import { useCookies } from 'react-cookie';
 import { useLocation } from 'react-router-dom';
+import {motion} from "framer-motion";
 import Axios from 'axios';
 
 const Contribute=()=>{
@@ -19,14 +20,13 @@ const [cookies, setCookie, removeCookie] = useCookies(['uToken']);
 const [tokenres, setTokenres]=useState('');
   useEffect(()=>{
     setIsloading(true);
-    console.log("Accessed from contribute: "+cookies.uToken)
+
     if(cookies.uToken!==undefined){
 
     Axios.post("https://zebra.42web.io/apiPhp/myFiles/verify.php?token="+cookies.uToken)
           .then(response=> {
             setIsloading(false)
             // response.data=="ok"?setVerified(true):setVerified(false);
-            console.log(response.data.token);
             if(response.data.token!==undefined){
               setCookie('uToken', response.data.token, { path: '/' });
               setVerified(true);
@@ -37,7 +37,6 @@ const [tokenres, setTokenres]=useState('');
             }})
           .catch(error=>{
             setIsloading(false)
-            console.log(error);
           })
     }
 
@@ -50,17 +49,16 @@ const [tokenres, setTokenres]=useState('');
 
 const [elog, setElog]=useState(false)
   return(
-    <>
-
+  <>
     {isLoading&&<div className='position-absolute top-50 start-50 translate-middle'
       style={{backgroundColor:"rgba(0,0,0,0.5)",height:"100%",width:"100%",zIndex:'98'}}>
         <img src='dogcur.gif' className='spinner display-1 position-absolute top-50 start-50 translate-middle'/>
       </div>}
-      {console.log(isverified)}
-      {console.log(location.state)}
-    {(!isverified&&!location.state||!isverified&&check=="Login")&&<Login/>}
-    {!isverified&&check=="SignUp"&&<SignUp/>}
-    {isverified&&<AddFiles udata={setUserupdata} logout={setVerified}/>}
+
+        {(!isverified&&!location.state||!isverified&&check=="Login")&&<Login/>}
+        {!isverified&&check=="SignUp"&&<SignUp/>}
+        {isverified&&<AddFiles udata={setUserupdata} logout={setVerified}/>}
+
 
       {userUpdata.length!==0&&<div className="container">
         <h3 className="display-6 fw-bold text-center mt-5 my-2">Files Uploaded By You</h3>
@@ -73,7 +71,7 @@ const [elog, setElog]=useState(false)
         />
         )}
       </div>}
-    </>
+  </>
   );
 }
 export default Contribute;

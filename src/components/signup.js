@@ -2,7 +2,7 @@ import React from 'react';
 import {useState, useEffect} from 'react';
 import Axios from 'axios';
 import {Outlet, Link} from 'react-router-dom';
-
+import {motion} from "framer-motion";
 const SignUp=()=>{
 
 const [response, setResponse]= useState('');
@@ -40,6 +40,16 @@ const handlesubmit=(e)=>{
 }
 
   return(
+    <motion.div className="card" style={{background:"transparent", border:"none"}}
+      initial={{top:"-100%"}}
+      animate={{top:"auto"}}
+      transition={{
+        type: "spring",
+        stiffness: 100,
+        delay: 0,
+        duration: 0.5,}
+     }
+     >
     <div className="d-flex h-100 align-items-center justify-content-center">
 
       <form id="uform" onSubmit={handlesubmit} className="row g-3 col-11 col-md-5 p-4 my-5 text-light rounded" style={{background:"#36393f"}}>
@@ -81,7 +91,7 @@ const handlesubmit=(e)=>{
       </form>
 
     </div>
-
+    </motion.div>
   )
 }
 export default SignUp;
