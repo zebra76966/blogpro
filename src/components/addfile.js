@@ -23,7 +23,7 @@ const handlesubmit=(e)=>{
   let formData = new FormData();    //formdata object
   if(udata.course.length==""||udata.batch.length==""){
     setTresponse('Feilds are Unchanged');
-      setIsloading(False);
+      setIsloading(false);
     return;
   }
   else if(e.target.FileUp.files[0].type!=="application/pdf"){
