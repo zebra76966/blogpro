@@ -13,13 +13,16 @@ const Header=()=>{
         </button>
         <div className="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
           <ul className="navbar-nav">
-            <li className="nav-item">
+            <li className="nav-item px-lg-3">
               <Link to="/" className="nav-link" aria-current="page">Home</Link>
             </li>
-            <li className="nav-item px-lg-5">
+            <li className="nav-item px-lg-3">
               <Link to="/downloads" className="nav-link">Downloads</Link>
             </li>
-            <li className="nav-item">
+            <li className="nav-item px-lg-3">
+              <Link to="/blog/default" className="nav-link">Blog</Link>
+            </li>
+            <li className="nav-item px-lg-3">
               <Link to="/contribute" className="nav-link">Contribute</Link>
             </li>
           </ul>

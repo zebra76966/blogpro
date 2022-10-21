@@ -6,6 +6,8 @@ import {motion} from "framer-motion";
 import toast, { Toaster } from 'react-hot-toast';
 
 const AddFiles=(props)=>{
+document.title="ExamWiz-AddFiles"
+
 const [tresponse, setTresponse]= useState('');
 const [response, setResponse] =useState('');
 const [cookies, setCookie, removeCookie] = useCookies(['uToken']);

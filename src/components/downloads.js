@@ -7,6 +7,8 @@ import Axios from 'axios';
 import toast, { Toaster } from 'react-hot-toast';
 
 const Download=()=>{
+  document.title="ExamWiz-Downloads"
+
   const oneload=useRef(true);
   const location = useLocation();
   const { grade } =location.state==null?"all":location.state;

@@ -5,6 +5,8 @@ import {Outlet, Link} from 'react-router-dom';
 import {motion} from "framer-motion";
 const SignUp=()=>{
 
+document.title="ExamWiz-Blog"
+
 const [response, setResponse]= useState('');
 
 const [udata, setUdata]=useState({

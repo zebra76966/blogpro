@@ -6,6 +6,8 @@ import {Outlet, Link} from 'react-router-dom';
 import {motion} from "framer-motion";
 const Login=()=>{
 
+document.title="ExamWiz-Login"
+
 const [cookies, setCookie, removeCookie] = useCookies(['uToken']);
 const [response, setResponse]= useState([]);
 const [tresponse, setTresponse]= useState('');

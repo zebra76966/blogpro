@@ -19,6 +19,8 @@ const bshad={
 
 
 const Main=()=>{
+  document.title="ExamWiz-Zebcorp"
+
   const [greetGif, setGreetgif]= useState([]);
 
   useEffect(()=>{
@@ -30,7 +32,13 @@ const Main=()=>{
 
   return(
     <div className="container mt-5 px-4 overflow-hidden">
-
+      <header className="text-center">
+        <h1 className="display-3">Welcome! <span className="text-danger">❤</span></h1>
+        <p className="lead">Download old Bachelors of Computer Applications question papers Here!</p>
+        <p className="text-info">If you want to contribute simply go to contribute tab.</p>
+      </header>
+      <hr/>
+    <main>
       <div className="row justify-content-around">
 
       <motion.div className="card col-12 col-lg-5 my-3 p-0 rounded" style={bshad}
@@ -151,8 +159,17 @@ const Main=()=>{
         </motion.div>
 
       </div>
+      <article>
+        <p className="fw-light my-5 display-6 text-center">Check out our blog. We have articles from students about programming, algorithms, technology and more!</p> 
+      </article>
+    </main>
+    <footer>
+    <hr className="my-5"/>
+      <p className="py-5 text-lead text-center">Created by @zeb_corp with <span className="text-danger">❤</span></p>
+    </footer>
       <Outlet/>
     </div>
+
 
 
   );
