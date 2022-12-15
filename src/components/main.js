@@ -50,7 +50,6 @@ const Main=()=>{
            delay: 0,
            duration: 0.5,}
        }
-        // exit={{left:"-100%"}}
       >
         <img src={greetGif.length!==0?greetGif.data[Math.floor(Math.random() * 50)].images.downsized.url:"logo512.png"} className="card-img-top img-fluid" style={imgFit} alt="..."/>
         <div className="card-body bg-dark text-light">
@@ -70,7 +69,6 @@ const Main=()=>{
              delay: 0.5,
              duration: 0.5,}
          }
-          // exit={{right:"-100%"}}
         >
           <img src={greetGif.length!==0?greetGif.data[Math.floor(Math.random() * 50)].images.downsized.url:"logo512.png"} className="card-img-top img-fluid" style={imgFit} alt="..."/>
           <div className="card-body bg-dark text-light">
@@ -90,7 +88,6 @@ const Main=()=>{
              delay: 0.1,
              duration: 0.5,}
            }
-          // exit={{left:"-100%"}}
         >
           <img src={greetGif.length!==0?greetGif.data[Math.floor(Math.random() * 50)].images.downsized.url:"logo512.png"} className="card-img-top img-fluid" style={imgFit} alt="..."/>
           <div className="card-body bg-dark text-light">
@@ -109,7 +106,6 @@ const Main=()=>{
              delay: 0.6,
              duration: 0.5,}
          }
-          // exit={{right:"-100%"}}
         >
           <img src={greetGif.length!==0?greetGif.data[Math.floor(Math.random() * 50)].images.downsized.url:"logo512.png"} className="card-img-top img-fluid" style={imgFit} alt="..."/>
           <div className="card-body bg-dark text-light">
@@ -129,7 +125,6 @@ const Main=()=>{
              delay: 0.3,
              duration: 0.5,}
          }
-          // exit={{left:"-100%"}}
         >
           <img src={greetGif.length!==0?greetGif.data[Math.floor(Math.random() * 50)].images.downsized.url:"logo512.png"} className="card-img-top img-fluid" style={imgFit} alt="..."/>
           <div className="card-body bg-dark text-light">
@@ -148,7 +143,6 @@ const Main=()=>{
              delay: 0.7,
              duration: 0.5,}
          }
-          // exit={{right:"-100%"}}
         >
           <img src={greetGif.length!==0?greetGif.data[Math.floor(Math.random() * 50)].images.downsized.url:"logo512.png"} className="card-img-top img-fluid" style={imgFit} alt="..."/>
           <div className="card-body bg-dark text-light">
@@ -160,7 +154,7 @@ const Main=()=>{
 
       </div>
       <article>
-        <p className="fw-light my-5 display-6 text-center">Check out our blog. We have articles from students about programming, algorithms, technology and more!</p> 
+        <p className="fw-light my-5 display-6 text-center">Check out our blog. We have articles from students about programming, algorithms, technology and more!</p>
       </article>
     </main>
     <footer>
