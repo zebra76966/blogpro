@@ -154,8 +154,7 @@ const Main=()=>{
 
       </div>
       <article>
-        <p className="fw-light my-5 display-6 text-center">Check out our blog. We have articles from students about programming, algorithms, technology and more!.
-          We are also working on to exapand on our features.</p>
+        <p className="fw-light my-5 display-6 text-center">Check out our blog. We have articles from students about programming, algorithms, technology and more!</p>
       </article>
     </main>
     <footer>
@@ -166,4 +165,5 @@ const Main=()=>{
     </div>
   );
 }
+
 export default Main;
