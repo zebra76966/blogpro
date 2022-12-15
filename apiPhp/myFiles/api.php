@@ -13,10 +13,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
 header('Access-Control-Allow-Origin: *');
 header('Content-Type: application/json');
 echo 'connected';
-$localhost = 'sql102.epizy.com';
-$user = 'epiz_26606400';
-$pass = 'eDue62fM8p9Eg';
-$db = 'epiz_26606400_apiFiles';
+$localhost='localhost';
+$user='id20016792_epiz_26606400';
+$pass='R6u+GX|-Bu+0_6gW';
+$db='id20016792_epiz_26606400_apifiles';
 
 $conn = mysqli_connect($localhost, $user, $pass);
 $db = mysqli_select_db($conn, $db);

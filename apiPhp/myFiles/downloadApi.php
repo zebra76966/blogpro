@@ -1,6 +1,6 @@
 <?php
 
-$remoteURL = 'apiFiles/'.$_GET['file'];
+$remoteURL = 'apiFiles/'.strlen($_GET['file']);
 
 // Force download
 header("Content-type: application/x-file-to-save");

@@ -2,7 +2,9 @@
 header("Access-Control-Allow-Origin: *");
 header("Acess-Control-Allow-Origin: *");
 
-require '/home/vol9_7/epizy.com/epiz_26606400/htdocs/apiPhp/myFiles/jwt.php';
+require '/storage/ssd3/792/20016792/public_html/apiPhp/myFiles/jwt.php';
+  use Firebase\JWT\JWT;
+  use Firebase\JWT\Key;
 //Replace this with SHA256 OR 512
 
 if($_GET['token']){
@@ -11,7 +13,7 @@ if($_GET['token']){
       $deco=(array)JWT::decode($uToken, new Key($privateKey, 'HS256'));
       $exp=$deco['exp'];
       if($exp<=time()){
-        echo "Expired" ;
+        echo "Expired";
       }
       else{
         $rToken=auth($deco['umail']);

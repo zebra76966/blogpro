@@ -1,7 +1,6 @@
 <?php
-header("Access-Control-Allow-Origin: *");
-header("Acess-Control-Allow-Origin: *");
-require 'jwt.php';
+header("Access-Control-Allow-Origin:*");
+require '/storage/ssd3/792/20016792/public_html/apiPhp/myFiles/jwt.php';
 use Firebase\JWT\JWT;
 use Firebase\JWT\Key;
 
@@ -15,10 +14,10 @@ if($_GET['token']){
       }
 // INSERT TO DB START=======>
       else{
-          $localhost = 'sql102.epizy.com';
-          $user = 'epiz_26606400';
-          $pass = 'eDue62fM8p9Eg';
-          $db = 'epiz_26606400_apiFiles';
+        $localhost='localhost';
+        $user='id20016792_epiz_26606400';
+        $pass='R6u+GX|-Bu+0_6gW';
+        $db='id20016792_epiz_26606400_apifiles';
 
           $conn = mysqli_connect($localhost, $user, $pass);
           $db = mysqli_select_db($conn, $db);
@@ -51,7 +50,7 @@ if($_GET['token']){
                 $sql = "INSERT INTO userdata(name,course,batch,filename,Udate) VALUES('$username', '$course','$batch','$filename','$cTime')";
                 if (mysqli_query($conn, $sql)) {
                   move_uploaded_file($file_tmp_name, $filepath);
-                  $fsql=mysqli_query($conn,"SELECT * FROM userdata WHERE name='$username'");
+                  $fsql=mysqli_query($conn,"SELECT * FROM userdata WHERE name='$username' ORDER BY Udate DESC");
                   $resdata=mysqli_fetch_all($fsql,MYSQLI_ASSOC);
                   $data=array(
                     'statusText' => "File Uploaded Successfully!",

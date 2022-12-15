@@ -1,14 +1,15 @@
 <?php
 
-  header('Access-Control-Allow-Origin: *');
+  header("Access-Control-Allow-Origin: *");
+  header("Access-Control-Allow-Headers: *");
 
-  if($_SERVER['HTTP_ORIGIN']=='http://localhost:3000'){
+  if($_SERVER['HTTP_ORIGIN']=='https://blogpro-sooty.vercel.app'){
   header("HTTP/1.1 200 OK");
-  require 'jwt.php';
-  $localhost = 'sql102.epizy.com';
-  $user = 'epiz_26606400';
-  $pass = 'eDue62fM8p9Eg';
-  $db = 'epiz_26606400_apiFiles';
+  require '/storage/ssd3/792/20016792/public_html/apiPhp/myFiles/jwt.php';
+  $localhost='localhost';
+  $user='id20016792_epiz_26606400';
+  $pass='R6u+GX|-Bu+0_6gW';
+  $db='id20016792_epiz_26606400_apifiles';
 
   $conn = mysqli_connect($localhost, $user, $pass);
   $db = mysqli_select_db($conn, $db);
@@ -17,7 +18,7 @@
     exit();
   }
   // SIGNIN AND AUTH/token
-  if(strlen($_POST['upw'])!=0||strlen($_POST['email'])!=0){
+  if(strlen($_POST['upw'])!=0||strlen($_POST['uemail'])!=0){
 
   $email=mysqli_real_escape_string($conn,$_POST['uemail']);
   $pass=hash('sha256',mysqli_real_escape_string($conn,$_POST['upw']));
