@@ -36,7 +36,7 @@ else{
 
     <HelmetProvider>
       <Helmet>
-      <title>Horizontal Pixel Span - BlogPro</title>
+      <title>{document.title=useParams().id}</title>
         <meta name="description"
           content="Horizontal Pixel Span alogrithm also known as Scanline Seed Fill algorithm. Non-recursive, optimal, faster, compare to Flood-Fill and Boundary-Fill algorithms. Also has advantages of both the Scanline algorithm and the seed fill algorithms."
         />

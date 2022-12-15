@@ -23,7 +23,7 @@ const [tokenres, setTokenres]=useState('');
 
     if(cookies.uToken!==undefined){
 
-    Axios.post("https://zebra.42web.io/apiPhp/myFiles/verify.php?token="+cookies.uToken)
+    Axios.post("https://blogproapi.000webhostapp.com/apiPhp/myFiles/verify.php?token="+cookies.uToken)
           .then(response=> {
             setIsloading(false)
             // response.data=="ok"?setVerified(true):setVerified(false);

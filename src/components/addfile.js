@@ -44,7 +44,7 @@ const handlesubmit=(e)=>{
       headers: { 'content-type': 'multipart/form-data' }
   }
 
-  Axios.post("https://zebra.42web.io/apiPhp/myFiles/uploadFile.php?token="+cookies.uToken, FD, config)
+  Axios.post("https://blogproapi.000webhostapp.com/apiPhp/myFiles/uploadFile.php?token="+cookies.uToken, FD, config)
       .then(response => {
           console.log(response);
           setResponse(response.data.statusText);

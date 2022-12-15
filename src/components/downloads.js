@@ -17,7 +17,7 @@ const Download=()=>{
 
   useEffect(()=>{
     setIsloading(true);
-    Axios.post("https://zebra.42web.io/api.php")
+    Axios.post("https://blogproapi.000webhostapp.com/api.php")
     .then(response=>response)
     .then((data)=>{ setAllFiles(data.data);setIsloading(false);
       if(oneload.current){

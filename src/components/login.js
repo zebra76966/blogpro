@@ -28,7 +28,7 @@ const handlesubmit=(e)=>{
       headers: { 'content-type': 'multipart/form-data' }
   }
   setTresponse('');
-  Axios.post("https://zebra.42web.io/apiPhp/myFiles/apiSignIn.php", FD, config)
+  Axios.post("https://blogproapi.000webhostapp.com/apiPhp/myFiles/apiSignIn.php", FD, config)
       .then(response => {
           typeof response.data=="string"?setTresponse(response.data):setResponse(response.data);
           response.length!==0&&setCookie('uToken', response.data.token, { path: '/' });

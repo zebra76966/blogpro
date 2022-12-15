@@ -31,7 +31,7 @@ const handlesubmit=(e)=>{
       headers: { 'content-type': 'multipart/form-data' }
   }
 
-  Axios.post("https://zebra.42web.io/apiSignup.php", FD, config)
+  Axios.post("https://blogproapi.000webhostapp.com/apiSignup.php", FD, config)
       .then(response => {
           setResponse(response.data);
           setUdata({uname:'',uemail:'',pw:''});
