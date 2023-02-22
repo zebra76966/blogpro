@@ -92,7 +92,7 @@ const Article = (props) => {
       <hr />
       <main className="container my-5 fs-5">
         <RichEditor
-          viewState={EditorState.createWithContent(convertFromRaw(JSON.parse(localStorage.getItem("contents"))))}
+          viewState={EditorState.createWithContent(convertFromRaw(props.contents))}
           viewBox={false}
           readOnly={true}
         />

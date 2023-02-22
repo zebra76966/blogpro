@@ -26,13 +26,13 @@ class RichEditor extends React.Component {
     const contentState = editorState.getCurrentContent();
     localStorage.setItem("contents", JSON.stringify(convertToRaw(contentState)));
     // console.log(JSON.stringify(convertToRaw(contentState).blocks[0].text));
-    // let isempty = JSON.stringify(convertToRaw(contentState).blocks[0].text);
+    let isempty = JSON.stringify(convertToRaw(contentState).blocks[0].text);
 
-    // if (isempty == '""') {
-    //   this.props.onChange("null");
-    // } else if (isempty.length > 1) {
-    this.props.onChange(convertToRaw(contentState));
-    // }
+    if (isempty == '""') {
+      this.props.onChange("null");
+    } else if (isempty.length > 1) {
+      this.props.onChange(convertToRaw(contentState));
+    }
 
     const newState = RichUtils.handleKeyCommand(editorState, command);
     if (newState) {
