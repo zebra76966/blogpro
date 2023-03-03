@@ -23,7 +23,7 @@ const HeroMain = () => {
         </a>
       </div>
       <div className="carousel-inner h-100">
-        <div className="carousel-item active h-100">
+        <div className="carousel-item active h-100" poster="8.jpg">
           <video
             muted
             loop
