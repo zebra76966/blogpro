@@ -23,10 +23,11 @@ const HeroMain = () => {
         </a>
       </div>
       <div className="carousel-inner h-100">
-        <div className="carousel-item active h-100" poster="8.jpg">
+        <div className="carousel-item active h-100">
           <video
             muted
             loop
+            poster="8.jpg"
             className="m-0"
             style={{ width: "100%", height: "100vh", opacity: "0.6", objectFit: "cover" }}
             autoplay="true"
