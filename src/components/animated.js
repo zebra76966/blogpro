@@ -16,7 +16,7 @@ const AnimRoutes = () => {
           <Route index element={<Main />} />
           <Route path="/downloads" element={<Download />} />
           <Route path="/contribute" element={<Contribute />} />
-          <Route path="/blog/:id" element={<Blog />} />
+          <Route path="/blog/:id/:title" element={<Blog />} />
         </Route>
       </Routes>
     </AnimatePresence>

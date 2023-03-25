@@ -23,25 +23,13 @@ const ArticleDefault = () => {
           <button className="shareBtn" id="toggler">
             <i className="fa-solid fa-share"></i>
           </button>
-          <a
-            className="btn shareBtn fs-3"
-            href="https://www.facebook.com/sharer/sharer.php?u=https://blogpro-sooty.vercel.app/blog/horizontal-pixel-span"
-            id="a"
-          >
+          <a className="btn shareBtn fs-3" href="https://www.facebook.com/sharer/sharer.php?u=https://blogpro-sooty.vercel.app/blog/horizontal-pixel-span" id="a">
             <i className="fa-brands fa-facebook"></i>
           </a>
-          <a
-            className="btn shareBtn fs-3"
-            href="https://www.linkedin.com/sharing/share-offsite/?url=https://blogpro-sooty.vercel.app/blog/horizontal-pixel-span"
-            id="b"
-          >
+          <a className="btn shareBtn fs-3" href="https://www.linkedin.com/sharing/share-offsite/?url=https://blogpro-sooty.vercel.app/blog/horizontal-pixel-span" id="b">
             <i className="fa-brands fa-linkedin"></i>
           </a>
-          <a
-            className="btn shareBtn fs-3"
-            href="http://twitter.com/share?text=Horizontal Pixel Span Algorithm &url=https://blogpro-sooty.vercel.app/blog/horizontal-pixel-span"
-            id="c"
-          >
+          <a className="btn shareBtn fs-3" href="http://twitter.com/share?text=Horizontal Pixel Span Algorithm &url=https://blogpro-sooty.vercel.app/blog/horizontal-pixel-span" id="c">
             <i className="fa-brands fa-twitter"></i>
           </a>
         </div>
@@ -61,7 +49,7 @@ const ArticleDefault = () => {
 
       <HelmetProvider>
         <Helmet>
-          <title>{(document.title = useParams().id)}</title>
+          <title>{(document.title = useParams().title)}</title>
           <meta
             name="description"
             content="Horizontal Pixel Span alogrithm also known as Scanline Seed Fill algorithm. Non-recursive, optimal, faster, compare to Flood-Fill and Boundary-Fill algorithms. Also has advantages of both the Scanline algorithm and the seed fill algorithms."
@@ -82,10 +70,7 @@ const ArticleDefault = () => {
           <a className="btn fs-5 rounded-pill btn-outline-info" href="https://www.instagram.com/zeb_corp/">
             <i className="fa-brands fa-instagram"></i>
           </a>
-          <a
-            className="btn fs-5 rounded-pill btn-outline-info"
-            href="https://www.linkedin.com/in/rohit-sharma-3341a9206/"
-          >
+          <a className="btn fs-5 rounded-pill btn-outline-info" href="https://www.linkedin.com/in/rohit-sharma-3341a9206/">
             <i className="fa-brands fa-linkedin"></i>
           </a>
         </div>
@@ -95,20 +80,14 @@ const ArticleDefault = () => {
       </header>
       <hr />
       <main className="container my-5 fs-5">
+        <p className="my-3">Finally you found it!!! Congrats🥳. It was difficult. But hey, now you are here and let me guide you.</p>
         <p className="my-3">
-          Finally you found it!!! Congrats🥳. It was difficult. But hey, now you are here and let me guide you.
-        </p>
-        <p className="my-3">
-          So, Horizontal Pixel Span alogrithm also known as Scanline Seed Fill algorithm. Non-recursive, optimal,
-          faster, compare to Flood-Fill and Boundary-Fill algorithms. Also has advantages of both the Scanline algorithm
-          and the seed fill algorithms. Now, don't get it confused by Scan Fill algorithm they may sound same but the
-          aproaches are quite different.
+          So, Horizontal Pixel Span alogrithm also known as Scanline Seed Fill algorithm. Non-recursive, optimal, faster, compare to Flood-Fill and Boundary-Fill algorithms. Also has advantages of
+          both the Scanline algorithm and the seed fill algorithms. Now, don't get it confused by Scan Fill algorithm they may sound same but the aproaches are quite different.
         </p>
         <p className="my-4">Algorithm can be broken down in these following steps</p>
         <ul className="list-group list-group-numbered my-4 ms-5 align-center boxShadow" style={{ width: "90%" }}>
-          <li className="list-group-item list-group-item-info">
-            Pass a seed to the scanline fill algorithm. Your (x, y) coordintes.
-          </li>
+          <li className="list-group-item list-group-item-info">Pass a seed to the scanline fill algorithm. Your (x, y) coordintes.</li>
           <li className="list-group-item">Find the left endpoint of the span and push (x, y) it onto the stack.</li>
           <li className="list-group-item list-group-item-info">Loop Until Stack or array is Empty</li>
         </ul>
@@ -117,36 +96,16 @@ const ArticleDefault = () => {
         <div className="row my-4 ms-md-5">
           <div className="col-5">
             <div className="list-group list-group-numbered" id="list-tab" role="tablist">
-              <a
-                className="list-group-item list-group-item-info list-group-item-action active"
-                id="list-home-list"
-                data-bs-toggle="list"
-                href="#list-home"
-              >
+              <a className="list-group-item list-group-item-info list-group-item-action active" id="list-home-list" data-bs-toggle="list" href="#list-home">
                 Pop off the top element on the stack.
               </a>
-              <a
-                className="list-group-item list-group-item-info list-group-item-action"
-                id="list-profile-list"
-                data-bs-toggle="list"
-                href="#list-profile"
-              >
+              <a className="list-group-item list-group-item-info list-group-item-action" id="list-profile-list" data-bs-toggle="list" href="#list-profile">
                 Finding the right end of current element.
               </a>
-              <a
-                className="list-group-item list-group-item-info list-group-item-action"
-                id="list-messages-list"
-                data-bs-toggle="list"
-                href="#list-messages"
-              >
+              <a className="list-group-item list-group-item-info list-group-item-action" id="list-messages-list" data-bs-toggle="list" href="#list-messages">
                 Check above and bottom for spans.
               </a>
-              <a
-                className="list-group-item list-group-item-info list-group-item-action"
-                id="list-settings-list"
-                data-bs-toggle="list"
-                href="#list-settings"
-              >
+              <a className="list-group-item list-group-item-info list-group-item-action" id="list-settings-list" data-bs-toggle="list" href="#list-settings">
                 Plotting pixels and Ending Loop.
               </a>
             </div>
@@ -154,28 +113,19 @@ const ArticleDefault = () => {
 
           <div className="col-7 bg-dark text-light p-3 rounded boxShadow">
             <div className="tab-content" id="nav-tabContent">
-              <div
-                className="tab-pane fade show active"
-                id="list-home"
-                role="tabpanel"
-                aria-labelledby="list-home-list"
-              >
+              <div className="tab-pane fade show active" id="list-home" role="tabpanel" aria-labelledby="list-home-list">
                 <p>
-                  Now, as we write our code in python we will not pop the i.e "stack.pop(0)" at the real begining,
-                  because if we do that we need to store the value (x,y) in a temporary variable. Instead of doing that
-                  we can simply pop the the element at the end of the loop.
+                  Now, as we write our code in python we will not pop the i.e "stack.pop(0)" at the real begining, because if we do that we need to store the value (x,y) in a temporary variable.
+                  Instead of doing that we can simply pop the the element at the end of the loop.
                 </p>
               </div>
               <div className="tab-pane fade" id="list-profile" role="tabpanel" aria-labelledby="list-profile-list">
-                <p>
-                  So, basically in here we will try to find the right most part of the current (x,y) coordinate i.e
-                  "x+1" till we hit the boundary or the boundary color.
-                </p>
+                <p>So, basically in here we will try to find the right most part of the current (x,y) coordinate i.e "x+1" till we hit the boundary or the boundary color.</p>
               </div>
               <div className="tab-pane fade" id="list-messages" role="tabpanel" aria-labelledby="list-messages-list">
                 <p>
-                  In this step we have to look for both up and down (x,y+1 and x,y-1) for any pixel spans. And push
-                  those to stack or push there left most positon to stack, which you have to do anyways.
+                  In this step we have to look for both up and down (x,y+1 and x,y-1) for any pixel spans. And push those to stack or push there left most positon to stack, which you have to do
+                  anyways.
                 </p>
               </div>
               <div className="tab-pane fade" id="list-settings" role="tabpanel" aria-labelledby="list-settings-list">
@@ -192,11 +142,9 @@ const ArticleDefault = () => {
           </div>
           <div className="col-md-6 bg-dark text-light p-4 rounded boxShadow">
             <p>
-              Here <strong>S</strong> being are seed or (x,y) point will be sent to the function where we will or the
-              function that we wrote will find the left most position of the Seed. In our case it'll be{" "}
-              <strong>A</strong> and <strong>A</strong> will be pushed into to the stack. After that during our Loop we
-              will check for both up and down pixel span and send there seed(x,y) to the funtion to find there left most
-              position and push the return value to the stack
+              Here <strong>S</strong> being are seed or (x,y) point will be sent to the function where we will or the function that we wrote will find the left most position of the Seed. In our case
+              it'll be <strong>A</strong> and <strong>A</strong> will be pushed into to the stack. After that during our Loop we will check for both up and down pixel span and send there seed(x,y) to
+              the funtion to find there left most position and push the return value to the stack
             </p>
           </div>
         </div>
@@ -272,9 +220,8 @@ const ArticleDefault = () => {
               `}
           </pre>
           <p className="ms-md-5">
-            Here we are creating an polygon similar to example image. Technically two objects one a polygon shaped as
-            "H" which is inside an Rectangle. Also, we are saving it as an eps file so that it can be used by the
-            pillow.
+            Here we are creating an polygon similar to example image. Technically two objects one a polygon shaped as "H" which is inside an Rectangle. Also, we are saving it as an eps file so that it
+            can be used by the pillow.
           </p>
 
           <h4 className="display-6 mt-5">2. Creating a Function to find the left most point.</h4>
@@ -294,9 +241,8 @@ const ArticleDefault = () => {
               `}
           </pre>
           <p className="ms-md-5">
-            Now we are sending a seed(x,y) to this function to find the left most coordinate/point and return the
-            coordinate which then can be stored into the stack. You can see the full code at the link above for further
-            reference.
+            Now we are sending a seed(x,y) to this function to find the left most coordinate/point and return the coordinate which then can be stored into the stack. You can see the full code at the
+            link above for further reference.
           </p>
 
           <h4 className="display-6 mt-5">3. The Loop</h4>
@@ -338,9 +284,8 @@ const ArticleDefault = () => {
             `}
           </pre>
           <p className="ms-md-5">
-            Final part and the most important part is the loop here we are finding the right most point while plotting
-            the pixel and simultaneously checking for Horizontal pixel spans up(x, y-1) and down(x, y+1) and calling our
-            findL funtion to find there left point and push that into our stack.
+            Final part and the most important part is the loop here we are finding the right most point while plotting the pixel and simultaneously checking for Horizontal pixel spans up(x, y-1) and
+            down(x, y+1) and calling our findL funtion to find there left point and push that into our stack.
           </p>
         </article>
         <hr className="my-5" />

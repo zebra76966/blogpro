@@ -66,10 +66,7 @@ const Blog = () => {
     <>
       {console.log(blogdata)}
       {isLoading && (
-        <div
-          className="position-absolute top-50 start-50 translate-middle"
-          style={{ backgroundColor: "rgba(0,0,0,0.5)", height: "100%", width: "100%", zIndex: "98" }}
-        >
+        <div className="position-absolute top-50 start-50 translate-middle" style={{ backgroundColor: "rgba(0,0,0,0.5)", height: "100%", width: "100%", zIndex: "98" }}>
           <img src="dogcur.gif" className="spinner display-1 position-absolute top-50 start-50 translate-middle" />
         </div>
       )}
@@ -97,17 +94,16 @@ const Blog = () => {
           </div>
           <div className="bg-dark py-5 ">
             <div className="container">
-              <div className="row justify-content-between">
+              <div className="row">
                 <div className="col-12 col-md-4 my-3">
                   <div className="card boxShadow bg-dark text-light h-100">
                     <img src="../8.jpg" className="card-img-top" style={imgFit} alt="..." />
                     <div className="card-body">
                       <h5 className="card-title">Horizontal Pixel Span - Python</h5>
                       <p className="card-text text-truncate">
-                        Horizontal Pixel span also known as Seed Fill span. A topic from Computer Graphics demosstrated
-                        suing Python PIL and graphics.py module.
+                        Horizontal Pixel span also known as Seed Fill span. A topic from Computer Graphics demosstrated suing Python PIL and graphics.py module.
                       </p>
-                      <Link to="/blog/horizontal-pixel-span" className="btn btn-warning fw-bold">
+                      <Link to="/blog/def/horizontal-pixel-span" className="btn btn-warning fw-bold">
                         Read More. . .
                       </Link>
                     </div>
@@ -123,10 +119,10 @@ const Blog = () => {
         </>
       )}
 
-      {params.id == "horizontal-pixel-span" && <ArticleDefault />}
-
+      {params.id == "def" && <ArticleDefault />}
+      {console.log(params.title)}
       {blogdata.map((ini, i) => {
-        return params.id == i && <Article data={ini} id={i} />;
+        return params.id == i && params.title.replaceAll("_", " ") == ini.heading.trim() && <Article data={ini} id={i} />;
       })}
     </>
   );

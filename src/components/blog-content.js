@@ -8,7 +8,7 @@ const imgFit = {
 };
 
 const Content = (props) => {
-  var bg = "/blog/" + props.id;
+  var bg = "/blog/" + props.id + "/" + encodeURIComponent(props.data.heading.trim().replaceAll(" ", "_"));
   return (
     <>
       <div className="col-12 col-md-4 my-3">

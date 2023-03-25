@@ -33,7 +33,7 @@ const Header = () => {
                 </Link>
               </li>
               <li className="nav-item px-lg-3">
-                <Link to="/blog/default" className="nav-link">
+                <Link to="/blog/default/default" className="nav-link">
                   Blog
                 </Link>
               </li>
