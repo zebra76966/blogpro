@@ -138,7 +138,7 @@ const ArticleDefault = () => {
         <h4 className="display-6 mt-5">Visually it'll look something like this.</h4>
         <div className="row align-items-center">
           <div className="col-md-6 mt-0">
-            <img src="../hps.svg" className="img-fluid" />
+            <img src="../../hps.svg" className="img-fluid" />
           </div>
           <div className="col-md-6 bg-dark text-light p-4 rounded boxShadow">
             <p>

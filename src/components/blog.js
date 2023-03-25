@@ -85,10 +85,10 @@ const Blog = () => {
               </div>
 
               <div className="col-12 col-md-6 d-flex justify-content-end position-relative">
-                <img src="../thero.png" className="img-fluid" style={{ width: "100%", maxWidth: "350px" }} />
-                <img src="../nez.gif" className="img-fluid" style={nez} />
-                <img src="../gary.gif" className="img-fluid gar" />
-                <img src="../goku.gif" className="img-fluid gok" />
+                <img src="../../thero.png" className="img-fluid" style={{ width: "100%", maxWidth: "350px" }} />
+                <img src="../../nez.gif" className="img-fluid" style={nez} />
+                <img src="../../gary.gif" className="img-fluid gar" />
+                <img src="../../goku.gif" className="img-fluid gok" />
               </div>
             </div>
           </div>
@@ -97,7 +97,7 @@ const Blog = () => {
               <div className="row">
                 <div className="col-12 col-md-4 my-3">
                   <div className="card boxShadow bg-dark text-light h-100">
-                    <img src="../8.jpg" className="card-img-top" style={imgFit} alt="..." />
+                    <img src="../../8.jpg" className="card-img-top" style={imgFit} alt="..." />
                     <div className="card-body">
                       <h5 className="card-title">Horizontal Pixel Span - Python</h5>
                       <p className="card-text text-truncate">
