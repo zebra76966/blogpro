@@ -1,109 +1,6 @@
 [
-  [],
   {
-    "heading": "test2",
-    "subheading": "test2",
-    "contents": {
-      "blocks": [
-        {
-          "key": "9skj8",
-          "text": "465464646486",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "4a0et",
-          "text": "dwad",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "3t52s",
-          "text": "dwad",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "r6cs",
-          "text": "awd",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "cesbh",
-          "text": "awd",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "eeifu",
-          "text": "awd",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "8l60r",
-          "text": "wa",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "dv3cj",
-          "text": "dawddad",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "6q68a",
-          "text": "dawda",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "8r1rn",
-          "text": "dawffs",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        }
-      ],
-      "entityMap": []
-    },
-    "fb": "8468",
-    "insta": "4",
-    "linked": "9998888",
-    "author": "8646846"
-  },
-  {
+    "date": "2/22/2023",
     "heading": "Amazon Crucible: 'Can games be as fun to watch as they are to play?'",
     "bimg": "https://c.files.bbci.co.uk/E909/production/_112375695_crucible976.jpg",
     "subheading": "Lets find out.",
@@ -118,33 +15,9 @@
           "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }],
           "data": []
         },
-        {
-          "key": "1tcmo",
-          "text": "Amazon Crucible: 'Can games be as fun to watch as they are to play?'",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "49jn",
-          "text": " ",
-          "type": "atomic",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [{ "offset": 0, "length": 1, "key": 1 }],
-          "data": []
-        },
-        {
-          "key": "5aci4",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
+        { "key": "1tcmo", "text": "Amazon Crucible: 'Can games be as fun to watch as they are to play?'", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "49jn", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 1 }], "data": [] },
+        { "key": "5aci4", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
         {
           "key": "54mu8",
           "text": "Think of Amazon and last-minute deliveries, streaming box-sets and Kindles spring to mind - but not necessarily making video games.",
@@ -172,15 +45,7 @@
           "entityRanges": [],
           "data": []
         },
-        {
-          "key": "6b7nq",
-          "text": "\"Ultimately the players will get to decide whether or not we succeed.\"",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
+        { "key": "6b7nq", "text": "\"Ultimately the players will get to decide whether or not we succeed.\"", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
         {
           "key": "c3sa3",
           "text": "\"We're pleased with the feedback on early play-tests, but ultimately we don't know how good it is until it gets out there.\"",
@@ -208,51 +73,11 @@
           "entityRanges": [],
           "data": []
         },
-        {
-          "key": "83utb",
-          "text": "\"We're really looking forward to getting it out the door.\"",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "d3rmc",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "7blin",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "467do",
-          "text": " ",
-          "type": "atomic",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [{ "offset": 0, "length": 1, "key": 2 }],
-          "data": []
-        },
-        {
-          "key": "2d2ld",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
+        { "key": "83utb", "text": "\"We're really looking forward to getting it out the door.\"", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "d3rmc", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "7blin", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "467do", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 2 }], "data": [] },
+        { "key": "2d2ld", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
         {
           "key": "6k5qd",
           "text": "\ud83d\udcf7IMAGE SOURCE,AMAZON GAME STUDIOImage caption,Amazon Game Studios hope their titles, like Crucible, will resonate with streamers on Twitch",
@@ -307,15 +132,7 @@
           "entityRanges": [],
           "data": []
         },
-        {
-          "key": "4up60",
-          "text": "'It's like writing a new book every single week'",
-          "type": "header-two",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
+        { "key": "4up60", "text": "'It's like writing a new book every single week'", "type": "header-two", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
         {
           "key": "424se",
           "text": "With Fortnite recently announcing it has more than 350 million registered users, there's a big financial incentive to get more involved in game development.",
@@ -343,51 +160,11 @@
           "entityRanges": [],
           "data": []
         },
-        {
-          "key": "gcdm",
-          "text": "\"If the game's not fun, none of our long term ideas make a difference.\"",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "8d7ee",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "7msuf",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "epkou",
-          "text": " ",
-          "type": "atomic",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [{ "offset": 0, "length": 1, "key": 6 }],
-          "data": []
-        },
-        {
-          "key": "f729j",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
+        { "key": "gcdm", "text": "\"If the game's not fun, none of our long term ideas make a difference.\"", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "8d7ee", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "7msuf", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "epkou", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 6 }], "data": [] },
+        { "key": "f729j", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
         {
           "key": "5ah3c",
           "text": "\ud83d\udcf7IMAGE SOURCE,AMAZON GAME STUDIOImage caption,Crucible will try to compete with the hugely popular hero shooting game Overwatch",
@@ -424,42 +201,10 @@
           "entityRanges": [],
           "data": []
         },
-        {
-          "key": "egdo6",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "eo3kh",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "4h4hh",
-          "text": " ",
-          "type": "atomic",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [{ "offset": 0, "length": 1, "key": 8 }],
-          "data": []
-        },
-        {
-          "key": "1dqq9",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
+        { "key": "egdo6", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "eo3kh", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "4h4hh", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 8 }], "data": [] },
+        { "key": "1dqq9", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
         {
           "key": "a1c50",
           "text": "\ud83d\udcf7IMAGE SOURCE,AMAZON GAME STUDIOImage caption,The Coronavirus pandemic has impacted upon the release of Crucible and delayed another of Amazon Game Studios planned releases",
@@ -496,15 +241,7 @@
           "entityRanges": [],
           "data": []
         },
-        {
-          "key": "39jf0",
-          "text": "\"That's what makes sport so much fun, as you play with others.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
+        { "key": "39jf0", "text": "\"That's what makes sport so much fun, as you play with others.", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
         {
           "key": "b1c3s",
           "text": "\"I think that's what helps create games that are re-playable, and it resonates well in Twitch too, so we're trying to explore those frontiers.\"",
@@ -514,15 +251,7 @@
           "entityRanges": [],
           "data": []
         },
-        {
-          "key": "dv3gl",
-          "text": "'Trying to earn respect'",
-          "type": "header-two",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
+        { "key": "dv3gl", "text": "'Trying to earn respect'", "type": "header-two", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
         {
           "key": "65rtr",
           "text": "The coronavirus pandemic has affected how the studio has been able to promote Crucible and delayed another title it's working on - an online multiplayer game called New World.",
@@ -532,15 +261,7 @@
           "entityRanges": [],
           "data": []
         },
-        {
-          "key": "desju",
-          "text": "But despite the difficulties and frustrations, there are some positives.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
+        { "key": "desju", "text": "But despite the difficulties and frustrations, there are some positives.", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
         {
           "key": "4nc37",
           "text": "\"One of the reasons I've always loved games is not only is it a fun form of entertainment, but it's a way to connect with others,\" says Mike.",
@@ -568,42 +289,10 @@
           "entityRanges": [],
           "data": []
         },
-        {
-          "key": "cgjp4",
-          "text": "\"This is the starting line not isn't the finish line,\" he adds.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "5bje4",
-          "text": "\"We're trying to earn respect from players.\"",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "10ute",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "83ul7",
-          "text": "That's it folks",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        }
+        { "key": "cgjp4", "text": "\"This is the starting line not isn't the finish line,\" he adds.", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "5bje4", "text": "\"We're trying to earn respect from players.\"", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "10ute", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "83ul7", "text": "That's it folks", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] }
       ],
       "entityMap": [
         {
@@ -616,73 +305,26 @@
             "width": "976"
           }
         },
-        {
-          "type": "image",
-          "mutability": "IMMUTABLE",
-          "data": {
-            "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/13729/production/_112375697_1331db7a-17c0-4401-8cac-6a2309ff49b6.jpg.webp"
-          }
-        },
-        {
-          "type": "image",
-          "mutability": "IMMUTABLE",
-          "data": { "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/45CB/production/_112376871_crucible5.jpg.webp" }
-        },
+        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/13729/production/_112375697_1331db7a-17c0-4401-8cac-6a2309ff49b6.jpg.webp" } },
+        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/45CB/production/_112376871_crucible5.jpg.webp" } },
         {
           "type": "IMAGE",
           "mutability": "IMMUTABLE",
-          "data": {
-            "alt": "Crucible character",
-            "height": "549",
-            "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/45CB/production/_112376871_crucible5.jpg",
-            "width": "976"
-          }
+          "data": { "alt": "Crucible character", "height": "549", "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/45CB/production/_112376871_crucible5.jpg", "width": "976" }
         },
-        {
-          "type": "LINK",
-          "mutability": "MUTABLE",
-          "data": {
-            "href": "https://www.bbc.co.uk/news/technology-28930781",
-            "url": "https://www.bbc.co.uk/news/technology-28930781"
-          }
-        },
-        {
-          "type": "LINK",
-          "mutability": "MUTABLE",
-          "data": {
-            "href": "https://www.bbc.co.uk/news/technology-52568173",
-            "url": "https://www.bbc.co.uk/news/technology-52568173"
-          }
-        },
-        {
-          "type": "image",
-          "mutability": "IMMUTABLE",
-          "data": { "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/93EB/production/_112376873_crucible6.jpg.webp" }
-        },
+        { "type": "LINK", "mutability": "MUTABLE", "data": { "href": "https://www.bbc.co.uk/news/technology-28930781", "url": "https://www.bbc.co.uk/news/technology-28930781" } },
+        { "type": "LINK", "mutability": "MUTABLE", "data": { "href": "https://www.bbc.co.uk/news/technology-52568173", "url": "https://www.bbc.co.uk/news/technology-52568173" } },
+        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/93EB/production/_112376873_crucible6.jpg.webp" } },
         {
           "type": "IMAGE",
           "mutability": "IMMUTABLE",
-          "data": {
-            "alt": "Crucible screenshot",
-            "height": "549",
-            "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/93EB/production/_112376873_crucible6.jpg",
-            "width": "976"
-          }
+          "data": { "alt": "Crucible screenshot", "height": "549", "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/93EB/production/_112376873_crucible6.jpg", "width": "976" }
         },
-        {
-          "type": "image",
-          "mutability": "IMMUTABLE",
-          "data": { "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/E20B/production/_112376875_crucible2.jpg.webp" }
-        },
+        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/E20B/production/_112376875_crucible2.jpg.webp" } },
         {
           "type": "IMAGE",
           "mutability": "IMMUTABLE",
-          "data": {
-            "alt": "Crucible screenshot",
-            "height": "549",
-            "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/E20B/production/_112376875_crucible2.jpg",
-            "width": "976"
-          }
+          "data": { "alt": "Crucible screenshot", "height": "549", "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/E20B/production/_112376875_crucible2.jpg", "width": "976" }
         },
         {
           "type": "LINK",
@@ -705,9 +347,11 @@
     "fb": "https://facebook.com",
     "insta": "https://instagram.com",
     "linked": "https://linkedin.com",
-    "author": "Steffan Powell"
+    "author": "Steffan Powell",
+    "tags": "games, videogames, PCgames, computer, playstation, ps5, ps4, rpg, fantasy"
   },
   {
+    "date": "2/22/2023",
     "heading": "Amazon Crucible: 'Can games be as fun to watch as they are to play?'",
     "bimg": "https://www.cnet.com/a/img/resize/4e6ea51dc1b8b19590da296475a027cd9937fa1f/hub/2022/08/24/26896c8a-94a9-486f-81e8-d3e379b2aeac/fortnite.jpg?auto=webp&fit=crop&height=675&width=1200",
     "subheading": "Lets find out.",
@@ -722,33 +366,9 @@
           "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }],
           "data": []
         },
-        {
-          "key": "1tcmo",
-          "text": "Amazon Crucible: 'Can games be as fun to watch as they are to play?'",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "49jn",
-          "text": " ",
-          "type": "atomic",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [{ "offset": 0, "length": 1, "key": 1 }],
-          "data": []
-        },
-        {
-          "key": "5aci4",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
+        { "key": "1tcmo", "text": "Amazon Crucible: 'Can games be as fun to watch as they are to play?'", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "49jn", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 1 }], "data": [] },
+        { "key": "5aci4", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
         {
           "key": "54mu8",
           "text": "Think of Amazon and last-minute deliveries, streaming box-sets and Kindles spring to mind - but not necessarily making video games.",
@@ -776,15 +396,7 @@
           "entityRanges": [],
           "data": []
         },
-        {
-          "key": "6b7nq",
-          "text": "\"Ultimately the players will get to decide whether or not we succeed.\"",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
+        { "key": "6b7nq", "text": "\"Ultimately the players will get to decide whether or not we succeed.\"", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
         {
           "key": "c3sa3",
           "text": "\"We're pleased with the feedback on early play-tests, but ultimately we don't know how good it is until it gets out there.\"",
@@ -812,51 +424,11 @@
           "entityRanges": [],
           "data": []
         },
-        {
-          "key": "83utb",
-          "text": "\"We're really looking forward to getting it out the door.\"",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "d3rmc",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "7blin",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "467do",
-          "text": " ",
-          "type": "atomic",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [{ "offset": 0, "length": 1, "key": 2 }],
-          "data": []
-        },
-        {
-          "key": "2d2ld",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
+        { "key": "83utb", "text": "\"We're really looking forward to getting it out the door.\"", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "d3rmc", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "7blin", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "467do", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 2 }], "data": [] },
+        { "key": "2d2ld", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
         {
           "key": "6k5qd",
           "text": "\ud83d\udcf7IMAGE SOURCE,AMAZON GAME STUDIOImage caption,Amazon Game Studios hope their titles, like Crucible, will resonate with streamers on Twitch",
@@ -911,15 +483,7 @@
           "entityRanges": [],
           "data": []
         },
-        {
-          "key": "4up60",
-          "text": "'It's like writing a new book every single week'",
-          "type": "header-two",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
+        { "key": "4up60", "text": "'It's like writing a new book every single week'", "type": "header-two", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
         {
           "key": "424se",
           "text": "With Fortnite recently announcing it has more than 350 million registered users, there's a big financial incentive to get more involved in game development.",
@@ -947,51 +511,11 @@
           "entityRanges": [],
           "data": []
         },
-        {
-          "key": "gcdm",
-          "text": "\"If the game's not fun, none of our long term ideas make a difference.\"",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "8d7ee",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "7msuf",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "epkou",
-          "text": " ",
-          "type": "atomic",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [{ "offset": 0, "length": 1, "key": 6 }],
-          "data": []
-        },
-        {
-          "key": "f729j",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
+        { "key": "gcdm", "text": "\"If the game's not fun, none of our long term ideas make a difference.\"", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "8d7ee", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "7msuf", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "epkou", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 6 }], "data": [] },
+        { "key": "f729j", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
         {
           "key": "5ah3c",
           "text": "\ud83d\udcf7IMAGE SOURCE,AMAZON GAME STUDIOImage caption,Crucible will try to compete with the hugely popular hero shooting game Overwatch",
@@ -1028,42 +552,10 @@
           "entityRanges": [],
           "data": []
         },
-        {
-          "key": "egdo6",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "eo3kh",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "4h4hh",
-          "text": " ",
-          "type": "atomic",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [{ "offset": 0, "length": 1, "key": 8 }],
-          "data": []
-        },
-        {
-          "key": "1dqq9",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
+        { "key": "egdo6", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "eo3kh", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "4h4hh", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 8 }], "data": [] },
+        { "key": "1dqq9", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
         {
           "key": "a1c50",
           "text": "\ud83d\udcf7IMAGE SOURCE,AMAZON GAME STUDIOImage caption,The Coronavirus pandemic has impacted upon the release of Crucible and delayed another of Amazon Game Studios planned releases",
@@ -1100,15 +592,7 @@
           "entityRanges": [],
           "data": []
         },
-        {
-          "key": "39jf0",
-          "text": "\"That's what makes sport so much fun, as you play with others.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
+        { "key": "39jf0", "text": "\"That's what makes sport so much fun, as you play with others.", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
         {
           "key": "b1c3s",
           "text": "\"I think that's what helps create games that are re-playable, and it resonates well in Twitch too, so we're trying to explore those frontiers.\"",
@@ -1118,15 +602,7 @@
           "entityRanges": [],
           "data": []
         },
-        {
-          "key": "dv3gl",
-          "text": "'Trying to earn respect'",
-          "type": "header-two",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
+        { "key": "dv3gl", "text": "'Trying to earn respect'", "type": "header-two", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
         {
           "key": "65rtr",
           "text": "The coronavirus pandemic has affected how the studio has been able to promote Crucible and delayed another title it's working on - an online multiplayer game called New World.",
@@ -1136,15 +612,7 @@
           "entityRanges": [],
           "data": []
         },
-        {
-          "key": "desju",
-          "text": "But despite the difficulties and frustrations, there are some positives.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
+        { "key": "desju", "text": "But despite the difficulties and frustrations, there are some positives.", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
         {
           "key": "4nc37",
           "text": "\"One of the reasons I've always loved games is not only is it a fun form of entertainment, but it's a way to connect with others,\" says Mike.",
@@ -1172,42 +640,10 @@
           "entityRanges": [],
           "data": []
         },
-        {
-          "key": "cgjp4",
-          "text": "\"This is the starting line not isn't the finish line,\" he adds.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "5bje4",
-          "text": "\"We're trying to earn respect from players.\"",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "10ute",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "83ul7",
-          "text": "That's it folks",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        }
+        { "key": "cgjp4", "text": "\"This is the starting line not isn't the finish line,\" he adds.", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "5bje4", "text": "\"We're trying to earn respect from players.\"", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "10ute", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "83ul7", "text": "That's it folks", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] }
       ],
       "entityMap": [
         {
@@ -1220,73 +656,26 @@
             "width": "976"
           }
         },
-        {
-          "type": "image",
-          "mutability": "IMMUTABLE",
-          "data": {
-            "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/13729/production/_112375697_1331db7a-17c0-4401-8cac-6a2309ff49b6.jpg.webp"
-          }
-        },
-        {
-          "type": "image",
-          "mutability": "IMMUTABLE",
-          "data": { "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/45CB/production/_112376871_crucible5.jpg.webp" }
-        },
+        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/13729/production/_112375697_1331db7a-17c0-4401-8cac-6a2309ff49b6.jpg.webp" } },
+        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/45CB/production/_112376871_crucible5.jpg.webp" } },
         {
           "type": "IMAGE",
           "mutability": "IMMUTABLE",
-          "data": {
-            "alt": "Crucible character",
-            "height": "549",
-            "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/45CB/production/_112376871_crucible5.jpg",
-            "width": "976"
-          }
+          "data": { "alt": "Crucible character", "height": "549", "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/45CB/production/_112376871_crucible5.jpg", "width": "976" }
         },
-        {
-          "type": "LINK",
-          "mutability": "MUTABLE",
-          "data": {
-            "href": "https://www.bbc.co.uk/news/technology-28930781",
-            "url": "https://www.bbc.co.uk/news/technology-28930781"
-          }
-        },
-        {
-          "type": "LINK",
-          "mutability": "MUTABLE",
-          "data": {
-            "href": "https://www.bbc.co.uk/news/technology-52568173",
-            "url": "https://www.bbc.co.uk/news/technology-52568173"
-          }
-        },
-        {
-          "type": "image",
-          "mutability": "IMMUTABLE",
-          "data": { "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/93EB/production/_112376873_crucible6.jpg.webp" }
-        },
+        { "type": "LINK", "mutability": "MUTABLE", "data": { "href": "https://www.bbc.co.uk/news/technology-28930781", "url": "https://www.bbc.co.uk/news/technology-28930781" } },
+        { "type": "LINK", "mutability": "MUTABLE", "data": { "href": "https://www.bbc.co.uk/news/technology-52568173", "url": "https://www.bbc.co.uk/news/technology-52568173" } },
+        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/93EB/production/_112376873_crucible6.jpg.webp" } },
         {
           "type": "IMAGE",
           "mutability": "IMMUTABLE",
-          "data": {
-            "alt": "Crucible screenshot",
-            "height": "549",
-            "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/93EB/production/_112376873_crucible6.jpg",
-            "width": "976"
-          }
+          "data": { "alt": "Crucible screenshot", "height": "549", "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/93EB/production/_112376873_crucible6.jpg", "width": "976" }
         },
-        {
-          "type": "image",
-          "mutability": "IMMUTABLE",
-          "data": { "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/E20B/production/_112376875_crucible2.jpg.webp" }
-        },
+        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/E20B/production/_112376875_crucible2.jpg.webp" } },
         {
           "type": "IMAGE",
           "mutability": "IMMUTABLE",
-          "data": {
-            "alt": "Crucible screenshot",
-            "height": "549",
-            "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/E20B/production/_112376875_crucible2.jpg",
-            "width": "976"
-          }
+          "data": { "alt": "Crucible screenshot", "height": "549", "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/E20B/production/_112376875_crucible2.jpg", "width": "976" }
         },
         {
           "type": "LINK",
@@ -1309,9 +698,11 @@
     "fb": "https://facebook.com",
     "insta": "https://instagram.com",
     "linked": "https://linkedin.com",
-    "author": "Steffan Powell"
+    "author": "Steffan Powell",
+    "tags": "games, videogames, PCgames, computer, playstation, ps5, ps4, rpg, fantasy"
   },
   {
+    "date": "2/22/2023",
     "heading": "Best New Gen Legacy ",
     "bimg": "https://www.91-cdn.com/hub/wp-content/uploads/2021/12/ar88u.jpg",
     "subheading": "Lets find out.",
@@ -1326,33 +717,9 @@
           "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }],
           "data": []
         },
-        {
-          "key": "1tcmo",
-          "text": "Amazon Crucible: 'Can games be as fun to watch as they are to play?'",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "49jn",
-          "text": " ",
-          "type": "atomic",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [{ "offset": 0, "length": 1, "key": 1 }],
-          "data": []
-        },
-        {
-          "key": "5aci4",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
+        { "key": "1tcmo", "text": "Amazon Crucible: 'Can games be as fun to watch as they are to play?'", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "49jn", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 1 }], "data": [] },
+        { "key": "5aci4", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
         {
           "key": "54mu8",
           "text": "Think of Amazon and last-minute deliveries, streaming box-sets and Kindles spring to mind - but not necessarily making video games.",
@@ -1380,15 +747,7 @@
           "entityRanges": [],
           "data": []
         },
-        {
-          "key": "6b7nq",
-          "text": "\"Ultimately the players will get to decide whether or not we succeed.\"",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
+        { "key": "6b7nq", "text": "\"Ultimately the players will get to decide whether or not we succeed.\"", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
         {
           "key": "c3sa3",
           "text": "\"We're pleased with the feedback on early play-tests, but ultimately we don't know how good it is until it gets out there.\"",
@@ -1416,51 +775,11 @@
           "entityRanges": [],
           "data": []
         },
-        {
-          "key": "83utb",
-          "text": "\"We're really looking forward to getting it out the door.\"",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "d3rmc",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "7blin",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "467do",
-          "text": " ",
-          "type": "atomic",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [{ "offset": 0, "length": 1, "key": 2 }],
-          "data": []
-        },
-        {
-          "key": "2d2ld",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
+        { "key": "83utb", "text": "\"We're really looking forward to getting it out the door.\"", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "d3rmc", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "7blin", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "467do", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 2 }], "data": [] },
+        { "key": "2d2ld", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
         {
           "key": "6k5qd",
           "text": "\ud83d\udcf7IMAGE SOURCE,AMAZON GAME STUDIOImage caption,Amazon Game Studios hope their titles, like Crucible, will resonate with streamers on Twitch",
@@ -1515,15 +834,7 @@
           "entityRanges": [],
           "data": []
         },
-        {
-          "key": "4up60",
-          "text": "'It's like writing a new book every single week'",
-          "type": "header-two",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
+        { "key": "4up60", "text": "'It's like writing a new book every single week'", "type": "header-two", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
         {
           "key": "424se",
           "text": "With Fortnite recently announcing it has more than 350 million registered users, there's a big financial incentive to get more involved in game development.",
@@ -1551,51 +862,11 @@
           "entityRanges": [],
           "data": []
         },
-        {
-          "key": "gcdm",
-          "text": "\"If the game's not fun, none of our long term ideas make a difference.\"",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "8d7ee",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "7msuf",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "epkou",
-          "text": " ",
-          "type": "atomic",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [{ "offset": 0, "length": 1, "key": 6 }],
-          "data": []
-        },
-        {
-          "key": "f729j",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
+        { "key": "gcdm", "text": "\"If the game's not fun, none of our long term ideas make a difference.\"", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "8d7ee", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "7msuf", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "epkou", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 6 }], "data": [] },
+        { "key": "f729j", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
         {
           "key": "5ah3c",
           "text": "\ud83d\udcf7IMAGE SOURCE,AMAZON GAME STUDIOImage caption,Crucible will try to compete with the hugely popular hero shooting game Overwatch",
@@ -1632,42 +903,10 @@
           "entityRanges": [],
           "data": []
         },
-        {
-          "key": "egdo6",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "eo3kh",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "4h4hh",
-          "text": " ",
-          "type": "atomic",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [{ "offset": 0, "length": 1, "key": 8 }],
-          "data": []
-        },
-        {
-          "key": "1dqq9",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
+        { "key": "egdo6", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "eo3kh", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "4h4hh", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 8 }], "data": [] },
+        { "key": "1dqq9", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
         {
           "key": "a1c50",
           "text": "\ud83d\udcf7IMAGE SOURCE,AMAZON GAME STUDIOImage caption,The Coronavirus pandemic has impacted upon the release of Crucible and delayed another of Amazon Game Studios planned releases",
@@ -1704,15 +943,7 @@
           "entityRanges": [],
           "data": []
         },
-        {
-          "key": "39jf0",
-          "text": "\"That's what makes sport so much fun, as you play with others.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
+        { "key": "39jf0", "text": "\"That's what makes sport so much fun, as you play with others.", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
         {
           "key": "b1c3s",
           "text": "\"I think that's what helps create games that are re-playable, and it resonates well in Twitch too, so we're trying to explore those frontiers.\"",
@@ -1722,15 +953,7 @@
           "entityRanges": [],
           "data": []
         },
-        {
-          "key": "dv3gl",
-          "text": "'Trying to earn respect'",
-          "type": "header-two",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
+        { "key": "dv3gl", "text": "'Trying to earn respect'", "type": "header-two", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
         {
           "key": "65rtr",
           "text": "The coronavirus pandemic has affected how the studio has been able to promote Crucible and delayed another title it's working on - an online multiplayer game called New World.",
@@ -1740,15 +963,7 @@
           "entityRanges": [],
           "data": []
         },
-        {
-          "key": "desju",
-          "text": "But despite the difficulties and frustrations, there are some positives.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
+        { "key": "desju", "text": "But despite the difficulties and frustrations, there are some positives.", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
         {
           "key": "4nc37",
           "text": "\"One of the reasons I've always loved games is not only is it a fun form of entertainment, but it's a way to connect with others,\" says Mike.",
@@ -1776,42 +991,10 @@
           "entityRanges": [],
           "data": []
         },
-        {
-          "key": "cgjp4",
-          "text": "\"This is the starting line not isn't the finish line,\" he adds.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "5bje4",
-          "text": "\"We're trying to earn respect from players.\"",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "10ute",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "83ul7",
-          "text": "That's it folks",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        }
+        { "key": "cgjp4", "text": "\"This is the starting line not isn't the finish line,\" he adds.", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "5bje4", "text": "\"We're trying to earn respect from players.\"", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "10ute", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "83ul7", "text": "That's it folks", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] }
       ],
       "entityMap": [
         {
@@ -1824,73 +1007,26 @@
             "width": "976"
           }
         },
-        {
-          "type": "image",
-          "mutability": "IMMUTABLE",
-          "data": {
-            "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/13729/production/_112375697_1331db7a-17c0-4401-8cac-6a2309ff49b6.jpg.webp"
-          }
-        },
-        {
-          "type": "image",
-          "mutability": "IMMUTABLE",
-          "data": { "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/45CB/production/_112376871_crucible5.jpg.webp" }
-        },
+        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/13729/production/_112375697_1331db7a-17c0-4401-8cac-6a2309ff49b6.jpg.webp" } },
+        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/45CB/production/_112376871_crucible5.jpg.webp" } },
         {
           "type": "IMAGE",
           "mutability": "IMMUTABLE",
-          "data": {
-            "alt": "Crucible character",
-            "height": "549",
-            "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/45CB/production/_112376871_crucible5.jpg",
-            "width": "976"
-          }
+          "data": { "alt": "Crucible character", "height": "549", "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/45CB/production/_112376871_crucible5.jpg", "width": "976" }
         },
-        {
-          "type": "LINK",
-          "mutability": "MUTABLE",
-          "data": {
-            "href": "https://www.bbc.co.uk/news/technology-28930781",
-            "url": "https://www.bbc.co.uk/news/technology-28930781"
-          }
-        },
-        {
-          "type": "LINK",
-          "mutability": "MUTABLE",
-          "data": {
-            "href": "https://www.bbc.co.uk/news/technology-52568173",
-            "url": "https://www.bbc.co.uk/news/technology-52568173"
-          }
-        },
-        {
-          "type": "image",
-          "mutability": "IMMUTABLE",
-          "data": { "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/93EB/production/_112376873_crucible6.jpg.webp" }
-        },
+        { "type": "LINK", "mutability": "MUTABLE", "data": { "href": "https://www.bbc.co.uk/news/technology-28930781", "url": "https://www.bbc.co.uk/news/technology-28930781" } },
+        { "type": "LINK", "mutability": "MUTABLE", "data": { "href": "https://www.bbc.co.uk/news/technology-52568173", "url": "https://www.bbc.co.uk/news/technology-52568173" } },
+        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/93EB/production/_112376873_crucible6.jpg.webp" } },
         {
           "type": "IMAGE",
           "mutability": "IMMUTABLE",
-          "data": {
-            "alt": "Crucible screenshot",
-            "height": "549",
-            "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/93EB/production/_112376873_crucible6.jpg",
-            "width": "976"
-          }
+          "data": { "alt": "Crucible screenshot", "height": "549", "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/93EB/production/_112376873_crucible6.jpg", "width": "976" }
         },
-        {
-          "type": "image",
-          "mutability": "IMMUTABLE",
-          "data": { "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/E20B/production/_112376875_crucible2.jpg.webp" }
-        },
+        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/E20B/production/_112376875_crucible2.jpg.webp" } },
         {
           "type": "IMAGE",
           "mutability": "IMMUTABLE",
-          "data": {
-            "alt": "Crucible screenshot",
-            "height": "549",
-            "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/E20B/production/_112376875_crucible2.jpg",
-            "width": "976"
-          }
+          "data": { "alt": "Crucible screenshot", "height": "549", "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/E20B/production/_112376875_crucible2.jpg", "width": "976" }
         },
         {
           "type": "LINK",
@@ -1913,6 +1049,349 @@
     "fb": "https://facebook.com",
     "insta": "https://instagram.com",
     "linked": "https://linkedin.com",
-    "author": "zebra"
+    "author": "zebra",
+    "tags": "hardware, powersupply, PC, computer, diy"
+  },
+  {
+    "heading": "How to fix the anoying grinding or buzzing in PSU.",
+    "bimg": "https://www.technewstoday.com/wp-content/uploads/2022/07/stop-psu-buzzing.jpg",
+    "subheading": "Lets try to fix this.",
+    "contents": {
+      "blocks": [
+        {
+          "key": "dqq66",
+          "text": "In this post I'll explain how to fix the anoying grinding or buzzing sound coming from your computers power supply.",
+          "type": "header-five",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 0, "length": 115, "style": "BOLD" }],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "ah6bg",
+          "text": "Let's get straight to the topic of how we fix the buzzing sound or the vibrating sound coming from your PSU especially during startup and during cold weather. So you might have already checked on forums and the only solution u got is to BUY A NEW PSU! and you probably thinking of buying a new PSU. Before that why not try to fix it. Ok so first be careful if you are not good with handling tools (screwdriver) or you have so-called sausage fingers try to get someone to help you. This helped me and might help you too just give it a try",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "9lsln",
+          "text": "Follows these steps as follow :-",
+          "type": "header-five",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 0, "length": 32, "style": "BOLD" }],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "9g1ff",
+          "text": "Carefully open your cabinet from the side from where you can access your PSU.",
+          "type": "unordered-list-item",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "8ute9",
+          "text": "Carefully take a screwdriver and unscrew the PSU from the cabinet.",
+          "type": "unordered-list-item",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "2ruq0",
+          "text": "Open your PSU again using a screwdriver. Keep in mind not to force anything, if you are unable to get a proper grab on the PSU just unplug the PSU from your motherboard and take it out of the cabinet.",
+          "type": "unordered-list-item",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        { "key": "45ea5", "text": "After opening the PSU unscrew the fan.", "type": "unordered-list-item", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "8ig7b",
+          "text": "Look on the front side of the fan and try to find a hole, most of the time it is hidden under a sticker or a small removable plastic circular cap. Open it, now you'll be able to see the shaft of the motor.",
+          "type": "unordered-list-item",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        { "key": "d1rv6", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "1gli6", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "5in1t", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }], "data": [] },
+        { "key": "5o4l9", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "dvipu", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "90gpf", "text": "You'll observe that it is lubed (or probably dried out).", "type": "unordered-list-item", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "1e0aq",
+          "text": "Now get a lubricant available in your house( recommended machine oil ).",
+          "type": "unordered-list-item",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "97nq6",
+          "text": "Put a few drops in that hole and rotate the fan using your fingers so that the oil or the lube is properly spread around that shaft. Also, don't go crazy with the lube and be very cautious of not dropping the lube on other parts of your pc like mobo or CPU.",
+          "type": "unordered-list-item",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "d6os6",
+          "text": "Close everything and try to run it. Hopefully, it'll fix the issue.",
+          "type": "unordered-list-item",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        { "key": "ahlq3", "text": "Conclusion:", "type": "header-five", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "f2178",
+          "text": "The problem occurs due to dry fan shaft and bearings and that's the reason why sometimes it gives a sound of buzzing during the startup. hopefully, I'll be able to help you",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        }
+      ],
+      "entityMap": [
+        {
+          "type": "image",
+          "mutability": "IMMUTABLE",
+          "data": {
+            "src": "data:image/jpeg;base64,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"
+          }
+        }
+      ]
+    },
+    "fb": "https://facebook.com",
+    "insta": "https://instagram.com",
+    "linked": "https://linkedin.com",
+    "author": "Rohit Sharma",
+    "date": "09/03/2023",
+    "tags": "hardware, powersupply, PC, computer, diy"
+  },
+  {
+    "heading": "Samsung Dispatches System F14 5G In India Highlighting 6000mAh Battery, 50MP Camera",
+    "bimg": "https://telecomtalk.info/wp-content/uploads/2023/03/samsung-galaxy-f14-5g-arrives-in-india.jpg",
+    "subheading": "All Subtleties",
+    "contents": {
+      "blocks": [
+        {
+          "key": "9m869",
+          "text": "Samsung Dispatches System F14 5G In India Highlighting 6000mAh Battery, 50MP Camera.  Lets check it out!",
+          "type": "header-six",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 0, "length": 104, "style": "UNDERLINE" }],
+          "entityRanges": [],
+          "data": []
+        },
+        { "key": "3fg2o", "text": "", "type": "header-six", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "f66q3", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }], "data": [] },
+        { "key": "b9mq6", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "aphc2",
+          "text": "Samsung has sent off the Universe F14 5G in India, adding to its F series portfolio in the country. The passage level cell phone gets a double camera arrangement, highlighting a 50-megapixel essential camera and a 2-megapixel large scale sensor, as well as OneUI 5.1 Center in light of Android 13. Moreover, the gadget offers a 6.6-inch IPS FHD+ show and an enormous 6000 mAh battery.",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        { "key": "93lku", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "6lgs6", "text": "SAMSUNG System F14 5G Details", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "1ajhn",
+          "text": "In the engine, the Samsung System F14 is fueled by the Exynos 1330 chipset, which depends on a 5 nm process and is accessible in two variations, one with 4GB and the other with 6GB of Slam, both contribution 128GB of implicit stockpiling. Clients can facilitate essentially extend the Slam by up to 12GB by utilizing the capacity. The 6.6-inch FHD+ IPS show accompanies an invigorate pace of 90Hz and houses a Limitlessness V score, which has a 13-megapixel selfie shooter.",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        { "key": "581jd", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "e484l",
+          "text": "On the back, the System F14 highlights a double camera arrangement \u2014 comprising of a 50-megapixel essential camera with an opening of f/1.8 and an optional 2-megapixel large scale camera. Furthermore, the cell phone gets a huge 6000mAh battery with 25W quick charging.",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        { "key": "2i0e1", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "egtjs",
+          "text": "On the product front, the System F14 5G elements One UI Center 5.1, which depends on Android 13 and is scheduled to get two significant Android operating system updates and four security refreshes. It likewise upholds 13 5G groups, and has a unique mark scanner coordinated in the power button. The gadget additionally conveys the help for Samsung Wallet \u2014 which makes computerized exchanges simpler.",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        { "key": "b50vb", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "cjvm0", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 1 }], "data": [] },
+        { "key": "2jffi", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "8nacs", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "bdn59", "text": "SAMSUNG Cosmic system F14 5G Value AND Accessibility", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "bjefd",
+          "text": "The Cosmic system F14 5G will be accessible in two models: 4GB+128GB variation estimated at Rs 14,490 and the 6GB+128GB variation valued at Rs 15,990, however clubbed with card offers, the gadget can be purchased for Rs 12,990 and Rs 14,490, separately. The gadget is accessible in three colorways \u2014 O.M.G Dark, G.O.A.T Green, B.A.E Purple. The gadget will be sold through Flipkart, select retail locations and Samsung's web-based store from Walk 30.",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        }
+      ],
+      "entityMap": [
+        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-f/f14-5g/sec_01_d.jpg?$ORIGIN_JPG$" } },
+        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-f/f14-5g/sec_02_d_v1.jpg?$ORIGIN_JPG$" } }
+      ]
+    },
+    "fb": "https://www.facebook.com/zebcorp76/",
+    "insta": "https://www.instagram.com/zeb_corp/",
+    "linked": "https://www.instagram.com/zeb_corp/",
+    "author": "zebcorp",
+    "tags": "Samsung Galaxy F14 5G, dual camera setup, 50-megapixel primary camera, 2-megapixel macro sensor, OneUI 5.1, Android 13, 6.6-inch IPS FHD+ display, 6000 mAh battery, Exynos 1330 chipset",
+    "date": "26/03/2023"
+  },
+  {
+    "heading": "Microsoft to impede man-made intelligence rivals",
+    "bimg": "https://s.yimg.com/uu/api/res/1.2/TakyolyqjkBkr_rP5XZkKw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/97407f20-a742-11ed-bdd3-1ed4d6b800f8.cf.jpg",
+    "subheading": "from utilizing Bing search Index",
+    "contents": {
+      "blocks": [
+        {
+          "key": "dnbut",
+          "text": "The organization purportedly told two anonymous Bing-controlled web search tools that they can't involve the list as reason for their own man-made intelligence chatbots.",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        { "key": "bo6ec", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "2f982", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "ab7u1", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }], "data": [] },
+        { "key": "cc04g", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "6n0ou", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "8lps5",
+          "text": "Microsoft has supposedly cautioned two web crawlers that utilization Bing's pursuit list that it will remove admittance to the record in the event that they use it as an establishment for rival artificial intelligence chatbots.",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        { "key": "bif4o", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "dbdgv",
+          "text": "As indicated by The Edge, Microsoft licenses out the Bing search record to a few motors including DuckDuckGo, Hurray and that's only the tip of the iceberg.",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        { "key": "88s8p", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "9h389",
+          "text": "Bloomberg has announced that Microsoft has cautioned two anonymous web search tools that they can't utilize the list to take care of information to their computer based intelligence chatbots. On the off chance that they keep on doing as such, Microsoft might try and end their permit.",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        { "key": "2jldm", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "3tcc9",
+          "text": "While it isn't clear which web indexes have been cautioned, DuckDuckGo presented its own GPT-based chatbot recently.",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        { "key": "3366g", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] }
+      ],
+      "entityMap": [
+        {
+          "type": "image",
+          "mutability": "IMMUTABLE",
+          "data": {
+            "src": "https://s.yimg.com/uu/api/res/1.2/TakyolyqjkBkr_rP5XZkKw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/97407f20-a742-11ed-bdd3-1ed4d6b800f8.cf.jpg"
+          }
+        }
+      ]
+    },
+    "fb": "https://www.facebook.com/zebcorp76/",
+    "insta": "https://www.instagram.com/zeb_corp/",
+    "linked": "https://linkedin.com",
+    "author": "Rohit Sharma",
+    "tags": "microsoft ai, bing ai, artificial intelligence, ai, openai, open ai, chat gpt, ai chatbot",
+    "date": "3/26/2023"
+  },
+  {
+    "heading": "Garena Free Fire MAX Recover Codes",
+    "bimg": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202202/untitled_design_6-sixteen_nine.png",
+    "subheading": " How to Win Jewels and Gifts on 26 Walk 2023",
+    "contents": {
+      "blocks": [
+        {
+          "key": "dnbut",
+          "text": "Garena Free Fire MAX Recover Codes for 26 Walk: You can guarantee the dynamic codes for Sunday from reward.ff.garena.com.",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        { "key": "bo6ec", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "71ukt", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }], "data": [] },
+        { "key": "30e7k", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "8lps5",
+          "text": "The Garena Free Fire MAX recover codes for Sunday, 26 Walk 2023, are refreshed at 12 PM. Enlisted players need to sign in to their records on the reclamation site - reward.ff.garena.com to guarantee the recover codes and dominate free in-match things. For the individuals who don't have any idea, Garena Free Fire MAX is an experience driven multiplayer fight royale game that permits enlisted players to appreciate different advantages. Individuals with free records don't approach any codes or gifts.",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        { "key": "579jn", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "dkh7g",
+          "text": "The Garena Free Fire MAX reclaim codes for Sunday, 26 Walk, will be dynamic for a brief period so you ought to guarantee them soon from reward.ff.garena.com. You can utilize the free weapons and awards to battle against your foes in the multiplayer fight royale game. All players are encouraged to enlist themselves on the authority site in the event that they haven't as of now.",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        { "key": "3366g", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] }
+      ],
+      "entityMap": [{ "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202202/untitled_design_6-sixteen_nine.png" } }]
+    },
+    "fb": "https://www.facebook.com/zebcorp76/",
+    "insta": "https://www.instagram.com/zeb_corp/",
+    "linked": "https://linkedin.com",
+    "author": "Rohit Sharma",
+    "tags": "Garena Free Fire,Garena Free Fire MAX,Garena Free Fire MAX redeem codes,Garena Free Fire MAX redeem codes for today,Garena Free Fire MAX redeem codes for 26 March 2023,Garena Free Fire MAX redeem codes today for 26 March,reward.ff.garena.com,Garena Free Fire MAX freebies today,Garena Free Fire MAX rewards for 26 March 2023,Garena Free Fire MAX active codes today,Garena Free Fire MAX active codes for 26 March 2023,Garena Free Fire redeem codes",
+    "date": "3/26/2023"
   }
 ]

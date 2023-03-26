@@ -4,6 +4,7 @@ import { Outlet, Link } from "react-router-dom";
 import { useEffect, useState } from "react";
 import Axios from "axios";
 import { motion } from "framer-motion";
+import { Helmet, HelmetProvider } from "react-helmet-async";
 import HeroMain from "./hero";
 import SemCard from "./semcard";
 const imgFit = {
@@ -23,15 +24,20 @@ const Main = () => {
   const [currentSem, setCurrentSem] = useState("BCA");
 
   useEffect(() => {
-    Axios.get(
-      "https://api.giphy.com/v1/gifs/search?api_key=3MWBMpOdbY9zSTN836gICsnEI5jUh5r0&q=computer&limit=50&offset=0&rating=g&lang=en"
-    )
+    Axios.get("https://api.giphy.com/v1/gifs/search?api_key=3MWBMpOdbY9zSTN836gICsnEI5jUh5r0&q=computer&limit=50&offset=0&rating=g&lang=en")
       .then((response) => response)
       .then((data) => setGreetgif(data.data));
   }, []);
 
   return (
     <div className="bgGradientDark">
+      <HelmetProvider>
+        <Helmet>
+          <title>ExamWiz-ZebCorp</title>
+          <meta name="description" content="HUB for Old Question Papers" />
+          <meta name="keywords" content="HPU, Shimla, PDFs, downloads, pdf, zebcorp, Himachal-Pradesh-University, BCA, MCA, BBA, BSC, latest, New, repeated, Old, Question Papers, Exams" />
+        </Helmet>
+      </HelmetProvider>
       <HeroMain />
       <div className="container mt-5 px-4 overflow-hidden " id="main">
         <header className="text-center">
@@ -46,28 +52,16 @@ const Main = () => {
           <div className="row">
             <div className="col-lg-3 col-12">
               <div className="sideButtons">
-                <button
-                  className={`btn  fw-bold ${currentSem == "BCA" ? "btn-info" : "btn-dark"}`}
-                  onClick={() => setCurrentSem("BCA")}
-                >
+                <button className={`btn  fw-bold ${currentSem == "BCA" ? "btn-info" : "btn-dark"}`} onClick={() => setCurrentSem("BCA")}>
                   BCA
                 </button>
-                <button
-                  className={`btn  fw-bold ${currentSem == "BBA" ? "btn-info" : "btn-dark"}`}
-                  onClick={() => setCurrentSem("BBA")}
-                >
+                <button className={`btn  fw-bold ${currentSem == "BBA" ? "btn-info" : "btn-dark"}`} onClick={() => setCurrentSem("BBA")}>
                   BBA
                 </button>
-                <button
-                  className={`btn  fw-bold ${currentSem == "BA" ? "btn-info" : "btn-dark"}`}
-                  onClick={() => setCurrentSem("BA")}
-                >
+                <button className={`btn  fw-bold ${currentSem == "BA" ? "btn-info" : "btn-dark"}`} onClick={() => setCurrentSem("BA")}>
                   BA
                 </button>
-                <button
-                  className={`btn  fw-bold ${currentSem == "BSC" ? "btn-info" : "btn-dark"}`}
-                  onClick={() => setCurrentSem("BSC")}
-                >
+                <button className={`btn  fw-bold ${currentSem == "BSC" ? "btn-info" : "btn-dark"}`} onClick={() => setCurrentSem("BSC")}>
                   BSC
                 </button>
               </div>
@@ -78,9 +72,7 @@ const Main = () => {
           </div>
 
           <article>
-            <p className="fw-light my-5 display-6 text-center">
-              Check out our blog. We have articles from students about programming, algorithms, technology and more!
-            </p>
+            <p className="fw-light my-5 display-6 text-center">Check out our blog. We have articles from students about programming, algorithms, technology and more!</p>
           </article>
         </main>
         <footer>

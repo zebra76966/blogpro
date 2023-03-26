@@ -26,25 +26,13 @@ const Article = (props) => {
           <button className="shareBtn" id="toggler">
             <i className="fa-solid fa-share"></i>
           </button>
-          <a
-            className="btn shareBtn fs-3"
-            href={`https://www.facebook.com/sharer/sharer.php?u=https://blogpro-sooty.vercel.app/blog/${props.id}`}
-            id="a"
-          >
+          <a className="btn shareBtn fs-3" href={`https://www.facebook.com/sharer/sharer.php?u=https://blogpro-sooty.vercel.app/blog/${props.id}`} id="a">
             <i className="fa-brands fa-facebook"></i>
           </a>
-          <a
-            className="btn shareBtn fs-3"
-            href={`https://www.linkedin.com/sharing/share-offsite/?url=https://blogpro-sooty.vercel.app/blog/${props.id}`}
-            id="b"
-          >
+          <a className="btn shareBtn fs-3" href={`https://www.linkedin.com/sharing/share-offsite/?url=https://blogpro-sooty.vercel.app/blog/${props.id}`} id="b">
             <i className="fa-brands fa-linkedin"></i>
           </a>
-          <a
-            className="btn shareBtn fs-3"
-            href={`http://twitter.com/share?text=Horizontal Pixel Span Algorithm &url=https://blogpro-sooty.vercel.app/blog/${props.id}`}
-            id="c"
-          >
+          <a className="btn shareBtn fs-3" href={`http://twitter.com/share?text=Horizontal Pixel Span Algorithm &url=https://blogpro-sooty.vercel.app/blog/${props.id}`} id="c">
             <i className="fa-brands fa-twitter"></i>
           </a>
         </div>
@@ -66,6 +54,8 @@ const Article = (props) => {
         <Helmet>
           <title>{(document.title = props.data.heading)}</title>
           <meta name="description" content={props.data.heading} />
+          <meta name="keywords" content={props.data.tags} />
+          <meta name="news_keywords" content={props.data.tags} />
         </Helmet>
       </HelmetProvider>
       <header className="container my-5">
@@ -91,11 +81,7 @@ const Article = (props) => {
       </header>
       <hr />
       <main className="container my-5 fs-5">
-        <RichEditor
-          viewState={EditorState.createWithContent(convertFromRaw(props.data.contents))}
-          viewBox={false}
-          readOnly={true}
-        />
+        <RichEditor viewState={EditorState.createWithContent(convertFromRaw(props.data.contents))} viewBox={false} readOnly={true} />
       </main>
     </>
   );

@@ -10,7 +10,7 @@ import { Editor, EditorState, convertFromRaw, convertToRaw } from "draft-js";
 const AddBlog = (props) => {
   document.title = "ExamWiz-AddBlog";
   let currentDate = new Date(); //use your date here
-  currentDate.toLocaleDateString("en-US");
+  let cDate = currentDate.toLocaleDateString("en-US");
 
   const [tresponse, setTresponse] = useState("");
   const [response, setResponse] = useState("");
@@ -25,7 +25,8 @@ const AddBlog = (props) => {
     insta: "",
     linked: "",
     author: "",
-    date: currentDate,
+    tags: "",
+    date: cDate,
   });
 
   const handlesubmit = (e) => {
@@ -52,10 +53,7 @@ const AddBlog = (props) => {
       FD.append("data", stringDat);
       console.log([...FD.entries()]);
 
-      Axios.post(
-        `https://blogproapi.000webhostapp.com/apiPhp/myFiles/uploadFile.php?blog=1&token=` + cookies.uToken,
-        FD
-      )
+      Axios.post(`https://blogproapi.000webhostapp.com/apiPhp/myFiles/uploadFile.php?blog=1&token=` + cookies.uToken, FD)
         .then((response) => {
           console.log(response);
           // setResponse(response.data.statusText);
@@ -103,20 +101,12 @@ const AddBlog = (props) => {
       <div className="d-flex h-100 align-items-center justify-content-center">
         <Toaster />
         {isLoading && (
-          <div
-            className="position-absolute top-50 start-50 translate-middle"
-            style={{ backgroundColor: "rgba(0,0,0,0.5)", height: "100%", width: "100%", zIndex: "98" }}
-          >
+          <div className="position-absolute top-50 start-50 translate-middle" style={{ backgroundColor: "rgba(0,0,0,0.5)", height: "100%", width: "100%", zIndex: "98" }}>
             <img src="dogcur.gif" className="spinner display-1 position-absolute top-50 start-50 translate-middle" />
           </div>
         )}
 
-        <form
-          id="uform"
-          onSubmit={handlesubmit}
-          className="row g-3 w-100 ms-auto p-4 my-5 text-light rounded"
-          style={{ background: "#36393f" }}
-        >
+        <form id="uform" onSubmit={handlesubmit} className="row g-3 w-100 ms-auto p-4 my-5 text-light rounded" style={{ background: "#36393f" }}>
           <div className="d-flex justify-content-between align-items-center">
             <h3 className="fw-bold">Add Blog</h3>
             <button
@@ -209,6 +199,30 @@ const AddBlog = (props) => {
                       </span>
                     ))
                   : setUdata({ ...udata, bimg: e.target.value })
+              }
+              required
+            />
+          </div>
+          <div className="col-12">
+            <label for="bimg" className="form-label d-block">
+              Blog Tags <i className="ps-1 fs-4 text-info fw-bold">#</i>
+            </label>
+            <span className="bg-info text-white p-2 rounded w-100"> Use "," for multiple tags</span>
+
+            <input
+              type="text"
+              className="form-text bg-dark text-light border-0 p-3 w-100"
+              id="tags"
+              name="tags"
+              value={udata.tags}
+              onChange={(e) =>
+                e.target.value == ""
+                  ? toast((t) => (
+                      <span className="fw-bold d-flex align-items-center gap-2">
+                        <i className="fa fa-exclamation-triangle text-warning fs-3"></i> Add a Blog tags{" "}
+                      </span>
+                    ))
+                  : setUdata({ ...udata, tags: e.target.value })
               }
               required
             />

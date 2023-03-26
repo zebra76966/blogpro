@@ -95,6 +95,10 @@ const Blog = () => {
           <div className="bg-dark py-5 ">
             <div className="container">
               <div className="row">
+                {blogdata.reverse().map((ini, i) => {
+                  return <Content data={ini} id={i} />;
+                })}
+
                 <div className="col-12 col-md-4 my-3">
                   <div className="card boxShadow bg-dark text-light h-100">
                     <img src="../../8.jpg" className="card-img-top" style={imgFit} alt="..." />
@@ -109,10 +113,6 @@ const Blog = () => {
                     </div>
                   </div>
                 </div>
-
-                {blogdata.map((ini, i) => {
-                  return <Content data={ini} id={i} />;
-                })}
               </div>
             </div>
           </div>
@@ -121,8 +121,8 @@ const Blog = () => {
 
       {params.id == "def" && <ArticleDefault />}
       {console.log(params.title)}
-      {blogdata.map((ini, i) => {
-        return params.id == i && params.title.replaceAll("_", " ") == ini.heading.trim() && <Article data={ini} id={i} />;
+      {blogdata.reverse().map((ini, i) => {
+        return params.title.replaceAll("_", " ") == ini.heading.trim() && <Article data={ini} id={i} />;
       })}
     </>
   );
