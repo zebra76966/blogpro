@@ -28,14 +28,14 @@ const Article = (props) => {
           </button>
           <a
             className="btn shareBtn fs-3"
-            href={`https://www.facebook.com/sharer/sharer.php?u=https://blogpro-sooty.vercel.app/blog/${encodeURIComponent(props.data.heading.trim().replaceAll(" ", "_"))}`}
+            href={`https://www.facebook.com/sharer/sharer.php?u=https://blogpro-sooty.vercel.app/blog/${props.id}/${encodeURIComponent(props.data.heading.trim().replaceAll(" ", "_"))}`}
             id="a"
           >
             <i className="fa-brands fa-facebook"></i>
           </a>
           <a
             className="btn shareBtn fs-3"
-            href={`https://www.linkedin.com/sharing/share-offsite/?url=https://blogpro-sooty.vercel.app/blog/${encodeURIComponent(props.data.heading.trim().replaceAll(" ", "_"))}`}
+            href={`https://www.linkedin.com/sharing/share-offsite/?url=https://blogpro-sooty.vercel.app/blog/${props.id}/${encodeURIComponent(props.data.heading.trim().replaceAll(" ", "_"))}`}
             id="b"
           >
             <i className="fa-brands fa-linkedin"></i>
