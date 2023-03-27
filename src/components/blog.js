@@ -49,7 +49,7 @@ const Blog = () => {
       .then((response) => response)
       .then((data) => {
         setBlogData(data.data);
-        console.log(data.data);
+
         setIsloading(false);
         if (oneload.current) {
           oneload.current = false;
@@ -64,7 +64,6 @@ const Blog = () => {
 
   return (
     <>
-      {console.log(blogdata)}
       {isLoading && (
         <div className="position-absolute top-50 start-50 translate-middle" style={{ backgroundColor: "rgba(0,0,0,0.5)", height: "100%", width: "100%", zIndex: "98" }}>
           <img src="dogcur.gif" className="spinner display-1 position-absolute top-50 start-50 translate-middle" />
@@ -120,7 +119,7 @@ const Blog = () => {
       )}
 
       {params.id == "def" && <ArticleDefault />}
-      {console.log(params.title)}
+
       {blogdata.reverse().map((ini, i) => {
         return params.title.replaceAll("_", " ") == ini.heading.trim() && <Article data={ini} id={ini.id} />;
       })}
