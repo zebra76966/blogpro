@@ -7,6 +7,7 @@ import { motion } from "framer-motion";
 import { Helmet, HelmetProvider } from "react-helmet-async";
 import HeroMain from "./hero";
 import SemCard from "./semcard";
+import Content from "./blog-content";
 const imgFit = {
   height: "200px",
   width: "100%",
@@ -22,6 +23,18 @@ const Main = () => {
 
   const [greetGif, setGreetgif] = useState([]);
   const [currentSem, setCurrentSem] = useState("BCA");
+  const [blogdata, setBlogData] = useState([]);
+
+  useEffect(() => {
+    Axios.post("https://blogproapi.000webhostapp.com/api.php?blog=1")
+      .then((response) => response)
+      .then((data) => {
+        setBlogData(data.data.reverse());
+      })
+      .catch((error) => {
+        console.log(error);
+      });
+  }, []);
 
   useEffect(() => {
     Axios.get("https://api.giphy.com/v1/gifs/search?api_key=3MWBMpOdbY9zSTN836gICsnEI5jUh5r0&q=computer&limit=50&offset=0&rating=g&lang=en")
@@ -72,7 +85,23 @@ const Main = () => {
           </div>
 
           <article>
-            <p className="fw-light my-5 display-6 text-center">Check out our blog. We have articles from students about programming, algorithms, technology and more!</p>
+            <p className="fw-light mt-5 fs-3 text-center">Check out our blog. We have articles from students about programming, algorithms, technology and more!</p>
+            <div className="bg-none py-3 ">
+              <div className="container">
+                <p className="fw-light mt-5 fs-4 fw-bold text-start">Recent Blogs</p>
+
+                <div className="row">
+                  {blogdata.slice(0, 3).map((ini, i) => {
+                    return <Content data={ini} id={ini.id} key={ini.id} />;
+                  })}
+                </div>
+                <div className="w-100 text-end">
+                  <Link to="/blog/default/default" className="btn btn-info fw-bold px-4 ">
+                    More...
+                  </Link>
+                </div>
+              </div>
+            </div>
           </article>
         </main>
         <footer>
