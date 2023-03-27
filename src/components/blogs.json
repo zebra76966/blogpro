@@ -1,5 +1,6 @@
 [
   {
+    "id": "5",
     "date": "2/22/2023",
     "heading": "Amazon Crucible: 'Can games be as fun to watch as they are to play?'",
     "bimg": "https://c.files.bbci.co.uk/E909/production/_112375695_crucible976.jpg",
@@ -351,708 +352,7 @@
     "tags": "games, videogames, PCgames, computer, playstation, ps5, ps4, rpg, fantasy"
   },
   {
-    "date": "2/22/2023",
-    "heading": "Amazon Crucible: 'Can games be as fun to watch as they are to play?'",
-    "bimg": "https://www.cnet.com/a/img/resize/4e6ea51dc1b8b19590da296475a027cd9937fa1f/hub/2022/08/24/26896c8a-94a9-486f-81e8-d3e379b2aeac/fortnite.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "subheading": "Lets find out.",
-    "contents": {
-      "blocks": [
-        {
-          "key": "2vok4",
-          "text": "\ud83d\udcf7IMAGE SOURCE,AMAZON GAME STUDIO",
-          "type": "atomic",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }],
-          "data": []
-        },
-        { "key": "1tcmo", "text": "Amazon Crucible: 'Can games be as fun to watch as they are to play?'", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "49jn", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 1 }], "data": [] },
-        { "key": "5aci4", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        {
-          "key": "54mu8",
-          "text": "Think of Amazon and last-minute deliveries, streaming box-sets and Kindles spring to mind - but not necessarily making video games.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [{ "offset": 0, "length": 131, "style": "BOLD" }],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "66ne0",
-          "text": "Now, the online giant wants that to change and is getting its teeth into game development with new release, Crucible.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "6u8e",
-          "text": "\"We want to make games that resonate with a very large audience of players,\" Mike Frazzini, the vice president of Amazon Games, tells Radio 1 Newsbeat.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        { "key": "6b7nq", "text": "\"Ultimately the players will get to decide whether or not we succeed.\"", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        {
-          "key": "c3sa3",
-          "text": "\"We're pleased with the feedback on early play-tests, but ultimately we don't know how good it is until it gets out there.\"",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "6hskj",
-          "text": "Crucible is a new free-to-play PC game and is a competitive shooting title that's a cross between Overwatch, Gears of War and League of Legends.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "67brp",
-          "text": "It's the first big-budget, original game that Amazon Game Studios has released, and the company hopes it will compete with titles like Fortnite and Apex Legends.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        { "key": "83utb", "text": "\"We're really looking forward to getting it out the door.\"", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "d3rmc", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "7blin", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "467do", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 2 }], "data": [] },
-        { "key": "2d2ld", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        {
-          "key": "6k5qd",
-          "text": "\ud83d\udcf7IMAGE SOURCE,AMAZON GAME STUDIOImage caption,Amazon Game Studios hope their titles, like Crucible, will resonate with streamers on Twitch",
-          "type": "atomic",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [{ "offset": 0, "length": 1, "key": 3 }],
-          "data": []
-        },
-        {
-          "key": "f8jha",
-          "text": "This may be Amazon's first major release but it's been involved in the games industry for a long time - it already owns the streaming site Twitch.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [{ "offset": 120, "length": 26, "key": 4 }],
-          "data": []
-        },
-        {
-          "key": "4olrl",
-          "text": "The number of viewers on Twitch is clearly having an impact on the types of games the company wants to be making now and in the future.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "9v298",
-          "text": "During development, Mike asked his team: \"Can we make games that are as fun to watch as they are to play?\"",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "1d0lf",
-          "text": "\"On Twitch, you have a player, a viewer and a streamer all connected together in a single live experience.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "5i2bn",
-          "text": "\"We're really interested in exploring that - so we're generally biased towards games that we think are going to resonate on Twitch and fundamentally be watchable games.\"",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        { "key": "4up60", "text": "'It's like writing a new book every single week'", "type": "header-two", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        {
-          "key": "424se",
-          "text": "With Fortnite recently announcing it has more than 350 million registered users, there's a big financial incentive to get more involved in game development.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [{ "offset": 51, "length": 28, "key": 5 }],
-          "data": []
-        },
-        {
-          "key": "5fg8k",
-          "text": "But the gaming industry is competitive and success is not likely to come overnight - even if you're Amazon.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "4dci4",
-          "text": "\"Making a fun game that attracts and retains large audiences of players is extremely difficult,\" Mike says.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        { "key": "gcdm", "text": "\"If the game's not fun, none of our long term ideas make a difference.\"", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "8d7ee", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "7msuf", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "epkou", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 6 }], "data": [] },
-        { "key": "f729j", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        {
-          "key": "5ah3c",
-          "text": "\ud83d\udcf7IMAGE SOURCE,AMAZON GAME STUDIOImage caption,Crucible will try to compete with the hugely popular hero shooting game Overwatch",
-          "type": "atomic",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [{ "offset": 0, "length": 1, "key": 7 }],
-          "data": []
-        },
-        {
-          "key": "2hoo4",
-          "text": "He says it's important to tune, polish and add to the gaming experience of players because of how much of their time they spend gaming.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "48tvu",
-          "text": "\"On average people play from five to ten hours a week, that's what it takes to read a book, and so it's like writing a new book every single week.\"",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "8ufkr",
-          "text": "\"Trying to get to something that attracts, engages and retains players is incredibly difficult.\"",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        { "key": "egdo6", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "eo3kh", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "4h4hh", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 8 }], "data": [] },
-        { "key": "1dqq9", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        {
-          "key": "a1c50",
-          "text": "\ud83d\udcf7IMAGE SOURCE,AMAZON GAME STUDIOImage caption,The Coronavirus pandemic has impacted upon the release of Crucible and delayed another of Amazon Game Studios planned releases",
-          "type": "atomic",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [{ "offset": 0, "length": 1, "key": 9 }],
-          "data": []
-        },
-        {
-          "key": "5tvdg",
-          "text": "Early previews of Crucible have been favourable but competing in the hero-shooter genre, where Overwatch has dominated, will be tough.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [{ "offset": 27, "length": 20, "key": 10 }],
-          "data": []
-        },
-        {
-          "key": "8qpj4",
-          "text": "Games like Gigantic and Battleborn - which were also positively reviewed and well supported - failed to attract enough of a long-term audience to survive.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [{ "offset": 94, "length": 60, "key": 11 }],
-          "data": []
-        },
-        {
-          "key": "d3dcs",
-          "text": "Mike explains how he hopes Crucible will be different: \"Multiplayer in our games is going to include a lot of social dynamics.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        { "key": "39jf0", "text": "\"That's what makes sport so much fun, as you play with others.", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        {
-          "key": "b1c3s",
-          "text": "\"I think that's what helps create games that are re-playable, and it resonates well in Twitch too, so we're trying to explore those frontiers.\"",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        { "key": "dv3gl", "text": "'Trying to earn respect'", "type": "header-two", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        {
-          "key": "65rtr",
-          "text": "The coronavirus pandemic has affected how the studio has been able to promote Crucible and delayed another title it's working on - an online multiplayer game called New World.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        { "key": "desju", "text": "But despite the difficulties and frustrations, there are some positives.", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        {
-          "key": "4nc37",
-          "text": "\"One of the reasons I've always loved games is not only is it a fun form of entertainment, but it's a way to connect with others,\" says Mike.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "i4pr",
-          "text": "\"There's a surge of interest in playing right now as a way to stay connected in a safe way.\"",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "b2r9f",
-          "text": "Amazon has set some ambitious targets for its games division and seems willing to be patient.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        { "key": "cgjp4", "text": "\"This is the starting line not isn't the finish line,\" he adds.", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "5bje4", "text": "\"We're trying to earn respect from players.\"", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "10ute", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "83ul7", "text": "That's it folks", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] }
-      ],
-      "entityMap": [
-        {
-          "type": "IMAGE",
-          "mutability": "IMMUTABLE",
-          "data": {
-            "alt": "Crucible characters",
-            "height": "549",
-            "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/13729/production/_112375697_1331db7a-17c0-4401-8cac-6a2309ff49b6.jpg",
-            "width": "976"
-          }
-        },
-        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/13729/production/_112375697_1331db7a-17c0-4401-8cac-6a2309ff49b6.jpg.webp" } },
-        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/45CB/production/_112376871_crucible5.jpg.webp" } },
-        {
-          "type": "IMAGE",
-          "mutability": "IMMUTABLE",
-          "data": { "alt": "Crucible character", "height": "549", "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/45CB/production/_112376871_crucible5.jpg", "width": "976" }
-        },
-        { "type": "LINK", "mutability": "MUTABLE", "data": { "href": "https://www.bbc.co.uk/news/technology-28930781", "url": "https://www.bbc.co.uk/news/technology-28930781" } },
-        { "type": "LINK", "mutability": "MUTABLE", "data": { "href": "https://www.bbc.co.uk/news/technology-52568173", "url": "https://www.bbc.co.uk/news/technology-52568173" } },
-        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/93EB/production/_112376873_crucible6.jpg.webp" } },
-        {
-          "type": "IMAGE",
-          "mutability": "IMMUTABLE",
-          "data": { "alt": "Crucible screenshot", "height": "549", "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/93EB/production/_112376873_crucible6.jpg", "width": "976" }
-        },
-        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/E20B/production/_112376875_crucible2.jpg.webp" } },
-        {
-          "type": "IMAGE",
-          "mutability": "IMMUTABLE",
-          "data": { "alt": "Crucible screenshot", "height": "549", "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/E20B/production/_112376875_crucible2.jpg", "width": "976" }
-        },
-        {
-          "type": "LINK",
-          "mutability": "MUTABLE",
-          "data": {
-            "href": "https://www.polygon.com/2020/5/19/21262721/crucible-moba-free-to-play-steam-impressions-amazon-new-game-shooter",
-            "url": "https://www.polygon.com/2020/5/19/21262721/crucible-moba-free-to-play-steam-impressions-amazon-new-game-shooter"
-          }
-        },
-        {
-          "type": "LINK",
-          "mutability": "MUTABLE",
-          "data": {
-            "href": "https://www.eurogamer.net/articles/2018-02-01-hero-shooter-gigantic-will-shut-down-in-july-following-last-years-mass-lay-offs-at-studio",
-            "url": "https://www.eurogamer.net/articles/2018-02-01-hero-shooter-gigantic-will-shut-down-in-july-following-last-years-mass-lay-offs-at-studio"
-          }
-        }
-      ]
-    },
-    "fb": "https://facebook.com",
-    "insta": "https://instagram.com",
-    "linked": "https://linkedin.com",
-    "author": "Steffan Powell",
-    "tags": "games, videogames, PCgames, computer, playstation, ps5, ps4, rpg, fantasy"
-  },
-  {
-    "date": "2/22/2023",
-    "heading": "Best New Gen Legacy ",
-    "bimg": "https://www.91-cdn.com/hub/wp-content/uploads/2021/12/ar88u.jpg",
-    "subheading": "Lets find out.",
-    "contents": {
-      "blocks": [
-        {
-          "key": "2vok4",
-          "text": "\ud83d\udcf7IMAGE SOURCE,AMAZON GAME STUDIO",
-          "type": "atomic",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }],
-          "data": []
-        },
-        { "key": "1tcmo", "text": "Amazon Crucible: 'Can games be as fun to watch as they are to play?'", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "49jn", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 1 }], "data": [] },
-        { "key": "5aci4", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        {
-          "key": "54mu8",
-          "text": "Think of Amazon and last-minute deliveries, streaming box-sets and Kindles spring to mind - but not necessarily making video games.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [{ "offset": 0, "length": 131, "style": "BOLD" }],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "66ne0",
-          "text": "Now, the online giant wants that to change and is getting its teeth into game development with new release, Crucible.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "6u8e",
-          "text": "\"We want to make games that resonate with a very large audience of players,\" Mike Frazzini, the vice president of Amazon Games, tells Radio 1 Newsbeat.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        { "key": "6b7nq", "text": "\"Ultimately the players will get to decide whether or not we succeed.\"", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        {
-          "key": "c3sa3",
-          "text": "\"We're pleased with the feedback on early play-tests, but ultimately we don't know how good it is until it gets out there.\"",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "6hskj",
-          "text": "Crucible is a new free-to-play PC game and is a competitive shooting title that's a cross between Overwatch, Gears of War and League of Legends.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "67brp",
-          "text": "It's the first big-budget, original game that Amazon Game Studios has released, and the company hopes it will compete with titles like Fortnite and Apex Legends.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        { "key": "83utb", "text": "\"We're really looking forward to getting it out the door.\"", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "d3rmc", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "7blin", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "467do", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 2 }], "data": [] },
-        { "key": "2d2ld", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        {
-          "key": "6k5qd",
-          "text": "\ud83d\udcf7IMAGE SOURCE,AMAZON GAME STUDIOImage caption,Amazon Game Studios hope their titles, like Crucible, will resonate with streamers on Twitch",
-          "type": "atomic",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [{ "offset": 0, "length": 1, "key": 3 }],
-          "data": []
-        },
-        {
-          "key": "f8jha",
-          "text": "This may be Amazon's first major release but it's been involved in the games industry for a long time - it already owns the streaming site Twitch.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [{ "offset": 120, "length": 26, "key": 4 }],
-          "data": []
-        },
-        {
-          "key": "4olrl",
-          "text": "The number of viewers on Twitch is clearly having an impact on the types of games the company wants to be making now and in the future.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "9v298",
-          "text": "During development, Mike asked his team: \"Can we make games that are as fun to watch as they are to play?\"",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "1d0lf",
-          "text": "\"On Twitch, you have a player, a viewer and a streamer all connected together in a single live experience.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "5i2bn",
-          "text": "\"We're really interested in exploring that - so we're generally biased towards games that we think are going to resonate on Twitch and fundamentally be watchable games.\"",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        { "key": "4up60", "text": "'It's like writing a new book every single week'", "type": "header-two", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        {
-          "key": "424se",
-          "text": "With Fortnite recently announcing it has more than 350 million registered users, there's a big financial incentive to get more involved in game development.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [{ "offset": 51, "length": 28, "key": 5 }],
-          "data": []
-        },
-        {
-          "key": "5fg8k",
-          "text": "But the gaming industry is competitive and success is not likely to come overnight - even if you're Amazon.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "4dci4",
-          "text": "\"Making a fun game that attracts and retains large audiences of players is extremely difficult,\" Mike says.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        { "key": "gcdm", "text": "\"If the game's not fun, none of our long term ideas make a difference.\"", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "8d7ee", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "7msuf", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "epkou", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 6 }], "data": [] },
-        { "key": "f729j", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        {
-          "key": "5ah3c",
-          "text": "\ud83d\udcf7IMAGE SOURCE,AMAZON GAME STUDIOImage caption,Crucible will try to compete with the hugely popular hero shooting game Overwatch",
-          "type": "atomic",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [{ "offset": 0, "length": 1, "key": 7 }],
-          "data": []
-        },
-        {
-          "key": "2hoo4",
-          "text": "He says it's important to tune, polish and add to the gaming experience of players because of how much of their time they spend gaming.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "48tvu",
-          "text": "\"On average people play from five to ten hours a week, that's what it takes to read a book, and so it's like writing a new book every single week.\"",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "8ufkr",
-          "text": "\"Trying to get to something that attracts, engages and retains players is incredibly difficult.\"",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        { "key": "egdo6", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "eo3kh", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "4h4hh", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 8 }], "data": [] },
-        { "key": "1dqq9", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        {
-          "key": "a1c50",
-          "text": "\ud83d\udcf7IMAGE SOURCE,AMAZON GAME STUDIOImage caption,The Coronavirus pandemic has impacted upon the release of Crucible and delayed another of Amazon Game Studios planned releases",
-          "type": "atomic",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [{ "offset": 0, "length": 1, "key": 9 }],
-          "data": []
-        },
-        {
-          "key": "5tvdg",
-          "text": "Early previews of Crucible have been favourable but competing in the hero-shooter genre, where Overwatch has dominated, will be tough.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [{ "offset": 27, "length": 20, "key": 10 }],
-          "data": []
-        },
-        {
-          "key": "8qpj4",
-          "text": "Games like Gigantic and Battleborn - which were also positively reviewed and well supported - failed to attract enough of a long-term audience to survive.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [{ "offset": 94, "length": 60, "key": 11 }],
-          "data": []
-        },
-        {
-          "key": "d3dcs",
-          "text": "Mike explains how he hopes Crucible will be different: \"Multiplayer in our games is going to include a lot of social dynamics.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        { "key": "39jf0", "text": "\"That's what makes sport so much fun, as you play with others.", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        {
-          "key": "b1c3s",
-          "text": "\"I think that's what helps create games that are re-playable, and it resonates well in Twitch too, so we're trying to explore those frontiers.\"",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        { "key": "dv3gl", "text": "'Trying to earn respect'", "type": "header-two", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        {
-          "key": "65rtr",
-          "text": "The coronavirus pandemic has affected how the studio has been able to promote Crucible and delayed another title it's working on - an online multiplayer game called New World.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        { "key": "desju", "text": "But despite the difficulties and frustrations, there are some positives.", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        {
-          "key": "4nc37",
-          "text": "\"One of the reasons I've always loved games is not only is it a fun form of entertainment, but it's a way to connect with others,\" says Mike.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "i4pr",
-          "text": "\"There's a surge of interest in playing right now as a way to stay connected in a safe way.\"",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        {
-          "key": "b2r9f",
-          "text": "Amazon has set some ambitious targets for its games division and seems willing to be patient.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": []
-        },
-        { "key": "cgjp4", "text": "\"This is the starting line not isn't the finish line,\" he adds.", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "5bje4", "text": "\"We're trying to earn respect from players.\"", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "10ute", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "83ul7", "text": "That's it folks", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] }
-      ],
-      "entityMap": [
-        {
-          "type": "IMAGE",
-          "mutability": "IMMUTABLE",
-          "data": {
-            "alt": "Crucible characters",
-            "height": "549",
-            "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/13729/production/_112375697_1331db7a-17c0-4401-8cac-6a2309ff49b6.jpg",
-            "width": "976"
-          }
-        },
-        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/13729/production/_112375697_1331db7a-17c0-4401-8cac-6a2309ff49b6.jpg.webp" } },
-        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/45CB/production/_112376871_crucible5.jpg.webp" } },
-        {
-          "type": "IMAGE",
-          "mutability": "IMMUTABLE",
-          "data": { "alt": "Crucible character", "height": "549", "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/45CB/production/_112376871_crucible5.jpg", "width": "976" }
-        },
-        { "type": "LINK", "mutability": "MUTABLE", "data": { "href": "https://www.bbc.co.uk/news/technology-28930781", "url": "https://www.bbc.co.uk/news/technology-28930781" } },
-        { "type": "LINK", "mutability": "MUTABLE", "data": { "href": "https://www.bbc.co.uk/news/technology-52568173", "url": "https://www.bbc.co.uk/news/technology-52568173" } },
-        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/93EB/production/_112376873_crucible6.jpg.webp" } },
-        {
-          "type": "IMAGE",
-          "mutability": "IMMUTABLE",
-          "data": { "alt": "Crucible screenshot", "height": "549", "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/93EB/production/_112376873_crucible6.jpg", "width": "976" }
-        },
-        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/E20B/production/_112376875_crucible2.jpg.webp" } },
-        {
-          "type": "IMAGE",
-          "mutability": "IMMUTABLE",
-          "data": { "alt": "Crucible screenshot", "height": "549", "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/E20B/production/_112376875_crucible2.jpg", "width": "976" }
-        },
-        {
-          "type": "LINK",
-          "mutability": "MUTABLE",
-          "data": {
-            "href": "https://www.polygon.com/2020/5/19/21262721/crucible-moba-free-to-play-steam-impressions-amazon-new-game-shooter",
-            "url": "https://www.polygon.com/2020/5/19/21262721/crucible-moba-free-to-play-steam-impressions-amazon-new-game-shooter"
-          }
-        },
-        {
-          "type": "LINK",
-          "mutability": "MUTABLE",
-          "data": {
-            "href": "https://www.eurogamer.net/articles/2018-02-01-hero-shooter-gigantic-will-shut-down-in-july-following-last-years-mass-lay-offs-at-studio",
-            "url": "https://www.eurogamer.net/articles/2018-02-01-hero-shooter-gigantic-will-shut-down-in-july-following-last-years-mass-lay-offs-at-studio"
-          }
-        }
-      ]
-    },
-    "fb": "https://facebook.com",
-    "insta": "https://instagram.com",
-    "linked": "https://linkedin.com",
-    "author": "zebra",
-    "tags": "hardware, powersupply, PC, computer, diy"
-  },
-  {
+    "id": "4",
     "heading": "How to fix the anoying grinding or buzzing in PSU.",
     "bimg": "https://www.technewstoday.com/wp-content/uploads/2022/07/stop-psu-buzzing.jpg",
     "subheading": "Lets try to fix this.",
@@ -1184,6 +484,7 @@
     "tags": "hardware, powersupply, PC, computer, diy"
   },
   {
+    "id": "3",
     "heading": "Samsung Dispatches System F14 5G In India Highlighting 6000mAh Battery, 50MP Camera",
     "bimg": "https://telecomtalk.info/wp-content/uploads/2023/03/samsung-galaxy-f14-5g-arrives-in-india.jpg",
     "subheading": "All Subtleties",
@@ -1269,6 +570,7 @@
     "date": "26/03/2023"
   },
   {
+    "id": "2",
     "heading": "Microsoft to impede man-made intelligence rivals",
     "bimg": "https://s.yimg.com/uu/api/res/1.2/TakyolyqjkBkr_rP5XZkKw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/97407f20-a742-11ed-bdd3-1ed4d6b800f8.cf.jpg",
     "subheading": "from utilizing Bing search Index",
@@ -1347,6 +649,7 @@
     "date": "3/26/2023"
   },
   {
+    "id": "1",
     "heading": "Garena Free Fire MAX Recover Codes",
     "bimg": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202202/untitled_design_6-sixteen_nine.png",
     "subheading": " How to Win Jewels and Gifts on 26 Walk 2023",
@@ -1392,6 +695,56 @@
     "linked": "https://linkedin.com",
     "author": "Rohit Sharma",
     "tags": "Garena Free Fire,Garena Free Fire MAX,Garena Free Fire MAX redeem codes,Garena Free Fire MAX redeem codes for today,Garena Free Fire MAX redeem codes for 26 March 2023,Garena Free Fire MAX redeem codes today for 26 March,reward.ff.garena.com,Garena Free Fire MAX freebies today,Garena Free Fire MAX rewards for 26 March 2023,Garena Free Fire MAX active codes today,Garena Free Fire MAX active codes for 26 March 2023,Garena Free Fire redeem codes",
+    "date": "3/26/2023"
+  },
+  {
+    "id": "0",
+    "heading": "Microsoft President Satya Nadella shares professional career tips",
+    "bimg": "data:image/jpeg;base64,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",
+    "subheading": "Nadella shares his experience",
+    "contents": {
+      "blocks": [
+        {
+          "key": "dnbut",
+          "text": "Microsoft President Satya Nadella told LinkedIn Chief Ryan Roslansky, in a discussion, that he never considered turning into a President at Microsoft subsequent to having joined the organization in 1992 as a youthful designer.",
+          "type": "header-five",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        { "key": "an7od", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        { "key": "18f6b", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }], "data": [] },
+        { "key": "e0kao", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "cph86",
+          "text": "\"I recollect unmistakably strolling into building 22 at Microsoft feeling that is the best work on Earth I have, and I want nothing more,\" Nadella said.",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 1, "length": 136, "style": "ITALIC" }],
+          "entityRanges": [],
+          "data": []
+        },
+        { "key": "d6t33", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "cfuaj",
+          "text": "In his thirty years at Microsoft, Nadella has dealt with different energizing and imaginative ventures, Roslansky, who shared the meeting experience on LinkedIn, said.",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        }
+      ],
+      "entityMap": [
+        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://cdn.gobankingrates.com/wp-content/uploads/2021/01/satya-nadella-shutterstock_editorial_10356294a-e1611092195670.jpg" } }
+      ]
+    },
+    "fb": "https://www.facebook.com/zebcorp76/",
+    "insta": "https://www.instagram.com/zeb_corp/",
+    "linked": "https://linkedin.com",
+    "author": "Rohit Sharma",
+    "tags": "Microsoft,Microsoft CEO,Satya Nadella,LinkedIn",
     "date": "3/26/2023"
   }
 ]

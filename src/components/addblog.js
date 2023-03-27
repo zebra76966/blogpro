@@ -16,7 +16,9 @@ const AddBlog = (props) => {
   const [response, setResponse] = useState("");
   const [cookies, setCookie, removeCookie] = useCookies(["uToken"]);
   const [isLoading, setIsloading] = useState(false);
+  let uuid = crypto.randomUUID();
   const [udata, setUdata] = useState({
+    id: uuid,
     heading: "",
     bimg: "",
     subheading: "",
@@ -28,6 +30,8 @@ const AddBlog = (props) => {
     tags: "",
     date: cDate,
   });
+
+  // console.log(udata.id);
 
   const handlesubmit = (e) => {
     e.preventDefault();

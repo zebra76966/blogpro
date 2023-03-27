@@ -96,7 +96,7 @@ const Blog = () => {
             <div className="container">
               <div className="row">
                 {blogdata.reverse().map((ini, i) => {
-                  return <Content data={ini} id={i} />;
+                  return <Content data={ini} id={ini.id} />;
                 })}
 
                 <div className="col-12 col-md-4 my-3">
@@ -122,7 +122,7 @@ const Blog = () => {
       {params.id == "def" && <ArticleDefault />}
       {console.log(params.title)}
       {blogdata.reverse().map((ini, i) => {
-        return params.title.replaceAll("_", " ") == ini.heading.trim() && <Article data={ini} id={i} />;
+        return params.title.replaceAll("_", " ") == ini.heading.trim() && <Article data={ini} id={ini.id} />;
       })}
     </>
   );
