@@ -45,6 +45,7 @@ const Blog = () => {
   }, [toggle]);
 
   useEffect(() => {
+    setIsloading(true);
     Axios.post("https://blogproapi.000webhostapp.com/api.php?blog=1")
       .then((response) => response)
       .then((data) => {
@@ -67,7 +68,7 @@ const Blog = () => {
       <Toaster />
       {isLoading && (
         <div className="position-absolute top-50 start-50 translate-middle" style={{ backgroundColor: "rgba(0,0,0,0.5)", height: "100%", width: "100%", zIndex: "98" }}>
-          <img src="dogcur.gif" className="spinner display-1 position-absolute top-50 start-50 translate-middle" />
+          <img src="/../dogcur.gif" className="spinner display-1 position-absolute top-50 start-50 translate-middle" />
         </div>
       )}
       {params.id == "default" && (
@@ -96,7 +97,7 @@ const Blog = () => {
             <div className="container">
               <div className="row">
                 {blogdata.reverse().map((ini, i) => {
-                  return <Content data={ini} id={ini.id} key={ini.id} />;
+                  return <Content data={ini} id={ini.id} key={i} />;
                 })}
 
                 <div className="col-12 col-md-4 my-3">
@@ -122,7 +123,7 @@ const Blog = () => {
       {params.id == "def" && <ArticleDefault />}
 
       {blogdata.reverse().map((ini, i) => {
-        return params.title.replaceAll("_", " ") == ini.heading.trim() && <Article data={ini} id={ini.id} key={ini.id} />;
+        return params.title.replaceAll("_", " ") == ini.heading.trim() && <Article data={ini} id={ini.id} key={i} />;
       })}
     </>
   );

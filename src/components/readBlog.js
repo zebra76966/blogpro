@@ -1,13 +1,17 @@
 import React from "react";
-import { useParams } from "react-router-dom";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import { Helmet, HelmetProvider } from "react-helmet-async";
 import "./master.css";
 import RichEditor from "./editor";
-import { Editor, EditorState, convertFromRaw, convertToRaw } from "draft-js";
+import { EditorState, convertFromRaw } from "draft-js";
+import { Link, Outlet } from "react-router-dom";
+import Content from "./blog-content";
+import Axios from "axios";
+import toast, { Toaster } from "react-hot-toast";
 
 const Article = (props) => {
   const [toggle, setToggle] = useState(false);
+  const [isLoading, setIsloading] = useState(false);
 
   useEffect(() => {
     if (toggle) {
@@ -19,8 +23,36 @@ const Article = (props) => {
     }
   }, [toggle]);
 
+  const [blogdata, setBlogData] = useState([]);
+  const oneload = useRef(true);
+
+  useEffect(() => {
+    setIsloading(true);
+    Axios.post("https://blogproapi.000webhostapp.com/api.php?blog=1")
+      .then((response) => response)
+      .then((data) => {
+        setBlogData(data.data.reverse());
+        setIsloading(false);
+        if (oneload.current) {
+          oneload.current = false;
+          toast.success("Loaded Successfully");
+        }
+      })
+      .catch((error) => {
+        console.log(error);
+        setIsloading(false);
+        toast.error("Something Went Wrong");
+      });
+  }, []);
+
   return (
     <>
+      <Toaster />
+      {isLoading && (
+        <div className="position-absolute top-50 start-50 translate-middle" style={{ backgroundColor: "rgba(0,0,0,0.5)", height: "100%", width: "100%", zIndex: "98" }}>
+          <img src="/../dogcur.gif" className="spinner display-1 position-absolute top-50 start-50 translate-middle" />
+        </div>
+      )}
       <div className="position-absolute" style={{ zIndex: 99, top: "50%", left: "2%" }}>
         <div id="wrapperShare">
           <button className="shareBtn" id="toggler">
@@ -95,6 +127,26 @@ const Article = (props) => {
       <main className="container my-5 fs-5">
         <RichEditor viewState={EditorState.createWithContent(convertFromRaw(props.data.contents))} viewBox={false} readOnly={true} />
       </main>
+
+      {/* Recent blogs start */}
+      <div className="bg-none py-3 ">
+        <div className="container">
+          <hr />
+          <p className="fw-light mt-5 fs-4 fw-bold text-start">Recent Blogs</p>
+
+          <div className="row">
+            {blogdata.slice(0, 3).map((ini, i) => {
+              return <Content data={ini} id={ini.id} key={i} />;
+            })}
+          </div>
+          <div className="w-100 text-end">
+            <Link to="/blog/default/default" className="btn btn-info fw-bold px-4 ">
+              More...
+            </Link>
+          </div>
+        </div>
+      </div>
+      <Outlet />
     </>
   );
 };
