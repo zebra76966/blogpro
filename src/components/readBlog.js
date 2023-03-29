@@ -100,6 +100,7 @@ const Article = (props) => {
           <meta name="description" content={props.data.heading} />
           <meta name="keywords" content={props.data.tags} />
           <meta name="news_keywords" content={props.data.tags} />
+          <link rel="canonical" href={window.location.href} />
         </Helmet>
       </HelmetProvider>
       <header className="container my-5">
