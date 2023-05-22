@@ -28,7 +28,7 @@ const Article = (props) => {
 
   useEffect(() => {
     setIsloading(true);
-    Axios.post("https://blogproapi.000webhostapp.com/api.php?blog=1")
+    Axios.post("https://blogpro.tech/api.php?blog=1")
       .then((response) => response)
       .then((data) => {
         setBlogData(data.data.reverse());
@@ -49,8 +49,19 @@ const Article = (props) => {
     <>
       <Toaster />
       {isLoading && (
-        <div className="position-absolute top-50 start-50 translate-middle" style={{ backgroundColor: "rgba(0,0,0,0.5)", height: "100%", width: "100%", zIndex: "98" }}>
-          <img src="/../dogcur.gif" className="spinner display-1 position-absolute top-50 start-50 translate-middle" />
+        <div
+          className="position-absolute top-50 start-50 translate-middle"
+          style={{
+            backgroundColor: "rgba(0,0,0,0.5)",
+            height: "100%",
+            width: "100%",
+            zIndex: "98",
+          }}
+        >
+          <img
+            src="/../dogcur.gif"
+            className="spinner display-1 position-absolute top-50 start-50 translate-middle"
+          />
         </div>
       )}
       <div className="position-absolute" style={{ zIndex: 99, top: "50%", left: "2%" }}>
@@ -60,21 +71,29 @@ const Article = (props) => {
           </button>
           <a
             className="btn shareBtn fs-3"
-            href={`https://www.facebook.com/sharer/sharer.php?u=https://blogpro-sooty.vercel.app/blog/${props.id}/${encodeURIComponent(props.data.heading.trim().replaceAll(" ", "_"))}`}
+            href={`https://www.facebook.com/sharer/sharer.php?u=https://blogpro-sooty.vercel.app/blog/${
+              props.id
+            }/${encodeURIComponent(props.data.heading.trim().replaceAll(" ", "_"))}`}
             id="a"
           >
             <i className="fa-brands fa-facebook"></i>
           </a>
           <a
             className="btn shareBtn fs-3"
-            href={`https://www.linkedin.com/sharing/share-offsite/?url=https://blogpro-sooty.vercel.app/blog/${props.id}/${encodeURIComponent(props.data.heading.trim().replaceAll(" ", "_"))}`}
+            href={`https://www.linkedin.com/sharing/share-offsite/?url=https://blogpro-sooty.vercel.app/blog/${
+              props.id
+            }/${encodeURIComponent(props.data.heading.trim().replaceAll(" ", "_"))}`}
             id="b"
           >
             <i className="fa-brands fa-linkedin"></i>
           </a>
           <a
             className="btn shareBtn fs-3"
-            href={`http://twitter.com/share?text=${props.data.heading}&url=https://blogpro-sooty.vercel.app/blog/${props.id}/${encodeURIComponent(props.data.heading.trim().replaceAll(" ", "_"))}`}
+            href={`http://twitter.com/share?text=${
+              props.data.heading
+            }&url=https://blogpro-sooty.vercel.app/blog/${props.id}/${encodeURIComponent(
+              props.data.heading.trim().replaceAll(" ", "_")
+            )}`}
             id="c"
           >
             <i className="fa-brands fa-twitter"></i>
@@ -107,7 +126,10 @@ const Article = (props) => {
         <h1 className="display-3 fw-bold">
           {props.data.heading} <span className="d-block fw-light">{props.data.subheading}</span>
         </h1>
-        <div className="d-flex align-middle align-items-center justify-content-between" style={{ maxWidth: "350px" }}>
+        <div
+          className="d-flex align-middle align-items-center justify-content-between"
+          style={{ maxWidth: "350px" }}
+        >
           <p className="lead m-0">By {props.data.author}</p>
 
           <a className="btn fs-5 rounded-pill btn-outline-info" href={props.data.fb}>
@@ -126,7 +148,11 @@ const Article = (props) => {
       </header>
       <hr />
       <main className="container my-5 fs-5">
-        <RichEditor viewState={EditorState.createWithContent(convertFromRaw(props.data.contents))} viewBox={false} readOnly={true} />
+        <RichEditor
+          viewState={EditorState.createWithContent(convertFromRaw(props.data.contents))}
+          viewBox={false}
+          readOnly={true}
+        />
       </main>
 
       {/* Recent blogs start */}

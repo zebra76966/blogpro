@@ -29,7 +29,7 @@ const SignUp = () => {
       headers: { "content-type": "multipart/form-data" },
     };
 
-    Axios.post("https://blogproapi.000webhostapp.com/apiSignup.php", FD, config)
+    Axios.post("https://blogpro.tech/apiSignup.php", FD, config)
       .then((response) => {
         setResponse(response.data);
         setUdata({ uname: "", uemail: "", pw: "" });

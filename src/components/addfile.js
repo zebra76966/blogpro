@@ -55,7 +55,7 @@ const AddFiles = (props) => {
     };
 
     Axios.post(
-      "https://blogproapi.000webhostapp.com/apiPhp/myFiles/uploadFile.php?blog=0&token=" + cookies.uToken,
+      "https://blogpro.tech/apiPhp/myFiles/uploadFile.php?blog=0&token=" + cookies.uToken,
       FD,
       config
     )
@@ -84,10 +84,16 @@ const AddFiles = (props) => {
         <div className="row gap-5">
           <div className="col-md-3 col-12 d-flex align-items-center">
             <div className="sideButtons w-100">
-              <button className={`btn  fw-bold ${crnt == 1 ? "btn-info" : "btn-secondary"}`} onClick={() => setCrnt(1)}>
+              <button
+                className={`btn  fw-bold ${crnt == 1 ? "btn-info" : "btn-secondary"}`}
+                onClick={() => setCrnt(1)}
+              >
                 Add Files
               </button>
-              <button className={`btn  fw-bold ${crnt == 2 ? "btn-info" : "btn-secondary"}`} onClick={() => setCrnt(2)}>
+              <button
+                className={`btn  fw-bold ${crnt == 2 ? "btn-info" : "btn-secondary"}`}
+                onClick={() => setCrnt(2)}
+              >
                 Add Blog
               </button>
             </div>
@@ -111,7 +117,12 @@ const AddFiles = (props) => {
                   {isLoading && (
                     <div
                       className="position-absolute top-50 start-50 translate-middle"
-                      style={{ backgroundColor: "rgba(0,0,0,0.5)", height: "100%", width: "100%", zIndex: "98" }}
+                      style={{
+                        backgroundColor: "rgba(0,0,0,0.5)",
+                        height: "100%",
+                        width: "100%",
+                        zIndex: "98",
+                      }}
                     >
                       <img
                         src="dogcur.gif"
@@ -143,7 +154,10 @@ const AddFiles = (props) => {
                               >
                                 <i className="fa-solid fa-check"></i>
                               </a>
-                              <a className="btn bg-dark text-light" onClick={() => toast.dismiss(t.id)}>
+                              <a
+                                className="btn bg-dark text-light"
+                                onClick={() => toast.dismiss(t.id)}
+                              >
                                 <i className="fa-solid fa-xmark"></i>
                               </a>
                             </span>
@@ -170,7 +184,8 @@ const AddFiles = (props) => {
                           e.target.value == "null"
                             ? toast((t) => (
                                 <span className="fw-bold d-flex align-items-center gap-2">
-                                  <i className="fa fa-exclamation-triangle text-warning fs-3"></i> Select a Course
+                                  <i className="fa fa-exclamation-triangle text-warning fs-3"></i>{" "}
+                                  Select a Course
                                 </span>
                               ))
                             : setUdata({ ...udata, course: e.target.value })
@@ -199,7 +214,8 @@ const AddFiles = (props) => {
                           e.target.value == "null"
                             ? toast((t) => (
                                 <span className="fw-bold d-flex align-items-center gap-2">
-                                  <i className="fa fa-exclamation-triangle text-warning fs-3"></i> Select Batch/Year
+                                  <i className="fa fa-exclamation-triangle text-warning fs-3"></i>{" "}
+                                  Select Batch/Year
                                 </span>
                               ))
                             : setUdata({ ...udata, batch: e.target.value })
@@ -209,9 +225,13 @@ const AddFiles = (props) => {
                         <option selected value="null">
                           Select Batch
                         </option>
-                        {[...Array(udata.course == "BCA" || udata.course == "BBA" ? 6 : 3)].map((ini, i) => (
-                          <option value={`${udata.course} ${i + 1}`}>{`${udata.course} ${i + 1}`}</option>
-                        ))}
+                        {[...Array(udata.course == "BCA" || udata.course == "BBA" ? 6 : 3)].map(
+                          (ini, i) => (
+                            <option value={`${udata.course} ${i + 1}`}>{`${udata.course} ${
+                              i + 1
+                            }`}</option>
+                          )
+                        )}
                       </select>
                     </div>
                     <div className="col-12">

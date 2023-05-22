@@ -46,7 +46,7 @@ const Blog = () => {
 
   useEffect(() => {
     setIsloading(true);
-    Axios.post("https://blogproapi.000webhostapp.com/api.php?blog=1")
+    Axios.post("https://blogpro.tech/api.php?blog=1")
       .then((response) => response)
       .then((data) => {
         setBlogData(data.data);
@@ -67,8 +67,19 @@ const Blog = () => {
     <>
       <Toaster />
       {isLoading && (
-        <div className="position-absolute top-50 start-50 translate-middle" style={{ backgroundColor: "rgba(0,0,0,0.5)", height: "100%", width: "100%", zIndex: "98" }}>
-          <img src="/../dogcur.gif" className="spinner display-1 position-absolute top-50 start-50 translate-middle" />
+        <div
+          className="position-absolute top-50 start-50 translate-middle"
+          style={{
+            backgroundColor: "rgba(0,0,0,0.5)",
+            height: "100%",
+            width: "100%",
+            zIndex: "98",
+          }}
+        >
+          <img
+            src="/../dogcur.gif"
+            className="spinner display-1 position-absolute top-50 start-50 translate-middle"
+          />
         </div>
       )}
       {params.id == "default" && (
@@ -86,7 +97,11 @@ const Blog = () => {
               </div>
 
               <div className="col-12 col-md-6 d-flex justify-content-end position-relative">
-                <img src="../../thero.png" className="img-fluid" style={{ width: "100%", maxWidth: "350px" }} />
+                <img
+                  src="../../thero.png"
+                  className="img-fluid"
+                  style={{ width: "100%", maxWidth: "350px" }}
+                />
                 <img src="../../nez.gif" className="img-fluid" style={nez} />
                 <img src="../../gary.gif" className="img-fluid gar" />
                 <img src="../../goku.gif" className="img-fluid gok" />
@@ -106,9 +121,13 @@ const Blog = () => {
                     <div className="card-body">
                       <h5 className="card-title">Horizontal Pixel Span - Python</h5>
                       <p className="card-text text-truncate">
-                        Horizontal Pixel span also known as Seed Fill span. A topic from Computer Graphics demosstrated suing Python PIL and graphics.py module.
+                        Horizontal Pixel span also known as Seed Fill span. A topic from Computer
+                        Graphics demosstrated suing Python PIL and graphics.py module.
                       </p>
-                      <Link to="/blog/def/horizontal-pixel-span" className="btn btn-warning fw-bold">
+                      <Link
+                        to="/blog/def/horizontal-pixel-span"
+                        className="btn btn-warning fw-bold"
+                      >
                         Read More. . .
                       </Link>
                     </div>
@@ -123,7 +142,11 @@ const Blog = () => {
       {params.id == "def" && <ArticleDefault />}
 
       {blogdata.reverse().map((ini, i) => {
-        return params.title.replaceAll("_", " ") == ini.heading.trim() && <Article data={ini} id={ini.id} key={i} />;
+        return (
+          params.title.replaceAll("_", " ") == ini.heading.trim() && (
+            <Article data={ini} id={ini.id} key={i} />
+          )
+        );
       })}
     </>
   );

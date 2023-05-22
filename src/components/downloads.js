@@ -17,7 +17,7 @@ const Download = () => {
 
   useEffect(() => {
     setIsloading(true);
-    Axios.post("https://blogproapi.000webhostapp.com/api.php?blog=0")
+    Axios.post("https://blogpro.tech/api.php?blog=0")
       .then((response) => response)
       .then((data) => {
         setAllFiles(data.data);
@@ -41,9 +41,17 @@ const Download = () => {
       {isLoading && (
         <div
           className="position-absolute top-50 start-50 translate-middle"
-          style={{ backgroundColor: "rgba(0,0,0,0.5)", height: "100%", width: "100%", zIndex: "98" }}
+          style={{
+            backgroundColor: "rgba(0,0,0,0.5)",
+            height: "100%",
+            width: "100%",
+            zIndex: "98",
+          }}
         >
-          <img src="dogcur.gif" className="spinner display-1 position-absolute top-50 start-50 translate-middle" />
+          <img
+            src="dogcur.gif"
+            className="spinner display-1 position-absolute top-50 start-50 translate-middle"
+          />
         </div>
       )}
       <div className="container mt-5 px-4">
@@ -62,7 +70,15 @@ const Download = () => {
         {!location.state &&
           allFiles.map((ini) => {
             if (ini.filename.toLowerCase().includes(searched)) {
-              return <Files fname={ini.filename} batch={ini.batch} key={ini.id} date={ini.Udate} uname={ini.name} />;
+              return (
+                <Files
+                  fname={ini.filename}
+                  batch={ini.batch}
+                  key={ini.id}
+                  date={ini.Udate}
+                  uname={ini.name}
+                />
+              );
             }
           })}
 
@@ -71,7 +87,13 @@ const Download = () => {
             (ini) =>
               grade === ini.batch &&
               ini.filename.toLowerCase().includes(searched) && (
-                <Files fname={ini.filename} batch={ini.batch} key={ini.id} date={ini.Udate} uname={ini.name} />
+                <Files
+                  fname={ini.filename}
+                  batch={ini.batch}
+                  key={ini.id}
+                  date={ini.Udate}
+                  uname={ini.name}
+                />
               )
           )}
       </div>

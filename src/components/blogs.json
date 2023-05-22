@@ -16,9 +16,33 @@
           "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }],
           "data": []
         },
-        { "key": "1tcmo", "text": "Amazon Crucible: 'Can games be as fun to watch as they are to play?'", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "49jn", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 1 }], "data": [] },
-        { "key": "5aci4", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "1tcmo",
+          "text": "Amazon Crucible: 'Can games be as fun to watch as they are to play?'",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "49jn",
+          "text": " ",
+          "type": "atomic",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [{ "offset": 0, "length": 1, "key": 1 }],
+          "data": []
+        },
+        {
+          "key": "5aci4",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "54mu8",
           "text": "Think of Amazon and last-minute deliveries, streaming box-sets and Kindles spring to mind - but not necessarily making video games.",
@@ -46,7 +70,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "6b7nq", "text": "\"Ultimately the players will get to decide whether or not we succeed.\"", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "6b7nq",
+          "text": "\"Ultimately the players will get to decide whether or not we succeed.\"",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "c3sa3",
           "text": "\"We're pleased with the feedback on early play-tests, but ultimately we don't know how good it is until it gets out there.\"",
@@ -74,11 +106,51 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "83utb", "text": "\"We're really looking forward to getting it out the door.\"", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "d3rmc", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "7blin", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "467do", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 2 }], "data": [] },
-        { "key": "2d2ld", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "83utb",
+          "text": "\"We're really looking forward to getting it out the door.\"",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "d3rmc",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "7blin",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "467do",
+          "text": " ",
+          "type": "atomic",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [{ "offset": 0, "length": 1, "key": 2 }],
+          "data": []
+        },
+        {
+          "key": "2d2ld",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "6k5qd",
           "text": "\ud83d\udcf7IMAGE SOURCE,AMAZON GAME STUDIOImage caption,Amazon Game Studios hope their titles, like Crucible, will resonate with streamers on Twitch",
@@ -133,7 +205,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "4up60", "text": "'It's like writing a new book every single week'", "type": "header-two", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "4up60",
+          "text": "'It's like writing a new book every single week'",
+          "type": "header-two",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "424se",
           "text": "With Fortnite recently announcing it has more than 350 million registered users, there's a big financial incentive to get more involved in game development.",
@@ -161,11 +241,51 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "gcdm", "text": "\"If the game's not fun, none of our long term ideas make a difference.\"", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "8d7ee", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "7msuf", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "epkou", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 6 }], "data": [] },
-        { "key": "f729j", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "gcdm",
+          "text": "\"If the game's not fun, none of our long term ideas make a difference.\"",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "8d7ee",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "7msuf",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "epkou",
+          "text": " ",
+          "type": "atomic",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [{ "offset": 0, "length": 1, "key": 6 }],
+          "data": []
+        },
+        {
+          "key": "f729j",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "5ah3c",
           "text": "\ud83d\udcf7IMAGE SOURCE,AMAZON GAME STUDIOImage caption,Crucible will try to compete with the hugely popular hero shooting game Overwatch",
@@ -202,10 +322,42 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "egdo6", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "eo3kh", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "4h4hh", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 8 }], "data": [] },
-        { "key": "1dqq9", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "egdo6",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "eo3kh",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "4h4hh",
+          "text": " ",
+          "type": "atomic",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [{ "offset": 0, "length": 1, "key": 8 }],
+          "data": []
+        },
+        {
+          "key": "1dqq9",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "a1c50",
           "text": "\ud83d\udcf7IMAGE SOURCE,AMAZON GAME STUDIOImage caption,The Coronavirus pandemic has impacted upon the release of Crucible and delayed another of Amazon Game Studios planned releases",
@@ -242,7 +394,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "39jf0", "text": "\"That's what makes sport so much fun, as you play with others.", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "39jf0",
+          "text": "\"That's what makes sport so much fun, as you play with others.",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "b1c3s",
           "text": "\"I think that's what helps create games that are re-playable, and it resonates well in Twitch too, so we're trying to explore those frontiers.\"",
@@ -252,7 +412,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "dv3gl", "text": "'Trying to earn respect'", "type": "header-two", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "dv3gl",
+          "text": "'Trying to earn respect'",
+          "type": "header-two",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "65rtr",
           "text": "The coronavirus pandemic has affected how the studio has been able to promote Crucible and delayed another title it's working on - an online multiplayer game called New World.",
@@ -262,7 +430,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "desju", "text": "But despite the difficulties and frustrations, there are some positives.", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "desju",
+          "text": "But despite the difficulties and frustrations, there are some positives.",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "4nc37",
           "text": "\"One of the reasons I've always loved games is not only is it a fun form of entertainment, but it's a way to connect with others,\" says Mike.",
@@ -290,10 +466,42 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "cgjp4", "text": "\"This is the starting line not isn't the finish line,\" he adds.", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "5bje4", "text": "\"We're trying to earn respect from players.\"", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "10ute", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "83ul7", "text": "That's it folks", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] }
+        {
+          "key": "cgjp4",
+          "text": "\"This is the starting line not isn't the finish line,\" he adds.",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "5bje4",
+          "text": "\"We're trying to earn respect from players.\"",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "10ute",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "83ul7",
+          "text": "That's it folks",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        }
       ],
       "entityMap": [
         {
@@ -306,26 +514,79 @@
             "width": "976"
           }
         },
-        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/13729/production/_112375697_1331db7a-17c0-4401-8cac-6a2309ff49b6.jpg.webp" } },
-        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/45CB/production/_112376871_crucible5.jpg.webp" } },
         {
-          "type": "IMAGE",
+          "type": "image",
           "mutability": "IMMUTABLE",
-          "data": { "alt": "Crucible character", "height": "549", "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/45CB/production/_112376871_crucible5.jpg", "width": "976" }
+          "data": {
+            "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/13729/production/_112375697_1331db7a-17c0-4401-8cac-6a2309ff49b6.jpg.webp"
+          }
         },
-        { "type": "LINK", "mutability": "MUTABLE", "data": { "href": "https://www.bbc.co.uk/news/technology-28930781", "url": "https://www.bbc.co.uk/news/technology-28930781" } },
-        { "type": "LINK", "mutability": "MUTABLE", "data": { "href": "https://www.bbc.co.uk/news/technology-52568173", "url": "https://www.bbc.co.uk/news/technology-52568173" } },
-        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/93EB/production/_112376873_crucible6.jpg.webp" } },
         {
-          "type": "IMAGE",
+          "type": "image",
           "mutability": "IMMUTABLE",
-          "data": { "alt": "Crucible screenshot", "height": "549", "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/93EB/production/_112376873_crucible6.jpg", "width": "976" }
+          "data": {
+            "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/45CB/production/_112376871_crucible5.jpg.webp"
+          }
         },
-        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/E20B/production/_112376875_crucible2.jpg.webp" } },
         {
           "type": "IMAGE",
           "mutability": "IMMUTABLE",
-          "data": { "alt": "Crucible screenshot", "height": "549", "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/E20B/production/_112376875_crucible2.jpg", "width": "976" }
+          "data": {
+            "alt": "Crucible character",
+            "height": "549",
+            "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/45CB/production/_112376871_crucible5.jpg",
+            "width": "976"
+          }
+        },
+        {
+          "type": "LINK",
+          "mutability": "MUTABLE",
+          "data": {
+            "href": "https://www.bbc.co.uk/news/technology-28930781",
+            "url": "https://www.bbc.co.uk/news/technology-28930781"
+          }
+        },
+        {
+          "type": "LINK",
+          "mutability": "MUTABLE",
+          "data": {
+            "href": "https://www.bbc.co.uk/news/technology-52568173",
+            "url": "https://www.bbc.co.uk/news/technology-52568173"
+          }
+        },
+        {
+          "type": "image",
+          "mutability": "IMMUTABLE",
+          "data": {
+            "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/93EB/production/_112376873_crucible6.jpg.webp"
+          }
+        },
+        {
+          "type": "IMAGE",
+          "mutability": "IMMUTABLE",
+          "data": {
+            "alt": "Crucible screenshot",
+            "height": "549",
+            "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/93EB/production/_112376873_crucible6.jpg",
+            "width": "976"
+          }
+        },
+        {
+          "type": "image",
+          "mutability": "IMMUTABLE",
+          "data": {
+            "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/E20B/production/_112376875_crucible2.jpg.webp"
+          }
+        },
+        {
+          "type": "IMAGE",
+          "mutability": "IMMUTABLE",
+          "data": {
+            "alt": "Crucible screenshot",
+            "height": "549",
+            "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/E20B/production/_112376875_crucible2.jpg",
+            "width": "976"
+          }
         },
         {
           "type": "LINK",
@@ -412,7 +673,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "45ea5", "text": "After opening the PSU unscrew the fan.", "type": "unordered-list-item", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "45ea5",
+          "text": "After opening the PSU unscrew the fan.",
+          "type": "unordered-list-item",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "8ig7b",
           "text": "Look on the front side of the fan and try to find a hole, most of the time it is hidden under a sticker or a small removable plastic circular cap. Open it, now you'll be able to see the shaft of the motor.",
@@ -422,12 +691,60 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "d1rv6", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "1gli6", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "5in1t", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }], "data": [] },
-        { "key": "5o4l9", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "dvipu", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "90gpf", "text": "You'll observe that it is lubed (or probably dried out).", "type": "unordered-list-item", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "d1rv6",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "1gli6",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "5in1t",
+          "text": " ",
+          "type": "atomic",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }],
+          "data": []
+        },
+        {
+          "key": "5o4l9",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "dvipu",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "90gpf",
+          "text": "You'll observe that it is lubed (or probably dried out).",
+          "type": "unordered-list-item",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "1e0aq",
           "text": "Now get a lubricant available in your house( recommended machine oil ).",
@@ -455,7 +772,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "ahlq3", "text": "Conclusion:", "type": "header-five", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "ahlq3",
+          "text": "Conclusion:",
+          "type": "header-five",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "f2178",
           "text": "The problem occurs due to dry fan shaft and bearings and that's the reason why sometimes it gives a sound of buzzing during the startup. hopefully, I'll be able to help you",
@@ -499,9 +824,33 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "3fg2o", "text": "", "type": "header-six", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "f66q3", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }], "data": [] },
-        { "key": "b9mq6", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "3fg2o",
+          "text": "",
+          "type": "header-six",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "f66q3",
+          "text": " ",
+          "type": "atomic",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }],
+          "data": []
+        },
+        {
+          "key": "b9mq6",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "aphc2",
           "text": "Samsung has sent off the Universe F14 5G in India, adding to its F series portfolio in the country. The passage level cell phone gets a double camera arrangement, highlighting a 50-megapixel essential camera and a 2-megapixel large scale sensor, as well as OneUI 5.1 Center in light of Android 13. Moreover, the gadget offers a 6.6-inch IPS FHD+ show and an enormous 6000 mAh battery.",
@@ -511,8 +860,24 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "93lku", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "6lgs6", "text": "SAMSUNG System F14 5G Details", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "93lku",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "6lgs6",
+          "text": "SAMSUNG System F14 5G Details",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "1ajhn",
           "text": "In the engine, the Samsung System F14 is fueled by the Exynos 1330 chipset, which depends on a 5 nm process and is accessible in two variations, one with 4GB and the other with 6GB of Slam, both contribution 128GB of implicit stockpiling. Clients can facilitate essentially extend the Slam by up to 12GB by utilizing the capacity. The 6.6-inch FHD+ IPS show accompanies an invigorate pace of 90Hz and houses a Limitlessness V score, which has a 13-megapixel selfie shooter.",
@@ -522,7 +887,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "581jd", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "581jd",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "e484l",
           "text": "On the back, the System F14 highlights a double camera arrangement \u2014 comprising of a 50-megapixel essential camera with an opening of f/1.8 and an optional 2-megapixel large scale camera. Furthermore, the cell phone gets a huge 6000mAh battery with 25W quick charging.",
@@ -532,7 +905,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "2i0e1", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "2i0e1",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "egtjs",
           "text": "On the product front, the System F14 5G elements One UI Center 5.1, which depends on Android 13 and is scheduled to get two significant Android operating system updates and four security refreshes. It likewise upholds 13 5G groups, and has a unique mark scanner coordinated in the power button. The gadget additionally conveys the help for Samsung Wallet \u2014 which makes computerized exchanges simpler.",
@@ -542,11 +923,51 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "b50vb", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "cjvm0", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 1 }], "data": [] },
-        { "key": "2jffi", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "8nacs", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "bdn59", "text": "SAMSUNG Cosmic system F14 5G Value AND Accessibility", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "b50vb",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "cjvm0",
+          "text": " ",
+          "type": "atomic",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [{ "offset": 0, "length": 1, "key": 1 }],
+          "data": []
+        },
+        {
+          "key": "2jffi",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "8nacs",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "bdn59",
+          "text": "SAMSUNG Cosmic system F14 5G Value AND Accessibility",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "bjefd",
           "text": "The Cosmic system F14 5G will be accessible in two models: 4GB+128GB variation estimated at Rs 14,490 and the 6GB+128GB variation valued at Rs 15,990, however clubbed with card offers, the gadget can be purchased for Rs 12,990 and Rs 14,490, separately. The gadget is accessible in three colorways \u2014 O.M.G Dark, G.O.A.T Green, B.A.E Purple. The gadget will be sold through Flipkart, select retail locations and Samsung's web-based store from Walk 30.",
@@ -558,8 +979,20 @@
         }
       ],
       "entityMap": [
-        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-f/f14-5g/sec_01_d.jpg?$ORIGIN_JPG$" } },
-        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-f/f14-5g/sec_02_d_v1.jpg?$ORIGIN_JPG$" } }
+        {
+          "type": "image",
+          "mutability": "IMMUTABLE",
+          "data": {
+            "src": "https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-f/f14-5g/sec_01_d.jpg?$ORIGIN_JPG$"
+          }
+        },
+        {
+          "type": "image",
+          "mutability": "IMMUTABLE",
+          "data": {
+            "src": "https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-f/f14-5g/sec_02_d_v1.jpg?$ORIGIN_JPG$"
+          }
+        }
       ]
     },
     "fb": "https://www.facebook.com/zebcorp76/",
@@ -585,11 +1018,51 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "bo6ec", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "2f982", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "ab7u1", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }], "data": [] },
-        { "key": "cc04g", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "6n0ou", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "bo6ec",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "2f982",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "ab7u1",
+          "text": " ",
+          "type": "atomic",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }],
+          "data": []
+        },
+        {
+          "key": "cc04g",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "6n0ou",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "8lps5",
           "text": "Microsoft has supposedly cautioned two web crawlers that utilization Bing's pursuit list that it will remove admittance to the record in the event that they use it as an establishment for rival artificial intelligence chatbots.",
@@ -599,7 +1072,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "bif4o", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "bif4o",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "dbdgv",
           "text": "As indicated by The Edge, Microsoft licenses out the Bing search record to a few motors including DuckDuckGo, Hurray and that's only the tip of the iceberg.",
@@ -609,7 +1090,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "88s8p", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "88s8p",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "9h389",
           "text": "Bloomberg has announced that Microsoft has cautioned two anonymous web search tools that they can't utilize the list to take care of information to their computer based intelligence chatbots. On the off chance that they keep on doing as such, Microsoft might try and end their permit.",
@@ -619,7 +1108,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "2jldm", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "2jldm",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "3tcc9",
           "text": "While it isn't clear which web indexes have been cautioned, DuckDuckGo presented its own GPT-based chatbot recently.",
@@ -629,7 +1126,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "3366g", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] }
+        {
+          "key": "3366g",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        }
       ],
       "entityMap": [
         {
@@ -664,9 +1169,33 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "bo6ec", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "71ukt", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }], "data": [] },
-        { "key": "30e7k", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "bo6ec",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "71ukt",
+          "text": " ",
+          "type": "atomic",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }],
+          "data": []
+        },
+        {
+          "key": "30e7k",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "8lps5",
           "text": "The Garena Free Fire MAX recover codes for Sunday, 26 Walk 2023, are refreshed at 12 PM. Enlisted players need to sign in to their records on the reclamation site - reward.ff.garena.com to guarantee the recover codes and dominate free in-match things. For the individuals who don't have any idea, Garena Free Fire MAX is an experience driven multiplayer fight royale game that permits enlisted players to appreciate different advantages. Individuals with free records don't approach any codes or gifts.",
@@ -676,7 +1205,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "579jn", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "579jn",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "dkh7g",
           "text": "The Garena Free Fire MAX reclaim codes for Sunday, 26 Walk, will be dynamic for a brief period so you ought to guarantee them soon from reward.ff.garena.com. You can utilize the free weapons and awards to battle against your foes in the multiplayer fight royale game. All players are encouraged to enlist themselves on the authority site in the event that they haven't as of now.",
@@ -686,9 +1223,25 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "3366g", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] }
+        {
+          "key": "3366g",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        }
       ],
-      "entityMap": [{ "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202202/untitled_design_6-sixteen_nine.png" } }]
+      "entityMap": [
+        {
+          "type": "image",
+          "mutability": "IMMUTABLE",
+          "data": {
+            "src": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202202/untitled_design_6-sixteen_nine.png"
+          }
+        }
+      ]
     },
     "fb": "https://www.facebook.com/zebcorp76/",
     "insta": "https://www.instagram.com/zeb_corp/",
@@ -713,9 +1266,33 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "an7od", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "18f6b", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }], "data": [] },
-        { "key": "e0kao", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "an7od",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "18f6b",
+          "text": " ",
+          "type": "atomic",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }],
+          "data": []
+        },
+        {
+          "key": "e0kao",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "cph86",
           "text": "\"I recollect unmistakably strolling into building 22 at Microsoft feeling that is the best work on Earth I have, and I want nothing more,\" Nadella said.",
@@ -725,7 +1302,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "d6t33", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "d6t33",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "cfuaj",
           "text": "In his thirty years at Microsoft, Nadella has dealt with different energizing and imaginative ventures, Roslansky, who shared the meeting experience on LinkedIn, said.",
@@ -737,7 +1322,13 @@
         }
       ],
       "entityMap": [
-        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://cdn.gobankingrates.com/wp-content/uploads/2021/01/satya-nadella-shutterstock_editorial_10356294a-e1611092195670.jpg" } }
+        {
+          "type": "image",
+          "mutability": "IMMUTABLE",
+          "data": {
+            "src": "https://cdn.gobankingrates.com/wp-content/uploads/2021/01/satya-nadella-shutterstock_editorial_10356294a-e1611092195670.jpg"
+          }
+        }
       ]
     },
     "fb": "https://www.facebook.com/zebcorp76/",
@@ -763,7 +1354,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "cqqvr", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "cqqvr",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "24s9e",
           "text": "Garena Free Fire Max is a multiplayer fight royale game. It appeared in 2021 as an improved adaptation of Free Fire after the Indian government prohibited Free Fire in the country.",
@@ -773,7 +1372,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "cl4cg", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "cl4cg",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "fudu8",
           "text": "Engineers of the Garena Free Fire Max game continue to refresh these codes day to day. There is likewise a committed microsite where players can visit to reclaim the accessible codes.",
@@ -783,8 +1390,24 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "d3n99", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "eqkh7", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }], "data": [] },
+        {
+          "key": "d3n99",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "eqkh7",
+          "text": " ",
+          "type": "atomic",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }],
+          "data": []
+        },
         {
           "key": "af2h0",
           "text": "Do take note of that the codes are accessible for restricted hours (as long as 12 hours) and for the initial 500 clients as it were. So pick up the pace and recover the codes before they lapse soon.",
@@ -794,7 +1417,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "9sbvi", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "9sbvi",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "6kstk",
           "text": "Here is the rundown of the relative multitude of dynamic codes for Walk 27, 2023:",
@@ -804,20 +1435,132 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "emton", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "8pgqu", "text": "4ST1ZTBE2RP9", "type": "unordered-list-item", "depth": 0, "inlineStyleRanges": [{ "offset": 0, "length": 12, "style": "BOLD" }], "entityRanges": [], "data": [] },
-        { "key": "8gcr7", "text": "FFCMCPSUYUY7E", "type": "unordered-list-item", "depth": 0, "inlineStyleRanges": [{ "offset": 0, "length": 13, "style": "BOLD" }], "entityRanges": [], "data": [] },
-        { "key": "6lv1d", "text": "EYH2W3XK8UPG", "type": "unordered-list-item", "depth": 0, "inlineStyleRanges": [{ "offset": 0, "length": 12, "style": "BOLD" }], "entityRanges": [], "data": [] },
-        { "key": "849r7", "text": "UVX9PYZV54AC", "type": "unordered-list-item", "depth": 0, "inlineStyleRanges": [{ "offset": 0, "length": 12, "style": "BOLD" }], "entityRanges": [], "data": [] },
-        { "key": "7lke4", "text": "6KWMFJVMQQYG", "type": "unordered-list-item", "depth": 0, "inlineStyleRanges": [{ "offset": 0, "length": 12, "style": "BOLD" }], "entityRanges": [], "data": [] },
-        { "key": "634th", "text": "FF7MUY4ME6SC", "type": "unordered-list-item", "depth": 0, "inlineStyleRanges": [{ "offset": 0, "length": 12, "style": "BOLD" }], "entityRanges": [], "data": [] },
-        { "key": "5via6", "text": "4ST1ZTBE2RP9", "type": "unordered-list-item", "depth": 0, "inlineStyleRanges": [{ "offset": 0, "length": 12, "style": "BOLD" }], "entityRanges": [], "data": [] },
-        { "key": "fchps", "text": "X99TK56XDJ4X", "type": "unordered-list-item", "depth": 0, "inlineStyleRanges": [{ "offset": 0, "length": 12, "style": "BOLD" }], "entityRanges": [], "data": [] },
-        { "key": "bvaqt", "text": "FFCMCPSJ99S3", "type": "unordered-list-item", "depth": 0, "inlineStyleRanges": [{ "offset": 0, "length": 12, "style": "BOLD" }], "entityRanges": [], "data": [] },
-        { "key": "bam78", "text": "3IBBMSL7AK8G", "type": "unordered-list-item", "depth": 0, "inlineStyleRanges": [{ "offset": 0, "length": 12, "style": "BOLD" }], "entityRanges": [], "data": [] },
-        { "key": "fk8va", "text": "J3ZKQ57Z2P2P", "type": "unordered-list-item", "depth": 0, "inlineStyleRanges": [{ "offset": 0, "length": 12, "style": "BOLD" }], "entityRanges": [], "data": [] },
-        { "key": "6u851", "text": "GCNVA2PDRGRZ", "type": "unordered-list-item", "depth": 0, "inlineStyleRanges": [{ "offset": 0, "length": 12, "style": "BOLD" }], "entityRanges": [], "data": [] },
-        { "key": "3hidi", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "emton",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "8pgqu",
+          "text": "4ST1ZTBE2RP9",
+          "type": "unordered-list-item",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 0, "length": 12, "style": "BOLD" }],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "8gcr7",
+          "text": "FFCMCPSUYUY7E",
+          "type": "unordered-list-item",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 0, "length": 13, "style": "BOLD" }],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "6lv1d",
+          "text": "EYH2W3XK8UPG",
+          "type": "unordered-list-item",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 0, "length": 12, "style": "BOLD" }],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "849r7",
+          "text": "UVX9PYZV54AC",
+          "type": "unordered-list-item",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 0, "length": 12, "style": "BOLD" }],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "7lke4",
+          "text": "6KWMFJVMQQYG",
+          "type": "unordered-list-item",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 0, "length": 12, "style": "BOLD" }],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "634th",
+          "text": "FF7MUY4ME6SC",
+          "type": "unordered-list-item",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 0, "length": 12, "style": "BOLD" }],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "5via6",
+          "text": "4ST1ZTBE2RP9",
+          "type": "unordered-list-item",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 0, "length": 12, "style": "BOLD" }],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "fchps",
+          "text": "X99TK56XDJ4X",
+          "type": "unordered-list-item",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 0, "length": 12, "style": "BOLD" }],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "bvaqt",
+          "text": "FFCMCPSJ99S3",
+          "type": "unordered-list-item",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 0, "length": 12, "style": "BOLD" }],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "bam78",
+          "text": "3IBBMSL7AK8G",
+          "type": "unordered-list-item",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 0, "length": 12, "style": "BOLD" }],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "fk8va",
+          "text": "J3ZKQ57Z2P2P",
+          "type": "unordered-list-item",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 0, "length": 12, "style": "BOLD" }],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "6u851",
+          "text": "GCNVA2PDRGRZ",
+          "type": "unordered-list-item",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 0, "length": 12, "style": "BOLD" }],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "3hidi",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "crhm3",
           "text": "Instructions to recover these codes",
@@ -827,9 +1570,33 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "fqn5q", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "frkd9", "text": "Go to the game's true Rewards Reclamation site on Chrome", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "do5la", "text": "Login to your record utilizing Facebook, Twitter, Google or VK ID", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "fqn5q",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "frkd9",
+          "text": "Go to the game's true Rewards Reclamation site on Chrome",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "do5la",
+          "text": "Login to your record utilizing Facebook, Twitter, Google or VK ID",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "57f8d",
           "text": "Presently, duplicate the codes referenced above and glue them in the message box",
@@ -859,7 +1626,13 @@
         }
       ],
       "entityMap": [
-        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/20232/83f3aecfe60c6ec13a09696b3465907a.jpg" } }
+        {
+          "type": "image",
+          "mutability": "IMMUTABLE",
+          "data": {
+            "src": "https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/20232/83f3aecfe60c6ec13a09696b3465907a.jpg"
+          }
+        }
       ]
     },
     "fb": "https://www.facebook.com/zebcorp76/",
@@ -885,10 +1658,42 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "dnf8o", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "cn5j4", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "5f56b", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }], "data": [] },
-        { "key": "54ams", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "dnf8o",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "cn5j4",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "5f56b",
+          "text": " ",
+          "type": "atomic",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }],
+          "data": []
+        },
+        {
+          "key": "54ams",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "6pkha",
           "text": "As per another report, Samsung will before long send off the 6GB Smash + 128GB capacity variation of the Cosmic system A34 5G in India. It will supposedly convey a sticker price of INR 28,999 (around $350). There is supposed to be a moment cashback of INR 3,000 by means of qualified bank cards and INR 1,000 markdown coupon through the Samsung Shop application, carrying the last cost to INR 24,999 (around $300).",
@@ -898,7 +1703,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "2vei1", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "2vei1",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "3mrta",
           "text": "The Cosmic system A34 5G is estimated at INR 30,999 for the 8GB Smash + 128GB capacity adaptation and INR 32,999 for the variant with 8GB Slam and 256GB interior stockpiling. Since the gadget has a microSD card opening, you can build the extra room utilizing a microSD card.",
@@ -908,7 +1721,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "845kb", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "845kb",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "9qvh6",
           "text": "Samsung has furnished the phone with a 6.6-inch Super AMOLED screen with a 120Hz invigorate rate and Gorilla Glass 5 security. It has a 13MP selfie camera, a 48MP essential camera with OIS, a 8MP ultrawide camera, and a 5MP full scale camera. It can record 4K 30fps recordings utilizing front and back cameras. It is controlled by the MediaTek Dimensity 1080 processor, a 5,000mAh battery, and 25W quick charging.",
@@ -918,10 +1739,34 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "anrms", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "1h3p", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] }
+        {
+          "key": "anrms",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "1h3p",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        }
       ],
-      "entityMap": [{ "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-a53/buy/A34_Desktop.jpg" } }]
+      "entityMap": [
+        {
+          "type": "image",
+          "mutability": "IMMUTABLE",
+          "data": {
+            "src": "https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-a53/buy/A34_Desktop.jpg"
+          }
+        }
+      ]
     },
     "fb": "https://www.facebook.com/zebcorp76/",
     "insta": "https://www.instagram.com/zeb_corp/",
@@ -946,7 +1791,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "6db2l", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "6db2l",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "2qcgt",
           "text": "\"Bunches keep on being a fundamental piece of WhatsApp, and we're eager to give individuals significantly more to",
@@ -965,11 +1818,51 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "7lia4", "text": "explanation read.", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "e3qe8", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "98dhv", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "1r3a6", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }], "data": [] },
-        { "key": "acqbi", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "7lia4",
+          "text": "explanation read.",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "e3qe8",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "98dhv",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "1r3a6",
+          "text": " ",
+          "type": "atomic",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }],
+          "data": []
+        },
+        {
+          "key": "acqbi",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "3r3bs",
           "text": "How about we examine the new updates exhaustively",
@@ -979,7 +1872,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "ec3ce", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "ec3ce",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "ldrt",
           "text": "Administrators to conclude who can join:",
@@ -1007,8 +1908,24 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "22bkt", "text": "can't come in.", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "blq79", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "22bkt",
+          "text": "can't come in.",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "blq79",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "3ovh",
           "text": "Effectively see bunches in like manner:",
@@ -1045,9 +1962,25 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "96had", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] }
+        {
+          "key": "96had",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        }
       ],
-      "entityMap": [{ "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://images.pexels.com/photos/4132538/pexels-photo-4132538.jpeg?cs=srgb&dl=pexels-anton-4132538.jpg&fm=jpg" } }]
+      "entityMap": [
+        {
+          "type": "image",
+          "mutability": "IMMUTABLE",
+          "data": {
+            "src": "https://images.pexels.com/photos/4132538/pexels-photo-4132538.jpeg?cs=srgb&dl=pexels-anton-4132538.jpg&fm=jpg"
+          }
+        }
+      ]
     },
     "fb": "https://www.facebook.com/zebcorp76/",
     "insta": "https://www.instagram.com/zeb_corp/",
@@ -1084,7 +2017,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "ekug3", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "ekug3",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "fkkjm",
           "text": "So this post is not going to discuss the uuidv4 or react-uuid and how random is random but give you an alternate way which just requires nothing well nothing.",
@@ -1094,8 +2035,24 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "d90ae", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "bi41t", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }], "data": [] },
+        {
+          "key": "d90ae",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "bi41t",
+          "text": " ",
+          "type": "atomic",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }],
+          "data": []
+        },
         {
           "key": "c81o2",
           "text": "We gonna use the random UUID () method of the Crypto interface which is used to generate a v4 UUID using a cryptographically secure random number generator.",
@@ -1114,7 +2071,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "46vaj", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "46vaj",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "581am",
           "text": "Using the random UUID () method is pretty straightforward forward as described below:",
@@ -1124,15 +2089,87 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "2hgos", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "419ek", "text": "let uid = self.crypto.randomUUID();", "type": "code-block", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "81un2", "text": "console.log(uid); // Output \"86b8k94d-df5e-49b9-b662-bcde71a874bf\"", "type": "code-block", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "cnghg", "text": "", "type": "code-block", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "eqs5v", "text": "/* if you are using react just remove the self  as follow*/", "type": "code-block", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "2iria", "text": "", "type": "code-block", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "3njkl", "text": "let uid = crypto.randomUUID();", "type": "code-block", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "eoqvv", "text": "console.log(uid); // Output \"86b8k94d-df5e-49b9-b662-bcde71a874bf\"", "type": "code-block", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "c1gfl", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "2hgos",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "419ek",
+          "text": "let uid = self.crypto.randomUUID();",
+          "type": "code-block",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "81un2",
+          "text": "console.log(uid); // Output \"86b8k94d-df5e-49b9-b662-bcde71a874bf\"",
+          "type": "code-block",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "cnghg",
+          "text": "",
+          "type": "code-block",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "eqs5v",
+          "text": "/* if you are using react just remove the self  as follow*/",
+          "type": "code-block",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "2iria",
+          "text": "",
+          "type": "code-block",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "3njkl",
+          "text": "let uid = crypto.randomUUID();",
+          "type": "code-block",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "eoqvv",
+          "text": "console.log(uid); // Output \"86b8k94d-df5e-49b9-b662-bcde71a874bf\"",
+          "type": "code-block",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "c1gfl",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "5qpnf",
           "text": "That's all folks. I hope it helped.\ud83d\ude0a",
@@ -1142,7 +2179,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "55vq4", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "55vq4",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "8pe0n",
           "text": "Further references can be found here:",
@@ -1152,11 +2197,41 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "2dn3j", "text": "https://developer.mozilla.org/en-US/docs/Web/API/Crypto/randomUUID", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "4fr87", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "3p6c2", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] }
+        {
+          "key": "2dn3j",
+          "text": "https://developer.mozilla.org/en-US/docs/Web/API/Crypto/randomUUID",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "4fr87",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "3p6c2",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        }
       ],
-      "entityMap": [{ "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://blogproapi.000webhostapp.com/186e85ec-fd49-497e-ad61-3709eb762b7a.jpg" } }]
+      "entityMap": [
+        {
+          "type": "image",
+          "mutability": "IMMUTABLE",
+          "data": { "src": "https://blogpro.tech/186e85ec-fd49-497e-ad61-3709eb762b7a.jpg" }
+        }
+      ]
     },
     "fb": "https://www.facebook.com/zebcorp76/",
     "insta": "https://www.instagram.com/zeb_corp/",
@@ -1181,8 +2256,24 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "1a5e2", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "8o3d2", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }], "data": [] },
+        {
+          "key": "1a5e2",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "8o3d2",
+          "text": " ",
+          "type": "atomic",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }],
+          "data": []
+        },
         {
           "key": "8ircq",
           "text": "Well I got a solution for you Rave.dj",
@@ -1192,7 +2283,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "8eug7", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "8eug7",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "7cee",
           "text": "Rave.dj is an AI-powered application. Where users can simply create mashups of multiple songs by simply just pasting links from platforms like youtube.",
@@ -1211,9 +2310,33 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "co6ub", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "f66dj", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 1 }], "data": [] },
-        { "key": "dhc91", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "co6ub",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "f66dj",
+          "text": " ",
+          "type": "atomic",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [{ "offset": 0, "length": 1, "key": 1 }],
+          "data": []
+        },
+        {
+          "key": "dhc91",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "3cmk0",
           "text": "Now, these mashups sometimes are just gems but sometimes straight-up garbage.",
@@ -1223,7 +2346,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "9qskv", "text": "The mashup quality depends highly on the song choices.", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "9qskv",
+          "text": "The mashup quality depends highly on the song choices.",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "4n3b3",
           "text": "All songs' bpm, vocal lengths, and music/instrumental length can make a mashup great and trash at the same time.",
@@ -1233,8 +2364,24 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "2hn9h", "text": "So overall it's a hit and trial for the most part.", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "81ald", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "2hn9h",
+          "text": "So overall it's a hit and trial for the most part.",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "81ald",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "ce5d0",
           "text": "Below are the two tracks which are basically two tracks mashups that are somewhat good:",
@@ -1244,7 +2391,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "87ck7", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "87ck7",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "ejj9n",
           "text": "1. Cheat Codes - Let me hold you X Chris Brown - Options",
@@ -1254,9 +2409,33 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "b1vnb", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "8ss9a", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 2 }], "data": [] },
-        { "key": "1kqrk", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "b1vnb",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "8ss9a",
+          "text": " ",
+          "type": "atomic",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [{ "offset": 0, "length": 1, "key": 2 }],
+          "data": []
+        },
+        {
+          "key": "1kqrk",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "9ntho",
           "text": "2. Martin Garrix's - Don't look down X Robin Schulz's - Shed a light",
@@ -1266,21 +2445,79 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "7lber", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "5ts88", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 3 }], "data": [] },
-        { "key": "3our4", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "c80al", "text": "Go Check it out Here:", "type": "header-five", "depth": 0, "inlineStyleRanges": [{ "offset": 0, "length": 21, "style": "ITALIC" }], "entityRanges": [], "data": [] },
-        { "key": "car5r", "text": "https://rave.dj/", "type": "unstyled", "depth": 0, "inlineStyleRanges": [{ "offset": 0, "length": 16, "style": "BOLD" }], "entityRanges": [], "data": [] }
+        {
+          "key": "7lber",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "5ts88",
+          "text": " ",
+          "type": "atomic",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [{ "offset": 0, "length": 1, "key": 3 }],
+          "data": []
+        },
+        {
+          "key": "3our4",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "c80al",
+          "text": "Go Check it out Here:",
+          "type": "header-five",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 0, "length": 21, "style": "ITALIC" }],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "car5r",
+          "text": "https://rave.dj/",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 0, "length": 16, "style": "BOLD" }],
+          "entityRanges": [],
+          "data": []
+        }
       ],
       "entityMap": [
-        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://cdn.pixabay.com/photo/2016/11/22/19/15/hand-1850120__480.jpg" } },
         {
           "type": "image",
           "mutability": "IMMUTABLE",
-          "data": { "src": "https://external-preview.redd.it/i0yHNBNig0YXtdvDhJN84jsSH-W0pYKquZmBjxsGiaU.jpg?auto=webp&s=1bd85e02370660ed1193a056515c626ddc9e277b" }
+          "data": { "src": "https://cdn.pixabay.com/photo/2016/11/22/19/15/hand-1850120__480.jpg" }
         },
-        { "type": "video", "mutability": "IMMUTABLE", "data": { "src": "https://assets2.rave.dj/videos/d1915a02-1e4d-438b-b857-ab06bbf52071720.mp4" } },
-        { "type": "video", "mutability": "IMMUTABLE", "data": { "src": "https://assets2.rave.dj/videos/3113a21d-0fd7-497f-8007-ec27cf359345720.mp4" } }
+        {
+          "type": "image",
+          "mutability": "IMMUTABLE",
+          "data": {
+            "src": "https://external-preview.redd.it/i0yHNBNig0YXtdvDhJN84jsSH-W0pYKquZmBjxsGiaU.jpg?auto=webp&s=1bd85e02370660ed1193a056515c626ddc9e277b"
+          }
+        },
+        {
+          "type": "video",
+          "mutability": "IMMUTABLE",
+          "data": {
+            "src": "https://assets2.rave.dj/videos/d1915a02-1e4d-438b-b857-ab06bbf52071720.mp4"
+          }
+        },
+        {
+          "type": "video",
+          "mutability": "IMMUTABLE",
+          "data": {
+            "src": "https://assets2.rave.dj/videos/3113a21d-0fd7-497f-8007-ec27cf359345720.mp4"
+          }
+        }
       ]
     },
     "fb": "https://www.facebook.com/zebcorp76/",
@@ -1306,9 +2543,33 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "avib9", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "3tg1q", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }], "data": [] },
-        { "key": "d4cpf", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "avib9",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "3tg1q",
+          "text": " ",
+          "type": "atomic",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }],
+          "data": []
+        },
+        {
+          "key": "d4cpf",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "dv5dc",
           "text": "Xiaomi as of late declared MIUI 14 in light of Android 13 in India. Xiaomi 13 Master, organization's leader phone, was quick to get the product out of the case however a great deal of other Xiaomi, Redmi and even Poco phones will get the update before very long. Xiaomi professes to have further developed notice the executives and application cleaning with MIUI 14 alongside presenting a large group of new highlights including a Pixel-like item eraser, double drifting windows and extended envelopes. The new Xiaomi UI likewise guarantees a more customized and outwardly rich experience. The initial not many phones to get the update will incorporate Xiaomi 12 Ace, Mi 11 Ultra, Mi 11X Star 5G, Mi 11T Master, Redmi Note 12 Pro+ 5G, Mi 11X, Redmi Note 12 Expert 5G, Redmi K50i 5G, Xiaomi 11 Light NE 5G, and Redmi 11 Prime 5G. These phones will get the update in the main quarter of 2023.",
@@ -1318,10 +2579,42 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "8g37d", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "22dq0", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "6mgng", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 1 }], "data": [] },
-        { "key": "6es6q", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "8g37d",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "22dq0",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "6mgng",
+          "text": " ",
+          "type": "atomic",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [{ "offset": 0, "length": 1, "key": 1 }],
+          "data": []
+        },
+        {
+          "key": "6es6q",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "6uc2k",
           "text": "1. Capacity to eliminate pre-introduced applications. ",
@@ -1340,9 +2633,33 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "bo832", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "frtjb", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "c5o7h", "text": "2. Extended Envelopes", "type": "header-five", "depth": 0, "inlineStyleRanges": [{ "offset": 0, "length": 21, "style": "BOLD" }], "entityRanges": [], "data": [] },
+        {
+          "key": "bo832",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "frtjb",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "c5o7h",
+          "text": "2. Extended Envelopes",
+          "type": "header-five",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 0, "length": 21, "style": "BOLD" }],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "44qqi",
           "text": "This is such a tomfoolery and helpful component that I frequently can't help thinking about why more cell phone organizations haven't presented it yet. As the name makes sense of, MIUI 14 permits you to expand the size of any envelope on the home screen. It was two advantages - one the extended envelopes are featured and are simpler to distinguish on the home screen - second you can straightforwardly tap on any application and open it without having to open the organizer in fact. To utilize broadened organizers, tap and hang on any envelope on the home screen, select alter organizer and you will see the choices to choose among Developed and XXL sizes.",
@@ -1352,9 +2669,33 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "8sqrf", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "ds6iv", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "3bgc5", "text": "3. New backdrops", "type": "header-five", "depth": 0, "inlineStyleRanges": [{ "offset": 0, "length": 16, "style": "BOLD" }], "entityRanges": [], "data": [] },
+        {
+          "key": "8sqrf",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "ds6iv",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "3bgc5",
+          "text": "3. New backdrops",
+          "type": "header-five",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 0, "length": 16, "style": "BOLD" }],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "fdnbu",
           "text": "Next up are two minor at the same time, visual changes. First of them are the new backdrops. Xiaomi has presented a sum of six new backdrops on MIUI 14. The greater part of them look propelled by iPhone backdrops however it is in every case great to have more choices to play with.",
@@ -1364,9 +2705,33 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "eflef", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "f496k", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "84jjb", "text": "4. Pocket mode", "type": "header-five", "depth": 0, "inlineStyleRanges": [{ "offset": 0, "length": 14, "style": "BOLD" }], "entityRanges": [], "data": [] },
+        {
+          "key": "eflef",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "f496k",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "84jjb",
+          "text": "4. Pocket mode",
+          "type": "header-five",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 0, "length": 14, "style": "BOLD" }],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "f5q6p",
           "text": "Here is an element that likely ought to have shown up before however is great to have - Pocket mode. Once more, beautiful plain as day, this component forestalls unplanned contacts while your phone is in your pocket. This can be empowered from the Settings menu. Just pursuit pocket and empower 'no pocket dial'.",
@@ -1376,8 +2741,24 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "31pme", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "99u8l", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "31pme",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "99u8l",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "2r4d4",
           "text": "6. Duplicate text from the photograph",
@@ -1396,9 +2777,33 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "1revb", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "43il4", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "b6t11", "text": "7. Defensive watermark", "type": "header-five", "depth": 0, "inlineStyleRanges": [{ "offset": 0, "length": 22, "style": "BOLD" }], "entityRanges": [], "data": [] },
+        {
+          "key": "1revb",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "43il4",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "b6t11",
+          "text": "7. Defensive watermark",
+          "type": "header-five",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 0, "length": 22, "style": "BOLD" }],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "dhmko",
           "text": "An exceptionally valuable and misjudged highlight. I know a lot of time we makers spend attempting to track down ways of safeguarding our substance. Furthermore, finding the ideal watermark as well as its positioning is almost incomprehensible. Seems like Xiaomi has fixed that for us. Presently, you can basically go to any image, select the defensive watermark from the settings, and put the message you need and the phone naturally makes a watermark and positions it on top of the image.",
@@ -1408,7 +2813,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "u8lm", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "u8lm",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "eaav1",
           "text": "There are a couple of different elements that this post doesn't examine. In any case, we'll survey it when the UI update carries out to the majority.",
@@ -1418,11 +2831,31 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "8ghgp", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] }
+        {
+          "key": "8ghgp",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        }
       ],
       "entityMap": [
-        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://fdn.gsmarena.com/imgroot/news/23/02/miui-14-update-list/gallery/-1200/gsmarena_001.jpg" } },
-        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://xiaomiplanet.sk/wp-content/uploads/2022/12/miui-14-novy-cover.jpg" } }
+        {
+          "type": "image",
+          "mutability": "IMMUTABLE",
+          "data": {
+            "src": "https://fdn.gsmarena.com/imgroot/news/23/02/miui-14-update-list/gallery/-1200/gsmarena_001.jpg"
+          }
+        },
+        {
+          "type": "image",
+          "mutability": "IMMUTABLE",
+          "data": {
+            "src": "https://xiaomiplanet.sk/wp-content/uploads/2022/12/miui-14-novy-cover.jpg"
+          }
+        }
       ]
     },
     "fb": "https://www.facebook.com/zebcorp76/",
@@ -1448,10 +2881,42 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "54hct", "text": "", "type": "header-five", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "8smrb", "text": "", "type": "header-five", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "7livd", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }], "data": [] },
-        { "key": "fgnp7", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "54hct",
+          "text": "",
+          "type": "header-five",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "8smrb",
+          "text": "",
+          "type": "header-five",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "7livd",
+          "text": " ",
+          "type": "atomic",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [{ "offset": 0, "length": 1, "key": 0 }],
+          "data": []
+        },
+        {
+          "key": "fgnp7",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "331mu",
           "text": "Accordingly, we have organized this rundown of the top-of-the-line cell phones under 5000. Indeed, you can track down various great choices inside the limits of a financial plan of 5000 rupees. This rundown covers cell phones as well as incorporates the customary phones, to pursue decisions more differently and reasonably for individuals of various age gatherings. In this way, remain till the finish to find out about these low-spending plan phones.",
@@ -1461,9 +2926,33 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "v61k", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "gtb9", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "9jrpd", "text": "", "type": "header-five", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "v61k",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "gtb9",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "9jrpd",
+          "text": "",
+          "type": "header-five",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "k1st",
           "text": "1. Nokia C01",
@@ -1476,10 +2965,42 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "7faso", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "1q5c0", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 1 }], "data": [] },
-        { "key": "44n8p", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "a1udq", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "7faso",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "1q5c0",
+          "text": " ",
+          "type": "atomic",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [{ "offset": 0, "length": 1, "key": 1 }],
+          "data": []
+        },
+        {
+          "key": "44n8p",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "a1udq",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "59als",
           "text": "On the off chance that you are searching for a Nokia phone under 5000, you should think about the Nokia C01 In addition. It accompanies an HD+ show for a vivid encounter. It likewise gloats of a strong plan with an Octa-center processor for quick execution. It even offers you the security of simulated intelligence-fueled Face Open. The 5MP AF back camera and 2MP front camera accompany the streak on the two sides. The phone saves information and extra room with the Android 11.0 (Go version) making it one of the most outstanding phones under 5000. You can get this phone in one or the other blue or dim variety.",
@@ -1489,7 +3010,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "978fq", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "978fq",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "c3cns",
           "text": "Working Framework: Android 11.0",
@@ -1517,16 +3046,96 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "6uo5k", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "2ieg0", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "dkvke", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "ac4fu", "text": "2. Lava Z61", "type": "header-five", "depth": 0, "inlineStyleRanges": [{ "offset": 0, "length": 11, "style": "BOLD" }], "entityRanges": [], "data": [] },
-        { "key": "9qf9u", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "2dbj2", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "9lt78", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "17r3p", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 2 }], "data": [] },
-        { "key": "blat1", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "dvsjm", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "6uo5k",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "2ieg0",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "dkvke",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "ac4fu",
+          "text": "2. Lava Z61",
+          "type": "header-five",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 0, "length": 11, "style": "BOLD" }],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "9qf9u",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "2dbj2",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "9lt78",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "17r3p",
+          "text": " ",
+          "type": "atomic",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [{ "offset": 0, "length": 1, "key": 2 }],
+          "data": []
+        },
+        {
+          "key": "blat1",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "dvsjm",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "dvqrk",
           "text": "This thrilling Lava phone accompanies an 8MP back camera and offers you super night, channel, GIF, display, and a lot more such modes, permitting you to take wonderful and fun pictures. This is upheld by a 5MP front camera. The IPS HD+ show accompanies 2.5D corning Gorilla glass insurance and 5-guide contact toward upgrading your gaming experience. Its strong battery gives you a discussion season of 16 hours and commitments a backup season of 183 hours. The phone likewise accompanies a 1.5Amp charger that permits you to charge the battery in 2 hours and 12 minutes completely. In this way, it very well may be effectively thought to be one of the most outstanding phones under 5000. You can get this snazzy cell phone under 5000 of every two tones, dark and gold.",
@@ -1536,7 +3145,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "1uh18", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "1uh18",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "74oe7",
           "text": "Working Framework: Android Oreo 8.1",
@@ -1564,13 +3181,69 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "80ou7", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "da7cr", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "mdl3", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "dnpb6", "text": "3. Gionee F8 Neo", "type": "header-five", "depth": 0, "inlineStyleRanges": [{ "offset": 0, "length": 16, "style": "BOLD" }], "entityRanges": [], "data": [] },
-        { "key": "9h431", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "fgle8", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 3 }], "data": [] },
-        { "key": "7knqq", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "80ou7",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "da7cr",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "mdl3",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "dnpb6",
+          "text": "3. Gionee F8 Neo",
+          "type": "header-five",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 0, "length": 16, "style": "BOLD" }],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "9h431",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "fgle8",
+          "text": " ",
+          "type": "atomic",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [{ "offset": 0, "length": 1, "key": 3 }],
+          "data": []
+        },
+        {
+          "key": "7knqq",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "3ffjn",
           "text": "Gionee F8 Neo accompanies a 5.45-inch contact screen show that gives you an ideal survey insight. For people who need a low-spending plan phone with highlights like Face open and QR code scanner, this phone could be the phone they are searching for. It brags 32 GB inward memory that can be extended up to 256GB. This double sim phone is furnished with an 8MP back AF camera with self-adjust and a 5MP selfie camera. You can get it in two tones, blue and dark.",
@@ -1580,7 +3253,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "4lk4a", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "4lk4a",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "c4b47",
           "text": "Working Framework: Android 10.0",
@@ -1590,7 +3271,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "21cej", "text": "Warranty: 1-year guarantee", "type": "unstyled", "depth": 0, "inlineStyleRanges": [{ "offset": 0, "length": 10, "style": "BOLD" }], "entityRanges": [], "data": [] },
+        {
+          "key": "21cej",
+          "text": "Warranty: 1-year guarantee",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 0, "length": 10, "style": "BOLD" }],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "1vbsr",
           "text": "Exceptional elements: Face Open, Eye Solace, Shrewd Signals, QR code Scanner",
@@ -1600,17 +3289,105 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "34l6t", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "3hvul", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "e5oc3", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "vses", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "f4ihf", "text": "4. LYF CK LS-5002", "type": "header-five", "depth": 0, "inlineStyleRanges": [{ "offset": 0, "length": 17, "style": "BOLD" }], "entityRanges": [], "data": [] },
-        { "key": "c9rid", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "1akak", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "5925g", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "47cuh", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 4 }], "data": [] },
-        { "key": "5kbcs", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "1g2rr", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "34l6t",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "3hvul",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "e5oc3",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "vses",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "f4ihf",
+          "text": "4. LYF CK LS-5002",
+          "type": "header-five",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 0, "length": 17, "style": "BOLD" }],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "c9rid",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "1akak",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "5925g",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "47cuh",
+          "text": " ",
+          "type": "atomic",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [{ "offset": 0, "length": 1, "key": 4 }],
+          "data": []
+        },
+        {
+          "key": "5kbcs",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "1g2rr",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "42dv2",
           "text": "This LYF phone accompanies a minimized 5-inch full HD show. It offers you a 13MP back and a 5MP front camera. The phone has a smooth and tasteful bend-edge plan that is solid and scratch-safe. Its 16GB interior memory is expandable up to 32 GB. You can get this cell phone for under 5000 making it a pocket-accommodating choice. The phone is presented in two exemplary varieties, highly contrasting.",
@@ -1620,8 +3397,24 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "futf9", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "8uafa", "text": "Working Framework: Android", "type": "unstyled", "depth": 0, "inlineStyleRanges": [{ "offset": 0, "length": 18, "style": "BOLD" }], "entityRanges": [], "data": [] },
+        {
+          "key": "futf9",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "8uafa",
+          "text": "Working Framework: Android",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 0, "length": 18, "style": "BOLD" }],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "3t15c",
           "text": "Warranty: 1 year for portable and a half year for embellishments",
@@ -1640,15 +3433,87 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "79hus", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "8ip6r", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "8nqtk", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "24vlg", "text": "5. Itel S41", "type": "header-five", "depth": 0, "inlineStyleRanges": [{ "offset": 0, "length": 11, "style": "BOLD" }], "entityRanges": [], "data": [] },
-        { "key": "ce1vj", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "59q30", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "bqs1", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 5 }], "data": [] },
-        { "key": "c58s0", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "11j3c", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "79hus",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "8ip6r",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "8nqtk",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "24vlg",
+          "text": "5. Itel S41",
+          "type": "header-five",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 0, "length": 11, "style": "BOLD" }],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "ce1vj",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "59q30",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "bqs1",
+          "text": " ",
+          "type": "atomic",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [{ "offset": 0, "length": 1, "key": 5 }],
+          "data": []
+        },
+        {
+          "key": "c58s0",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "11j3c",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "fbei8",
           "text": "One more reasonable choice for those searching for a portable under 5000 is the Itel S41. It accompanies an HD screen goal and is controlled by a Cortex A53 processor matched with a 3GB Smash. It has an 8MP back and front camera that is outfitted with a Drove streak. Its unique finger impression sensor gives you improved security. This phone offers a without-slip grasp and is lightweight, making it simple to convey.",
@@ -1658,7 +3523,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "65vtn", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "65vtn",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "bnoqm",
           "text": "Working Framework: Android 7.0",
@@ -1668,7 +3541,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "7fn0p", "text": "Warranty: 1 year guarantee", "type": "unstyled", "depth": 0, "inlineStyleRanges": [{ "offset": 0, "length": 10, "style": "BOLD" }], "entityRanges": [], "data": [] },
+        {
+          "key": "7fn0p",
+          "text": "Warranty: 1 year guarantee",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 0, "length": 10, "style": "BOLD" }],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "41mkt",
           "text": "Unique highlights: Supports 4G availability, Finger impression sensor, HD show",
@@ -1678,14 +3559,78 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "b2o4p", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "c39bh", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "44j57", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "3tqsa", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "fqbd4", "text": "6. JioFi Jio phone next", "type": "header-five", "depth": 0, "inlineStyleRanges": [{ "offset": 0, "length": 23, "style": "BOLD" }], "entityRanges": [], "data": [] },
-        { "key": "1ofvi", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "b5sqr", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 6 }], "data": [] },
-        { "key": "3jh6a", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "b2o4p",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "c39bh",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "44j57",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "3tqsa",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "fqbd4",
+          "text": "6. JioFi Jio phone next",
+          "type": "header-five",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 0, "length": 23, "style": "BOLD" }],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "1ofvi",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "b5sqr",
+          "text": " ",
+          "type": "atomic",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [{ "offset": 0, "length": 1, "key": 6 }],
+          "data": []
+        },
+        {
+          "key": "3jh6a",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "44nhe",
           "text": "In the event that you are searching for a Jio phone under 5000, this phone is an extraordinary decision for you. It accompanies 32GB interior memory and the Qualcomm Snapdragon QM-215 Processor. It has a 13MP essential camera and an 8MP selfie camera that accompanies a night mode and empowers you to catch significant minutes. Nonetheless, this phone will be functional just when associated with a functioning Jio sim. The phone is presented in one or the other blue or dark tones.",
@@ -1695,7 +3640,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "66n8t", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "66n8t",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "89mef",
           "text": "Working framework: Android 10.0",
@@ -1723,16 +3676,96 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "cljg2", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "4b56l", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "bi6kl", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "1pu83", "text": "7. LAVA Z1", "type": "header-five", "depth": 0, "inlineStyleRanges": [{ "offset": 0, "length": 10, "style": "BOLD" }], "entityRanges": [], "data": [] },
-        { "key": "fevpp", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "3hn4l", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "7pukk", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "du2fm", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 7 }], "data": [] },
-        { "key": "a9o7e", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "7as6", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "cljg2",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "4b56l",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "bi6kl",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "1pu83",
+          "text": "7. LAVA Z1",
+          "type": "header-five",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 0, "length": 10, "style": "BOLD" }],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "fevpp",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "3hn4l",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "7pukk",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "du2fm",
+          "text": " ",
+          "type": "atomic",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [{ "offset": 0, "length": 1, "key": 7 }],
+          "data": []
+        },
+        {
+          "key": "a9o7e",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "7as6",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "epq6d",
           "text": "The LAVA Z1s brags of a vivid presentation and a strong battery that permits you to utilize numerous applications easily. It offers you a 5MP back and a 2MP selfie camera, both furnished with Drove streak. It accompanies a delight mode, a HDR mode and a night mode alongside a 720p HD recording. This cell phone under 5000 has an interior memory of 16GB that is expandable up to 256GB. You can get this phone in two unique tones, blue and cyan.",
@@ -1742,7 +3775,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "d5ffc", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "d5ffc",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "f6fr3",
           "text": "Working Framework: Android 11.0",
@@ -1770,15 +3811,87 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "2aeiq", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "7vunj", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "b0p0b", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "enqg9", "text": "8. SeniorWorld Royale", "type": "header-five", "depth": 0, "inlineStyleRanges": [{ "offset": 0, "length": 21, "style": "BOLD" }], "entityRanges": [], "data": [] },
-        { "key": "4kh4c", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "br0jk", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "fufr8", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 8 }], "data": [] },
-        { "key": "9sbj2", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "3u322", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "2aeiq",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "7vunj",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "b0p0b",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "enqg9",
+          "text": "8. SeniorWorld Royale",
+          "type": "header-five",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 0, "length": 21, "style": "BOLD" }],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "4kh4c",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "br0jk",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "fufr8",
+          "text": " ",
+          "type": "atomic",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [{ "offset": 0, "length": 1, "key": 8 }],
+          "data": []
+        },
+        {
+          "key": "9sbj2",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "3u322",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "90ljb",
           "text": "Assuming you are searching for cell phones under 5000 which are reasonable for senior residents, then, at that point, do consider this SeniorWorld phone. This flip phone offers you the simplicity of dialing, with huge isolated keys and photograph speed dial, that permits you to call the 8 most loved contacts with next to no problem. The phone is plain with a choice to support it. There is an SOS button that can be utilized to look for help in the event of a crisis and the phone permits you to set clinical updates. It is not difficult to CareTouch application.",
@@ -1788,7 +3901,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "bnbjq", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "bnbjq",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "659uo",
           "text": "Working Framework: Core operating system",
@@ -1798,7 +3919,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "bn2t4", "text": "Warranty: 2 years warranty", "type": "unstyled", "depth": 0, "inlineStyleRanges": [{ "offset": 0, "length": 9, "style": "BOLD" }], "entityRanges": [], "data": [] },
+        {
+          "key": "bn2t4",
+          "text": "Warranty: 2 years warranty",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 0, "length": 9, "style": "BOLD" }],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "6oq19",
           "text": "Extraordinary elements: Novel photograph speed dial, SOS button, Design phone from a distance, Dock charger, Sound supporter, Clinical updates",
@@ -1808,9 +3937,33 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "7paj1", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "9769m", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "7qoqp", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "7paj1",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "9769m",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "7qoqp",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "98fol",
           "text": "9. Samsung Guru Music 2 315",
@@ -1820,11 +3973,51 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "1t9uk", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "97hde", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "bs8j", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 9 }], "data": [] },
-        { "key": "16fc0", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "2pd1r", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "1t9uk",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "97hde",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "bs8j",
+          "text": " ",
+          "type": "atomic",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [{ "offset": 0, "length": 1, "key": 9 }],
+          "data": []
+        },
+        {
+          "key": "16fc0",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "2pd1r",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "dinkg",
           "text": "This Samsung phone arrives in a conservative and wonderful plan. It stands apart from the standard cell phones under 5000 as it accompanies a memory that is expandable up to 16GB which is standard with the cell phones here. You can amass to 3000 melodies on this phone and its FM radio additionally has the choice for recording. The phone accompanies a committed beginning/stop music button. The phone comes in 5 unique tones, to be specific, dark, white, gold, indigo endlessly blue.",
@@ -1834,7 +4027,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "42n2d", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "42n2d",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "96nj",
           "text": "Working framework: Android 8.1, Android v9 1 piece",
@@ -1862,15 +4063,87 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "ctq3m", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "fmi5p", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "e5k4h", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "3v08u", "text": "10. Nokia 5310", "type": "header-five", "depth": 0, "inlineStyleRanges": [{ "offset": 0, "length": 14, "style": "BOLD" }], "entityRanges": [], "data": [] },
-        { "key": "4kqct", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "1f5p2", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "94iil", "text": " ", "type": "atomic", "depth": 0, "inlineStyleRanges": [], "entityRanges": [{ "offset": 0, "length": 1, "key": 10 }], "data": [] },
-        { "key": "5eqj9", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "6g20a", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "ctq3m",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "fmi5p",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "e5k4h",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "3v08u",
+          "text": "10. Nokia 5310",
+          "type": "header-five",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 0, "length": 14, "style": "BOLD" }],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "4kqct",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "1f5p2",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "94iil",
+          "text": " ",
+          "type": "atomic",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [{ "offset": 0, "length": 1, "key": 10 }],
+          "data": []
+        },
+        {
+          "key": "5eqj9",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "6g20a",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "3d3b2",
           "text": "The Nokia 5310 could end up being an incredibly solid phone, you can get this versatile under 5000 and it accompanies a patched-up plan. It's double forward-looking speakers guarantee that the sound is distinct. It likewise accompanies an FM radio and MP3 player. It has a back camera with a blaze that permits you to effortlessly catch significant minutes. Moreover, it accompanies a multi-day backup time ensuring that you generally stay associated.",
@@ -1880,7 +4153,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "66j98", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "66j98",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "c56sr",
           "text": "Working Framework: Series 30+",
@@ -1890,7 +4171,15 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "aim0a", "text": "Warranty: 1 year", "type": "unstyled", "depth": 0, "inlineStyleRanges": [{ "offset": 0, "length": 12, "style": "BOLD" }], "entityRanges": [], "data": [] },
+        {
+          "key": "aim0a",
+          "text": "Warranty: 1 year",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [{ "offset": 0, "length": 12, "style": "BOLD" }],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "dn50c",
           "text": "Unique highlights: FM Radio, MP3 Player, Worked in the streak, Bluetooth",
@@ -1900,8 +4189,24 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "8rbr6", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "9gicm", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
+        {
+          "key": "8rbr6",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "9gicm",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
         {
           "key": "2ot2k",
           "text": "That is our main 10 under Rs 5000.",
@@ -1914,29 +4219,109 @@
           "entityRanges": [],
           "data": []
         },
-        { "key": "bqcdr", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "1lt65", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] },
-        { "key": "7piq2", "text": "", "type": "unstyled", "depth": 0, "inlineStyleRanges": [], "entityRanges": [], "data": [] }
+        {
+          "key": "bqcdr",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "1lt65",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        },
+        {
+          "key": "7piq2",
+          "text": "",
+          "type": "unstyled",
+          "depth": 0,
+          "inlineStyleRanges": [],
+          "entityRanges": [],
+          "data": []
+        }
       ],
       "entityMap": [
-        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://beebom.com/wp-content/uploads/2018/06/Best-4G-Phones-Under-5000.jpg?w=750&quality=75" } },
         {
           "type": "image",
           "mutability": "IMMUTABLE",
-          "data": { "src": "https://images.ctfassets.net/wcfotm6rrl7u/3cyt9qruCz7b5DEoLZ2YAC/e917574499a62cd961ff65e5be27acdd/nokia_C01_plus-og_image.jpg?w=1200" }
+          "data": {
+            "src": "https://beebom.com/wp-content/uploads/2018/06/Best-4G-Phones-Under-5000.jpg?w=750&quality=75"
+          }
         },
-        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://telecomtalk.info/wp-content/uploads/2020/07/lava-z61-pro-price-specs.jpg" } },
-        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://gionee.co.in/images/f8-d-1.jpg" } },
-        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://cdn.ndtv.com/tech/images/reliance_digital_lyf_water_5_front_back_small.jpg?downsize=278:209&output-quality=80" } },
-        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://www.mobilebd.co/wp-content/uploads/2021/04/Itel-S41-Official-image-.jpg" } },
-        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://mobiledrop.in/wp-content/uploads/2021/10/JioPhone-Next-Review-1024x576.jpg" } },
-        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://www.lavamobiles.com/Product/z1/images/gallery-img/z1-img-4.jpg" } },
-        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51b-MTiKdEL.jpg" } },
-        { "type": "image", "mutability": "IMMUTABLE", "data": { "src": "https://images.samsung.com/is/image/samsung/in-feature-samsung-guru-b310e--46944407?$ORIGIN_PNG$" } },
         {
           "type": "image",
           "mutability": "IMMUTABLE",
-          "data": { "src": "https://images.ctfassets.net/wcfotm6rrl7u/4YeT043NqJmOAZBFfec1YE/e254e488b5e0f1e09052667cb6bb146d/nokia_5310-DTC-FMRadio-desktop.png?w=881&h=1012&fm=avif&q=88" }
+          "data": {
+            "src": "https://images.ctfassets.net/wcfotm6rrl7u/3cyt9qruCz7b5DEoLZ2YAC/e917574499a62cd961ff65e5be27acdd/nokia_C01_plus-og_image.jpg?w=1200"
+          }
+        },
+        {
+          "type": "image",
+          "mutability": "IMMUTABLE",
+          "data": {
+            "src": "https://telecomtalk.info/wp-content/uploads/2020/07/lava-z61-pro-price-specs.jpg"
+          }
+        },
+        {
+          "type": "image",
+          "mutability": "IMMUTABLE",
+          "data": { "src": "https://gionee.co.in/images/f8-d-1.jpg" }
+        },
+        {
+          "type": "image",
+          "mutability": "IMMUTABLE",
+          "data": {
+            "src": "https://cdn.ndtv.com/tech/images/reliance_digital_lyf_water_5_front_back_small.jpg?downsize=278:209&output-quality=80"
+          }
+        },
+        {
+          "type": "image",
+          "mutability": "IMMUTABLE",
+          "data": {
+            "src": "https://www.mobilebd.co/wp-content/uploads/2021/04/Itel-S41-Official-image-.jpg"
+          }
+        },
+        {
+          "type": "image",
+          "mutability": "IMMUTABLE",
+          "data": {
+            "src": "https://mobiledrop.in/wp-content/uploads/2021/10/JioPhone-Next-Review-1024x576.jpg"
+          }
+        },
+        {
+          "type": "image",
+          "mutability": "IMMUTABLE",
+          "data": {
+            "src": "https://www.lavamobiles.com/Product/z1/images/gallery-img/z1-img-4.jpg"
+          }
+        },
+        {
+          "type": "image",
+          "mutability": "IMMUTABLE",
+          "data": {
+            "src": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51b-MTiKdEL.jpg"
+          }
+        },
+        {
+          "type": "image",
+          "mutability": "IMMUTABLE",
+          "data": {
+            "src": "https://images.samsung.com/is/image/samsung/in-feature-samsung-guru-b310e--46944407?$ORIGIN_PNG$"
+          }
+        },
+        {
+          "type": "image",
+          "mutability": "IMMUTABLE",
+          "data": {
+            "src": "https://images.ctfassets.net/wcfotm6rrl7u/4YeT043NqJmOAZBFfec1YE/e254e488b5e0f1e09052667cb6bb146d/nokia_5310-DTC-FMRadio-desktop.png?w=881&h=1012&fm=avif&q=88"
+          }
         }
       ]
     },
