@@ -13,7 +13,6 @@ const Contribute = () => {
   const location = useLocation();
   const { check } = !location.state ? "login" : location.state;
 
-  const [userUpdata, setUserupdata] = useState([]);
   const [isLoading, setIsloading] = useState(false);
   const [isverified, setVerified] = useState(false);
   const [cookies, setCookie, removeCookie] = useCookies(["uToken"]);
@@ -29,11 +28,7 @@ const Contribute = () => {
           if (response.data.token !== undefined) {
             setCookie("uToken", response.data.token, { path: "/" });
             setVerified(true);
-          } else if (
-            response.data == "Expired token" ||
-            response.data == "Signature verification failed" ||
-            response.data == "error"
-          ) {
+          } else if (response.data == "Expired token" || response.data == "Signature verification failed" || response.data == "error") {
             setVerified(false);
             removeCookie("uToken");
           }
@@ -60,25 +55,13 @@ const Contribute = () => {
             zIndex: "98",
           }}
         >
-          <img
-            src="dogcur.gif"
-            className="spinner display-1 position-absolute top-50 start-50 translate-middle"
-          />
+          <img src="dogcur.gif" className="spinner display-1 position-absolute top-50 start-50 translate-middle" />
         </div>
       )}
 
       {((!isverified && !location.state) || (!isverified && check == "Login")) && <Login />}
       {!isverified && check == "SignUp" && <SignUp />}
-      {isverified && <AddFiles udata={setUserupdata} logout={setVerified} />}
-
-      {userUpdata.length !== 0 && (
-        <div className="container">
-          <h3 className="display-6 fw-bold text-center mt-5 my-2">Files Uploaded By You</h3>
-          {userUpdata.map((ini) => (
-            <File fname={ini.filename} batch={ini.batch} uname={ini.name} date={ini.Udate} />
-          ))}
-        </div>
-      )}
+      {isverified && <AddFiles logout={setVerified} />}
     </>
   );
 };

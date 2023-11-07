@@ -5,6 +5,7 @@ import Axios from "axios";
 import { motion } from "framer-motion";
 import toast, { Toaster } from "react-hot-toast";
 import AddBlog from "./addblog";
+import File from "./files";
 
 const AddFiles = (props) => {
   const bgDark = {
@@ -20,6 +21,7 @@ const AddFiles = (props) => {
   const [crnt, setCrnt] = useState(1);
   document.title = "ExamWiz-AddFiles";
 
+  const [userUpdata, setUserupdata] = useState([]);
   const [tresponse, setTresponse] = useState("");
   const [aresponse, setResponse] = useState("");
   const [cookies, setCookie, removeCookie] = useCookies(["uToken"]);
@@ -54,17 +56,13 @@ const AddFiles = (props) => {
       headers: { "content-type": "multipart/form-data" },
     };
 
-    Axios.post(
-      "https://blogpro.tech/apiPhp/myFiles/uploadFile.php?blog=0&token=" + cookies.uToken,
-      FD,
-      config
-    )
+    Axios.post("https://blogpro.tech/apiPhp/myFiles/uploadFile.php?blog=0&token=" + cookies.uToken, FD, config)
       .then((response) => {
         console.log(response);
         setResponse(response.data.statusText);
         setTresponse(response.data);
         setCookie("uToken", response.data.rtoken.token, { path: "/" });
-        props.udata(response.data.userData);
+        setUserupdata(response.data.userData);
         setUdata({ course: "", batch: "" });
         e.target.FileUp.value = "";
         setIsloading(false);
@@ -79,23 +77,18 @@ const AddFiles = (props) => {
 
   return (
     <>
-      <div style={bgDark}></div>
       <div className="container d-flex align-items-center" style={{ height: "100%" }}>
         <div className="row gap-5">
-          <div className="col-md-3 col-12 d-flex align-items-center">
-            <div className="sideButtons w-100">
-              <button
-                className={`btn  fw-bold ${crnt == 1 ? "btn-info" : "btn-secondary"}`}
-                onClick={() => setCrnt(1)}
-              >
-                Add Files
-              </button>
-              <button
-                className={`btn  fw-bold ${crnt == 2 ? "btn-info" : "btn-secondary"}`}
-                onClick={() => setCrnt(2)}
-              >
-                Add Blog
-              </button>
+          <div className="col-md-3 col-12 d-flex align-items-center ">
+            <div style={bgDark} className="d-flex align-items-center">
+              <div className="sideButtons w-100">
+                <button className={`btn  fw-bold ${crnt == 1 ? "btn-info" : "btn-secondary"}`} onClick={() => setCrnt(1)}>
+                  Add Files
+                </button>
+                <button className={`btn  fw-bold ${crnt == 2 ? "btn-info" : "btn-secondary"}`} onClick={() => setCrnt(2)}>
+                  Add Blog
+                </button>
+              </div>
             </div>
           </div>
           <div className="col-md-8 col-12">
@@ -124,19 +117,11 @@ const AddFiles = (props) => {
                         zIndex: "98",
                       }}
                     >
-                      <img
-                        src="dogcur.gif"
-                        className="spinner display-1 position-absolute top-50 start-50 translate-middle"
-                      />
+                      <img src="dogcur.gif" className="spinner display-1 position-absolute top-50 start-50 translate-middle" />
                     </div>
                   )}
 
-                  <form
-                    id="uform"
-                    onSubmit={handlesubmit}
-                    className="row g-3 w-100 ms-auto p-4 my-5 text-light rounded"
-                    style={{ background: "#36393f" }}
-                  >
+                  <form id="uform" onSubmit={handlesubmit} className="row g-3 w-100 ms-auto p-4 my-5 text-light rounded" style={{ background: "#36393f" }}>
                     <div className="d-flex justify-content-between align-items-center">
                       <h3 className="fw-bold">Add Files</h3>
                       <button
@@ -154,10 +139,7 @@ const AddFiles = (props) => {
                               >
                                 <i className="fa-solid fa-check"></i>
                               </a>
-                              <a
-                                className="btn bg-dark text-light"
-                                onClick={() => toast.dismiss(t.id)}
-                              >
+                              <a className="btn bg-dark text-light" onClick={() => toast.dismiss(t.id)}>
                                 <i className="fa-solid fa-xmark"></i>
                               </a>
                             </span>
@@ -168,7 +150,7 @@ const AddFiles = (props) => {
                         <i className="fa-solid fa-right-from-bracket p-2"></i>
                       </button>
                     </div>
-                    {tresponse.length !== 0 && <p className="fw-bold text-info">{tresponse}</p>}
+                    {tresponse.length !== 0 && <p className="fw-bold text-info">{aresponse}</p>}
 
                     <hr />
                     <div className="col-12 col-md-6">
@@ -184,8 +166,7 @@ const AddFiles = (props) => {
                           e.target.value == "null"
                             ? toast((t) => (
                                 <span className="fw-bold d-flex align-items-center gap-2">
-                                  <i className="fa fa-exclamation-triangle text-warning fs-3"></i>{" "}
-                                  Select a Course
+                                  <i className="fa fa-exclamation-triangle text-warning fs-3"></i> Select a Course
                                 </span>
                               ))
                             : setUdata({ ...udata, course: e.target.value })
@@ -214,8 +195,7 @@ const AddFiles = (props) => {
                           e.target.value == "null"
                             ? toast((t) => (
                                 <span className="fw-bold d-flex align-items-center gap-2">
-                                  <i className="fa fa-exclamation-triangle text-warning fs-3"></i>{" "}
-                                  Select Batch/Year
+                                  <i className="fa fa-exclamation-triangle text-warning fs-3"></i> Select Batch/Year
                                 </span>
                               ))
                             : setUdata({ ...udata, batch: e.target.value })
@@ -225,26 +205,16 @@ const AddFiles = (props) => {
                         <option selected value="null">
                           Select Batch
                         </option>
-                        {[...Array(udata.course == "BCA" || udata.course == "BBA" ? 6 : 3)].map(
-                          (ini, i) => (
-                            <option value={`${udata.course} ${i + 1}`}>{`${udata.course} ${
-                              i + 1
-                            }`}</option>
-                          )
-                        )}
+                        {[...Array(udata.course == "BCA" || udata.course == "BBA" ? 6 : 3)].map((ini, i) => (
+                          <option value={`${udata.course} ${i + 1}`}>{`${udata.course} ${i + 1}`}</option>
+                        ))}
                       </select>
                     </div>
                     <div className="col-12">
                       <label for="FileUp" className="form-label">
                         Add Files (*PDF only)
                       </label>
-                      <input
-                        type="file"
-                        className="form-control bg-dark text-light border-0"
-                        id="FileUp"
-                        name="FileUp"
-                        required
-                      />
+                      <input type="file" className="form-control bg-dark text-light border-0" id="FileUp" name="FileUp" required />
                     </div>
 
                     <div className="col-12 py-2">
@@ -257,6 +227,15 @@ const AddFiles = (props) => {
               </motion.div>
             )}
             {crnt == 2 && <AddBlog props={props} />}
+
+            {userUpdata.length !== 0 && (
+              <div className="container">
+                <h3 className="display-6 fw-bold text-center mt-5 my-2">Files Uploaded By You</h3>
+                {userUpdata.map((ini) => (
+                  <File fname={ini.filename} batch={ini.batch} uname={ini.name} date={ini.Udate} />
+                ))}
+              </div>
+            )}
           </div>
         </div>
       </div>
