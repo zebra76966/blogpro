@@ -7,39 +7,6 @@ import { motion } from "framer-motion";
 const Login = () => {
   document.title = "ExamWiz-Login";
 
-  // Linkedin shananingans Starts==>
-  useEffect(() => {
-    const urlParams = new URLSearchParams(window.location.search);
-    const code = urlParams.get("code");
-    const states = urlParams.get("state");
-
-    if (code !== null) {
-      console.log(code);
-      const payload = {
-        "Content-Type": "application/x-www-form-urlencoded",
-        client_id: "86lh81ek7qe4xe",
-        client_secret: "5a0wqOmj4p3iSMEu",
-        grant_type: "authorization_code",
-        code: { code },
-        state: states,
-        redirect_uri: "https://blogpro-sooty.vercel.app/contribute",
-      };
-      console.log(payload);
-
-      // Use this end point in your backend running from here will throw CORS err
-      Axios.post(`https://www.linkedin.com/oauth/v2/accessToken`, {}, payload)
-        .then((response) => {
-          // Access token
-          console.log(response.data);
-        })
-        .catch((error) => {
-          console.log(error);
-        });
-    }
-  }, []);
-
-  // Linked in shananingans End===>
-
   const [cookies, setCookie, removeCookie] = useCookies(["uToken"]);
   const [response, setResponse] = useState([]);
   const [tresponse, setTresponse] = useState("");
@@ -88,10 +55,6 @@ const Login = () => {
         <form id="uform" onSubmit={handlesubmit} className="row g-3 col-11 col-md-5 p-4 my-5 text-light rounded" style={{ background: "#36393f" }}>
           <h3 className="fw-bold">Login</h3>
           {tresponse.length !== 0 && <p className="fw-bold text-info">{tresponse}</p>}
-
-          <a href="https://www.linkedin.com/oauth/v2/authorization?response_type=code&client_id=86lh81ek7qe4xe&redirect_uri=https://blogpro-sooty.vercel.app/contribute&scope=openid,profile,email">
-            Login linkedin
-          </a>
           <hr />
           <div className="col-12">
             <label for="Email" className="form-label">
