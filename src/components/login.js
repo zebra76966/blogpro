@@ -22,7 +22,7 @@ const Login = () => {
         grant_type: "authorization_code",
         code: { code },
         state: states,
-        redirect_uri: "http://localhost:3000/login",
+        redirect_uri: "https://blogpro-sooty.vercel.app/contribute",
       };
       console.log(payload);
 
@@ -89,7 +89,9 @@ const Login = () => {
           <h3 className="fw-bold">Login</h3>
           {tresponse.length !== 0 && <p className="fw-bold text-info">{tresponse}</p>}
 
-          <a href="https://www.linkedin.com/oauth/v2/authorization?response_type=code&client_id=86lh81ek7qe4xe&redirect_uri=http://localhost:3000/login&scope=openid,profile,email">Login linkedin</a>
+          <a href="https://www.linkedin.com/oauth/v2/authorization?response_type=code&client_id=86lh81ek7qe4xe&redirect_uri=https://blogpro-sooty.vercel.app/contribute&scope=openid,profile,email">
+            Login linkedin
+          </a>
           <hr />
           <div className="col-12">
             <label for="Email" className="form-label">
