@@ -56,7 +56,7 @@ const AddFiles = (props) => {
       headers: { "content-type": "multipart/form-data" },
     };
 
-    Axios.post("https://blogpro.tech/apiPhp/myFiles/uploadFile.php?blog=0&token=" + cookies.uToken, FD, config)
+    Axios.post("https://zebra.42web.io/apiPhp/myFiles/uploadFile.php?blog=0&token=" + cookies.uToken, FD, config)
       .then((response) => {
         console.log(response);
         setResponse(response.data.statusText);

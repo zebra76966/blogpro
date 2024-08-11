@@ -17,7 +17,7 @@ const Download = () => {
 
   useEffect(() => {
     setIsloading(true);
-    Axios.post("https://blogpro.tech/api.php?blog=0")
+    Axios.post("https://zebra.42web.io/api.php?blog=0")
       .then((response) => response)
       .then((data) => {
         setAllFiles(data.data);
@@ -48,21 +48,13 @@ const Download = () => {
             zIndex: "98",
           }}
         >
-          <img
-            src="dogcur.gif"
-            className="spinner display-1 position-absolute top-50 start-50 translate-middle"
-          />
+          <img src="dogcur.gif" className="spinner display-1 position-absolute top-50 start-50 translate-middle" />
         </div>
       )}
       <div className="container mt-5 px-4">
         <div className="col-md-12 pb-5">
           <div className="search">
-            <input
-              type="text"
-              className="form-control"
-              placeholder="Search Files"
-              onChange={(e) => setSearch(e.target.value.toLowerCase())}
-            />
+            <input type="text" className="form-control" placeholder="Search Files" onChange={(e) => setSearch(e.target.value.toLowerCase())} />
             <i className="fa fa-search fs-2"></i>
           </div>
         </div>
@@ -70,31 +62,13 @@ const Download = () => {
         {!location.state &&
           allFiles.map((ini) => {
             if (ini.filename.toLowerCase().includes(searched)) {
-              return (
-                <Files
-                  fname={ini.filename}
-                  batch={ini.batch}
-                  key={ini.id}
-                  date={ini.Udate}
-                  uname={ini.name}
-                />
-              );
+              return <Files fname={ini.filename} batch={ini.batch} key={ini.id} date={ini.Udate} uname={ini.name} />;
             }
           })}
 
         {location.state &&
           allFiles.map(
-            (ini) =>
-              grade === ini.batch &&
-              ini.filename.toLowerCase().includes(searched) && (
-                <Files
-                  fname={ini.filename}
-                  batch={ini.batch}
-                  key={ini.id}
-                  date={ini.Udate}
-                  uname={ini.name}
-                />
-              )
+            (ini) => grade === ini.batch && ini.filename.toLowerCase().includes(searched) && <Files fname={ini.filename} batch={ini.batch} key={ini.id} date={ini.Udate} uname={ini.name} />
           )}
       </div>
     </>

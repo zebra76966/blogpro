@@ -29,7 +29,7 @@ const SignUp = () => {
       headers: { "content-type": "multipart/form-data" },
     };
 
-    Axios.post("https://blogpro.tech/apiSignup.php", FD, config)
+    Axios.post("https://zebra.42web.io/apiSignup.php", FD, config)
       .then((response) => {
         setResponse(response.data);
         setUdata({ uname: "", uemail: "", pw: "" });
@@ -53,12 +53,7 @@ const SignUp = () => {
       }}
     >
       <div className="d-flex h-100 align-items-center justify-content-center">
-        <form
-          id="uform"
-          onSubmit={handlesubmit}
-          className="row g-3 col-11 col-md-5 p-4 my-5 text-light rounded"
-          style={{ background: "#36393f" }}
-        >
+        <form id="uform" onSubmit={handlesubmit} className="row g-3 col-11 col-md-5 p-4 my-5 text-light rounded" style={{ background: "#36393f" }}>
           <h3 className="fw-bold">Sign Up</h3>
           {response !== "" && <p className="fw-bold text-info">{response}</p>}
           <hr />
@@ -112,11 +107,7 @@ const SignUp = () => {
           </div>
           <p className="lead">
             Already have an Account?
-            <Link
-              to="/contribute"
-              state={{ check: "Login" }}
-              className="link-info text-decoration-none fw-bold"
-            >
+            <Link to="/contribute" state={{ check: "Login" }} className="link-info text-decoration-none fw-bold">
               {" "}
               Login
             </Link>

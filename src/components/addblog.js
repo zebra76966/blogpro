@@ -57,10 +57,7 @@ const AddBlog = (props) => {
       FD.append("data", stringDat);
       console.log([...FD.entries()]);
 
-      Axios.post(
-        `https://blogpro.tech/apiPhp/myFiles/uploadFile.php?blog=1&token=` + cookies.uToken,
-        FD
-      )
+      Axios.post(`https://zebra.42web.io/apiPhp/myFiles/uploadFile.php?blog=1&token=` + cookies.uToken, FD)
         .then((response) => {
           console.log(response);
           // setResponse(response.data.statusText);
@@ -117,19 +114,11 @@ const AddBlog = (props) => {
               zIndex: "98",
             }}
           >
-            <img
-              src="dogcur.gif"
-              className="spinner display-1 position-absolute top-50 start-50 translate-middle"
-            />
+            <img src="dogcur.gif" className="spinner display-1 position-absolute top-50 start-50 translate-middle" />
           </div>
         )}
 
-        <form
-          id="uform"
-          onSubmit={handlesubmit}
-          className="row g-3 w-100 ms-auto p-4 my-5 text-light rounded"
-          style={{ background: "#36393f" }}
-        >
+        <form id="uform" onSubmit={handlesubmit} className="row g-3 w-100 ms-auto p-4 my-5 text-light rounded" style={{ background: "#36393f" }}>
           <div className="d-flex justify-content-between align-items-center">
             <h3 className="fw-bold">Add Blog</h3>
             <button
@@ -196,8 +185,7 @@ const AddBlog = (props) => {
                 e.target.value == ""
                   ? toast((t) => (
                       <span className="fw-bold d-flex align-items-center gap-2">
-                        <i className="fa fa-exclamation-triangle text-warning fs-3"></i> Add a
-                        Subheading
+                        <i className="fa fa-exclamation-triangle text-warning fs-3"></i> Add a Subheading
                       </span>
                     ))
                   : setUdata({ ...udata, subheading: e.target.value })
@@ -219,8 +207,7 @@ const AddBlog = (props) => {
                 e.target.value == ""
                   ? toast((t) => (
                       <span className="fw-bold d-flex align-items-center gap-2">
-                        <i className="fa fa-exclamation-triangle text-warning fs-3"></i> Add a Blog
-                        Image
+                        <i className="fa fa-exclamation-triangle text-warning fs-3"></i> Add a Blog Image
                       </span>
                     ))
                   : setUdata({ ...udata, bimg: e.target.value })
@@ -244,8 +231,7 @@ const AddBlog = (props) => {
                 e.target.value == ""
                   ? toast((t) => (
                       <span className="fw-bold d-flex align-items-center gap-2">
-                        <i className="fa fa-exclamation-triangle text-warning fs-3"></i> Add a Blog
-                        tags{" "}
+                        <i className="fa fa-exclamation-triangle text-warning fs-3"></i> Add a Blog tags{" "}
                       </span>
                     ))
                   : setUdata({ ...udata, tags: e.target.value })
@@ -257,11 +243,7 @@ const AddBlog = (props) => {
             <label for="Content" className="form-label">
               Add Content
             </label>
-            <RichEditor
-              viewState={""}
-              viewBox={true}
-              onChange={(e) => setUdata({ ...udata, contents: e })}
-            />
+            <RichEditor viewState={""} viewBox={true} onChange={(e) => setUdata({ ...udata, contents: e })} />
           </div>
           <div className="col-12">
             <label for="author" className="form-label">
@@ -277,8 +259,7 @@ const AddBlog = (props) => {
                 e.target.value == ""
                   ? toast((t) => (
                       <span className="fw-bold d-flex align-items-center gap-2">
-                        <i className="fa fa-exclamation-triangle text-warning fs-3"></i> Mention
-                        Author{" "}
+                        <i className="fa fa-exclamation-triangle text-warning fs-3"></i> Mention Author{" "}
                       </span>
                     ))
                   : setUdata({ ...udata, author: e.target.value })

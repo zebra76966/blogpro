@@ -31,39 +31,22 @@ const Files = (fileDat) => {
             <cite title="Source Title">{fileDat.date}</cite>
           </figcaption>
         </div>
-        <div
-          className="boxShadow d-flex justify-content-between py-2 px-0 align-items-center align-middle rounded-pill row"
-          key={fileDat.id}
-        >
+        <div className="boxShadow d-flex justify-content-between py-2 px-0 align-items-center align-middle rounded-pill row" key={fileDat.id}>
           <div className="col-md-2 col-1 d-flex justify-content-between">
             <img src="logo192.png" className="" style={imgFit} />
             <div className="vr"></div>
           </div>
-          <div
-            className="col-2 d-md-flex d-none justify-content-between align-items-center"
-            style={{ height: "50px" }}
-          >
+          <div className="col-2 d-md-flex d-none justify-content-between align-items-center" style={{ height: "50px" }}>
             <p className="my-0 text-truncate lead fs-6 fw-light">{fileDat.batch}</p>
             <div className="vr"></div>
           </div>
-          <div
-            className="col-5 d-flex justify-content-between align-items-center"
-            style={{ height: "50px" }}
-          >
+          <div className="col-5 d-flex justify-content-between align-items-center" style={{ height: "50px" }}>
             <p className="my-0 lead fs-6 fw-light text-truncate">{fileDat.fname}</p>
             <div className="vr"></div>
           </div>
-          <div
-            className="col-md-2 col-4 d-flex align-items-center justify-content-end"
-            style={{ height: "50px" }}
-          >
+          <div className="col-md-2 col-4 d-flex align-items-center justify-content-end" style={{ height: "50px" }}>
             <span className="my-0 lead fs-6 fw-bold px-2">Download</span>
-            <a
-              href={
-                "https://blogpro.tech/downloadApi.php?file=" + encodeURIComponent(fileDat.fname)
-              }
-              className="btn bg-dark btn-lg text-light rounded-circle"
-            >
+            <a href={"https://zebra.42web.io/downloadApi.php?file=" + encodeURIComponent(fileDat.fname)} className="btn bg-dark btn-lg text-light rounded-circle">
               <i className="fa-solid fa-file-pdf"></i>
             </a>
           </div>
